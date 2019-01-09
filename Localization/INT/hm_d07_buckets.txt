@@ -1,0 +1,43 @@
+[D07_Bucket_vercotti SH7_DialogPhraseBucket]
+Topic="Brian Vercotti"
+QTETitle=""
+
+[D07_Bucket_chase_win SH7_DialogPhraseBucket]
+Topic="chase_win"
+QTETitle=""
+
+[D07_Bucket_chase SH7_DialogPhraseBucket]
+Topic="Why follow him?"
+QTETitle=""
+
+[D07_Bucket_chase_qte SH7_DialogPhraseBucket]
+Topic="chase_qte"
+QTETitle="I was just being brave"
+
+[D07_Bucket_chase_lose SH7_DialogPhraseBucket]
+Topic="chase_lose"
+QTETitle=""
+
+[D07_Bucket_person SH7_DialogPhraseBucket]
+Topic="The third man"
+QTETitle=""
+
+[D07_Bucket_pray SH7_DialogPhraseBucket]
+Topic="Pray continue"
+QTETitle=""
+
+[D07_Bucket_time SH7_DialogPhraseBucket]
+Topic="Time to return"
+QTETitle=""
+
+[D07_Bucket_statement SH7_DialogPhraseBucket]
+Topic="Your story"
+QTETitle=""
+
+[D07_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D07 SH7_Dialog]
+Info="Scotland Yard"
+

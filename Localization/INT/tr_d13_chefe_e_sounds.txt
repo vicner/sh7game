@@ -1,0 +1,16 @@
+[Intro_Chefe_e_5 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Attention! The train is arriving at the station! Please stand well away from the platform edge!"
+Subtitles[0]=(Text="Attention! The train is arriving at the station! Please stand well away from the platform edge!")
+Comment=""
+
+[Intro_Chefe_e_11 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I... I don't know... It's as if... the train vanished into thin air!"
+Subtitles[0]=(Text="I... I don't know... It's as if... the train vanished into thin air!")
+Comment=""
+

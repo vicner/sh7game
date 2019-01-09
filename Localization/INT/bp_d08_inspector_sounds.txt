@@ -1,0 +1,48 @@
+[intro2_Inspector_letter SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=0.5 Easein=0.2] Ah yes, and one more thing. The constable told me that at the time of his arrest, the fellow was writing a [ey_u type=quad v2=0.3 v3=0.3 Easeout=0.2 Duration=0.5 Easein=0.1] letter."
+Subtitles[0]=(Text="Ah yes, and one more thing. The constable told me that at the time of his arrest, the fellow was writing a letter.")
+Comment=""
+
+[intro2_Inspector_lucky SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=0.5 Easein=0.2] Mister Holmes, I'm glad to see you."
+Subtitles[0]=(Text="Mr. Holmes, I'm glad to see you.")
+Comment=""
+
+[intro2_Inspector_of_course SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_d type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=1 Easein=0.2] Of course! It's in the evidence room. At your disposal! Admit that for once, Mister Holmes, Scotland Yard is a step ahead of you, [lc_u type=quad v2=0.6 v3=0.6 Easeout=1 Duration=0.5 Easein=0.2] eh?"
+Subtitles[0]=(Text="Of course! It's in the evidence room. At your disposal! Admit that for once, Mr. Holmes, Scotland Yard is a step ahead of you, eh?")
+Comment=""
+
+[intro2_Inspector_suspect SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=1] We have a new suspect: [ey_u type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=0.5 Easein=0.2] Liam Hurtley! I am thinking that this case will be resolved very quickly now."
+Subtitles[0]=(Text="We have a new suspect: Liam Hurtley! I am thinking that this case will be resolved very quickly now.")
+Comment=""
+
+[intro2_Inspector_well SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[ey_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=0.5 Easein=0.2] Well, the constable that I left at Woodman's Lee noticed a suspicious individual prowling around during the night."
+Subtitles[0]=(Text="Well, the constable that I left at Woodman's Lee noticed a suspicious individual prowling around during the night.")
+Comment=""
+
+[intro2_Inspector_yes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.6 v3=0.6 Easeout=1 Duration=1 Easein=0.2] [lc_u type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=0.5 Easein=0.2] Yes. He refuses to speak with us, but we will make him talk."
+Subtitles[0]=(Text="Yes. He refuses to speak with us, but we will make him talk.")
+Comment=""
+

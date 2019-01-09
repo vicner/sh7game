@@ -1,0 +1,48 @@
+[intro2_Sherlock_Breathtaking SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[ls_uc type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=0.5 Easein=0.2] Breathtaking."
+Subtitles[0]=(Text="Breathtaking.")
+Comment=""
+
+[intro2_Sherlock_explain SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Interesting. [b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=0.5 Easein=0.2] Pray tell."
+Subtitles[0]=(Text="Interesting. Pray tell.")
+Comment=""
+
+[intro2_Sherlock_happen SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[H type=quad v2=0.4 v3=0.4 Easeout=1 Duration=0.5 Easein=0.5] As always. [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=0.5 Easein=0.2] What happened?"
+Subtitles[0]=(Text="As always. What happened?")
+Comment=""
+
+[intro2_Sherlock_have SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=0.5 Easein=0.2] Do you have it?"
+Subtitles[0]=(Text="Do you have it?")
+Comment=""
+
+[intro2_Sherlock_here SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] Do you have him here?"
+Subtitles[0]=(Text="Do you have him here?")
+Comment=""
+
+[intro2_Sherlock_perfect SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[D type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=0.5 Easein=0.2] Let us hope so."
+Subtitles[0]=(Text="Let us hope so.")
+Comment=""
+

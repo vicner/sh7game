@@ -1,0 +1,8 @@
+[Intro2_Watson_lucky SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Barely unscathed! By a very small margin! And treacherous is an understatement!"
+Subtitles[0]=(Text="Barely unscathed! By a very small margin! And treacherous is an understatement!")
+Comment=""
+

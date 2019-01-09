@@ -1,0 +1,31 @@
+[D05_Bucket_turner_qte_lose SH7_DialogPhraseBucket]
+Topic="turner_qte_lose"
+QTETitle=""
+
+[D05_Bucket_truth_win SH7_DialogPhraseBucket]
+Topic="truth_win"
+QTETitle=""
+
+[D05_Bucket_truth_qte SH7_DialogPhraseBucket]
+Topic="truth_qte"
+QTETitle="I was sincere with you"
+
+[D05_Bucket_truth SH7_DialogPhraseBucket]
+Topic="The whole truth"
+QTETitle=""
+
+[D05_Bucket_rushed_win SH7_DialogPhraseBucket]
+Topic="rushed_win"
+QTETitle=""
+
+[D05_Bucket_rushed_qte SH7_DialogPhraseBucket]
+Topic="rushed_qte"
+QTETitle="I can walk very quickly"
+
+[D05_Bucket_rushed SH7_DialogPhraseBucket]
+Topic="Walking to window"
+QTETitle=""
+
+[D05 SH7_Dialog]
+Info="Mr. Turner`s Apartment"
+

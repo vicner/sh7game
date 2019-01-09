@@ -1,0 +1,8 @@
+[MartynGuilty_Inspector_what SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Aha, I knew it! I'll send the lads around to arrest him."
+Subtitles[0]=(Text="Aha, I knew it! I'll send the lads around to arrest him.")
+Comment=""
+

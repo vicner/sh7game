@@ -1,0 +1,32 @@
+[neligan_Neligan_bills SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.8 v3=0.8 Easeout=0.5 Duration=1 Easein=0.1] My father's securities! [b_u type=quad v2=0.4 v3=0.4 Easeout=0.2 Duration=1 Easein=0.2] Incredible! [H type=quad v2=0.9 v3=0.9 Easeout=2 Duration=0.5 Easein=1] But how did you get them?"
+Subtitles[0]=(Text="My father's securities! Incredible! But how did you get them?")
+Comment=""
+
+[neligan_Neligan_bye SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Goodbye, Mister Holmes, and thank you, a thousand times thank you."
+Subtitles[0]=(Text="Goodbye, Mr. Holmes, and thank you, a thousand times thank you.")
+Comment=""
+
+[neligan_Neligan_genius SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.9 v3=0.9 Easeout=0.5 Duration=1.5 Easein=0.5] Tell me! This is extraordinary! [b_u type=quad v2=0.4 v3=0.4 Easeout=0.2 Duration=1.5 Easein=0.2] [ey_u type=quad v2=0.4 v3=0.4 Easeout=0.1 Duration=1.5 Easein=0.1] You are a genius!"
+Subtitles[0]=(Text="Tell me! This is extraordinary! You are a genius!")
+Comment=""
+
+[neligan_Neligan_thank SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ah, Mister Holmes! Inspector Lestrade told me that I should thank you for clearing my name. He also said that you were waiting for me here. I came as fast as I could! I cannot thank you enough. It is all because of you that this nightmare is finally over."
+Subtitles[0]=(Text="Ah, Mr. Holmes! Inspector Lestrade told me that I should thank you for clearing my name. He also said that you were waiting for me here. I came as fast as I could! I cannot thank you enough. It is all because of you that this nightmare is finally over.")
+Comment=""
+

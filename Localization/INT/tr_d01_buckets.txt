@@ -1,0 +1,31 @@
+[D01_Bucket_anomalyQTE SH7_DialogPhraseBucket]
+Topic="anomalyQTE"
+QTETitle="Master's reports are confidential"
+
+[D01_Bucket_anomaly SH7_DialogPhraseBucket]
+Topic="Anything unusual yesterday?"
+QTETitle=""
+
+[D01_Bucket_passagers SH7_DialogPhraseBucket]
+Topic="Problem with passengers"
+QTETitle=""
+
+[D01_Bucket_nosuccess SH7_DialogPhraseBucket]
+Topic="nosuccess"
+QTETitle=""
+
+[D01_Bucket_message SH7_DialogPhraseBucket]
+Topic="Strange message"
+QTETitle=""
+
+[D01_Bucket_succesanomaly SH7_DialogPhraseBucket]
+Topic="succesanomaly"
+QTETitle=""
+
+[D01 SH7_Dialog]
+Info="Bridlington Station"
+
+[D01_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+

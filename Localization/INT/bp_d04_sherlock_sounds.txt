@@ -1,0 +1,72 @@
+[Reconstitution_Sherlock_animal SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Tell me, my friend, [b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1 Easein=0.5] what is the animal closest to man? [b_u type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=0.5 Easein=0.5] Morphologically, I mean?"
+Subtitles[0]=(Text="Tell me, my friend, what is the animal closest to man? Morphologically, I mean?")
+Comment=""
+
+[Reconstitution_Sherlock_maybe SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It is [b_dc type=quad v2=0.6 v3=0.6 Easeout=0.01 Duration=3.5] possible. [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] But if that is the case, then it alters many things."
+Subtitles[0]=(Text="It is possible. But if that is the case, then it alters many things.")
+Comment=""
+
+[Reconstitution_Sherlock_whaling SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] A spot of whaling, Watson. [eys_c type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=0.5 Easein=0.2] [lc_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1 Easein=0.5] Would you care to take part?"
+Subtitles[0]=(Text="A spot of whaling, Watson. Would you care to take part?")
+Comment=""
+
+[Reconstitution_Sherlock_peter SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.6 v3=0.6 Easeout=0.5 Duration=1 Easein=0.2] One of the harpoons on the wall of Black Peter's cabin should do quite nicely.[lc_u type=quad v2=0.3 v3=0.3 Easeout=1 Duration=1 Easein=0.5]"
+Subtitles[0]=(Text="One of the harpoons on the wall of Black Peter's cabin should do quite nicely.")
+Comment=""
+
+[Reconstitution_Sherlock_not SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[H type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=1] No."
+Subtitles[0]=(Text="No.")
+Comment=""
+
+[Reconstitution_Sherlock_knife SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=0.5 Easein=0.5] sailor's knife, Watson. [ey_u type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=0.5 Easein=0.2] Why was it on the floor?"
+Subtitles[0]=(Text="The sailor's knife, Watson. Why was it on the floor?")
+Comment=""
+
+[Reconstitution_Sherlock_butcher SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Watson, let us pay a visit to our butcher friend in Whitechapel. We require the carcass of a [b_u type=quad v2=0.7 v3=0.7 Easeout=0.07 Duration=3.5] well-fed pig."
+Subtitles[0]=(Text="Watson, let us pay a visit to our butcher friend in Whitechapel. We require the carcass of a well-fed pig.")
+Comment=""
+
+[Reconstitution_Sherlock_piercing SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I wish to impale one with a harpoon."
+Subtitles[0]=(Text="I wish to impale one with a harpoon.")
+Comment=""
+
+[Reconstitution_Sherlock_Hardly SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No. But we [b_u type=quad v2=0.6 v3=0.6 Easeout=0.5 Duration=0.5 Easein=0.2] do need to clarify what happened on the night of Black Peter's murder."
+Subtitles[0]=(Text="No. But we do need to clarify what happened on the night of Black Peter's murder.")
+Comment=""
+

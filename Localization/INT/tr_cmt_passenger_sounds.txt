@@ -1,0 +1,8 @@
+[TR_Cmt_Passenger_md122 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It's a scandal! An absolute outrage!"
+Subtitles[0]=(Text="It's a scandal! An absolute outrage!")
+Comment=""
+

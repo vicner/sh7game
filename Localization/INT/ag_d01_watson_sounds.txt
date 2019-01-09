@@ -1,0 +1,16 @@
+[Intro_Watson_ok SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[er type=quad v2=0.2 v3=0.2 Easeout=0.03 Duration=0.5 Easein=0.03] [ey_u type=lt v2=0.4 Easeout=1] [b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=0.5 Easein=0.5] All right, I'm going to examine it."
+Subtitles[0]=(Text="All right, I'm going to examine it.")
+Comment=""
+
+[Intro_Watson_violent SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] [b_dc type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=1 Easein=0.2] A [erd type=quad v2=0.4 v3=0.4 Easeout=0.07 Duration=1 Easein=0.07] violent [eys_u type=lt v2=0.3] act of aggression..."
+Subtitles[0]=(Text="A violent act of aggression...")
+Comment=""
+

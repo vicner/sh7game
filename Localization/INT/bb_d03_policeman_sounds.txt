@@ -1,0 +1,16 @@
+[Intro2_Policeman_ok SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="All right, Mister Holmes."
+Subtitles[0]=(Text="All right, Mr. Holmes.")
+Comment=""
+
+[Intro2_Policeman_mister SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes?"
+Subtitles[0]=(Text="Mr. Holmes?")
+Comment=""
+

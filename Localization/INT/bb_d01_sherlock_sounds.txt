@@ -1,0 +1,64 @@
+[Yes_Sherlock_none SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="None, Lestrade."
+Subtitles[0]=(Text="None, Lestrade.")
+Comment=""
+
+[Witnesses_Sherlock_people SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Was there anyone else here, apart from those gentlemen in the steam room?"
+Subtitles[0]=(Text="Was there anyone else here, apart from those gentlemen in the steam room?")
+Comment=""
+
+[Suspects_Sherlock_suspects SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Are you able to identify the men who were with the victim in the steam room?"
+Subtitles[0]=(Text="Are you able to identify the men who were with the victim in the steam room?")
+Comment=""
+
+[Suspects_Sherlock_conclusion SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, we shall see."
+Subtitles[0]=(Text="Well, we shall see.")
+Comment=""
+
+[No_Sherlock_objection SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Please wait, I need to do something first."
+Subtitles[0]=(Text="Please wait, I need to do something first.")
+Comment=""
+
+[intro4_Sherlock_well SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Very well, Lestrade."
+Subtitles[0]=(Text="Very well, Lestrade.")
+Comment=""
+
+[Call_Sherlock_ok SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I see."
+Subtitles[0]=(Text="I see.")
+Comment=""
+
+[Call_Sherlock_need SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You found no murder weapon?"
+Subtitles[0]=(Text="You found no murder weapon?")
+Comment=""
+

@@ -1,0 +1,72 @@
+[Crocker_Sherlock_heree SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Here is a piece of evidence that can be used in court."
+Subtitles[0]=(Text="Here is a piece of evidence that can be used in court.")
+Comment=""
+
+[Crocker_Sherlock_here SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Inspector, I give you Sir Eustace's killer. He tried his best to perform his own justice."
+Subtitles[0]=(Text="Inspector, I give you Sir Eustace's killer. He tried his best to perform his own justice.")
+Comment=""
+
+[Drama_Sherlock_sorry SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I apologise. Here is his letter of confession."
+Subtitles[0]=(Text="I apologise. Here is his letter of confession.")
+Comment=""
+
+[Lead_Sherlock_case SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I mentioned the murderers, not the case. It is obvious that the crime was committed by three criminals who cannot be the Randalls."
+Subtitles[0]=(Text="I mentioned the murderers, not the case. It is obvious that the crime was committed by three criminals who cannot be the Randalls.")
+Comment=""
+
+[Lead_Sherlock_afraid SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Inspector, I am afraid that the murderers have escaped us."
+Subtitles[0]=(Text="Inspector, I am afraid that the murderers have escaped us.")
+Comment=""
+
+[Drama_Sherlock_murderer SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="That is Sir Eustace's killer. He has performed his own brand of justice."
+Subtitles[0]=(Text="That is Sir Eustace's killer. He has performed his own brand of justice.")
+Comment=""
+
+[Drama_Sherlock_indeed SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You have no idea..."
+Subtitles[0]=(Text="You have no idea...")
+Comment=""
+
+[Lead_Sherlock_find SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You only need to find a gang of three thugs, wandering around... I can trust you to do that."
+Subtitles[0]=(Text="You only need to find a gang of three thugs, wandering around... I can trust you to do that.")
+Comment=""
+
+[Lead_Sherlock_doubt SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You'll find someone, I have no doubt of it. Goodbye, Inspector."
+Subtitles[0]=(Text="You'll find someone, I have no doubt of it. Goodbye, Inspector.")
+Comment=""
+

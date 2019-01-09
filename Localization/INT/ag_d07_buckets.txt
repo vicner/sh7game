@@ -1,0 +1,15 @@
+[D07_Bucket_Intro3 SH7_DialogPhraseBucket]
+Topic="Intro3"
+QTETitle=""
+
+[D07_Bucket_Intro2 SH7_DialogPhraseBucket]
+Topic="Intro2"
+QTETitle=""
+
+[D07_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D07 SH7_Dialog]
+Info="221B Baker Street - Watson's room"
+

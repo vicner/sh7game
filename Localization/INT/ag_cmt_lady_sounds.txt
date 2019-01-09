@@ -1,0 +1,8 @@
+[AG_Cmt_Lady_md029 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Oh, what a horrible thing to have happened..."
+Subtitles[0]=(Text="Oh, what a horrible thing to have happened...")
+Comment=""
+

@@ -1,0 +1,42 @@
+[Mappoint_AbbeyGrange Data_SH7_Mappoint]
+Label="Abbey Grange"
+
+[Mappoint_Baker Data_SH7_Mappoint]
+Label="Baker Street"
+
+[Mappoint_Beach Data_SH7_Mappoint]
+Label="Beach"
+
+[Mappoint_BlPet Data_SH7_Mappoint]
+Label="Black Peter"
+
+[Mappoint_ButSh Data_SH7_Mappoint]
+Label="Butcher Shop"
+
+[Mappoint_KewG Data_SH7_Mappoint]
+Label="Kew Gardens"
+
+[Mappoint_Mine Data_SH7_Mappoint]
+Label="Mine"
+
+[Mappoint_PolSt Data_SH7_Mappoint]
+Label="Poice Station"
+
+[Mappoint_Pub Data_SH7_Mappoint]
+Label="Pub"
+
+[Mappoint_Switch Data_SH7_Mappoint]
+Label="Switch"
+
+[Mappoint_TrStB Data_SH7_Mappoint]
+Label="Train Station B"
+
+[Mappoint_TrStC Data_SH7_Mappoint]
+Label="Train Station C"
+
+[Mappoint_TrStD Data_SH7_Mappoint]
+Label="Train Station D"
+
+[Mappoint_TrStE Data_SH7_Mappoint]
+Label="Train Station E"
+

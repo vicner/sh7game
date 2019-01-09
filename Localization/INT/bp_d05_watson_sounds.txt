@@ -1,0 +1,40 @@
+[intro2_Watson_murder SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.6 v3=0.6 Easeout=1 Duration=1 Easein=0.5] If it was luck, then it was a chance in a [A type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=0.5 Easein=0.2] thousand that night."
+Subtitles[0]=(Text="If it was luck, then it was a chance in a thousand that night.")
+Comment=""
+
+[intro2_Watson_ok SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[H type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=0.5 Easein=0.2] [b_d type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=1 Easein=0.2] Of course!"
+Subtitles[0]=(Text="Of course!")
+Comment=""
+
+[intro_Watson_little SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.6 v3=0.6 Easeout=1 Duration=1 Easein=0.5] \"A little experiment?\""
+Subtitles[0]=(Text="\"A little experiment?\"")
+Comment=""
+
+[intro2_Watson_pay SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=0.5 Easein=0.2] All right. But before we go, I suppose I'll have to pay for all of these carcasses you've happily [eys_c type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=0.5 Easein=0.1] mangled."
+Subtitles[0]=(Text="All right. But before we go, I suppose I'll have to pay for all of these carcasses you've happily mangled.")
+Comment=""
+
+[intro_Watson_room SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[D type=quad v2=0.5 v3=0.5 Easeout=1 Duration=0.5 Easein=0.2] Well, here we are in the preparation room. And I can't say that I like the smell of it much. [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] What do you intend to do?"
+Subtitles[0]=(Text="Well, here we are in the preparation room. And I can't say that I like the smell of it much. What do you intend to do?")
+Comment=""
+

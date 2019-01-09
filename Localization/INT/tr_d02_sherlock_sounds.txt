@@ -1,0 +1,24 @@
+[what_Sherlock_calm SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Please calm down, sir. What is your concern?"
+Subtitles[0]=(Text="Please calm down, sir. What is your concern?")
+Comment=""
+
+[wereyou_Sherlock_special SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Were you aboard the train that vanished last night?"
+Subtitles[0]=(Text="Were you aboard the train that vanished last night?")
+Comment=""
+
+[looklike_Sherlock_two SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Can you recall anything more specific about this fortunate group?"
+Subtitles[0]=(Text="Can you recall anything more specific about this fortunate group?")
+Comment=""
+

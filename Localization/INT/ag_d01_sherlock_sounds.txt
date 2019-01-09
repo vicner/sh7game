@@ -1,0 +1,96 @@
+[Goodbye_Sherlock_bye SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] [b_u type=lt v2=0.2] Goodbye, Inspector."
+Subtitles[0]=(Text="Goodbye, Inspector.")
+Comment=""
+
+[Intro_Sherlock_randalls SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[elu type=quad v2=0.2 v3=0.2 Easeout=0.07 Duration=1 Easein=0.07] [b_u type=lt v2=0.3 Easeout=0.5] What, [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] the [b_dc type=lt v2=0.3 Easeout=0.5] three Randalls? [lc_u type=lt v2=0.3 Easeout=0.5]"
+Subtitles[0]=(Text="What, the three Randalls?")
+Comment=""
+
+[Intro_Sherlock_dead SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] Sir [b_u type=lt v2=0.2 Easeout=0.5] Eustace Brackenstall is [eru type=quad v2=0.3 v3=0.3 Easeout=0.07 Duration=1 Easein=0.07] [b_u type=quad v2=0.3 v3=0.3 Easeout=1 Duration=1 Easein=1] then?"
+Subtitles[0]=(Text="Sir Eustace Brackenstall is dead, then?")
+Comment=""
+
+[Intro_Sherlock_why SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And why [eru type=quad v2=0.2 v3=0.2 Easeout=0.07 Duration=1 Easein=0.07] is that? [lc_u type=lt v2=0.2 Easeout=0.5]"
+Subtitles[0]=(Text="And why is that?")
+Comment=""
+
+[Intro_Sherlock_body SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.3 v3=0.3 Easeout=1 Duration=1.5 Easein=0.5] Where is the body [er type=quad v2=0.4 v3=0.4 Easeout=0.07 Duration=0.5 Easein=0.07] of the deceased?"
+Subtitles[0]=(Text="Where is the body of the deceased?")
+Comment=""
+
+[Intro_Sherlock_well SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1.5 Easein=0.5] Very good, [erd type=quad v2=0.2 v3=0.2 Easeout=0.07 Duration=0.5 Easein=0.07] Watson."
+Subtitles[0]=(Text="Very good, Watson.")
+Comment=""
+
+[Silverware_Sherlock_silver SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eld type=quad v2=0.3 v3=0.3 Easeout=0.07 Duration=1 Easein=0.07] [b_dc type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=2 Easein=0.5] Inspector, [lc_u type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=1 Easein=0.2] [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] I have recovered the stolen silverware."
+Subtitles[0]=(Text="Inspector, I have recovered the stolen silverware.")
+Comment=""
+
+[Silverware_Sherlock_hiding SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eru type=quad v2=0.4 v3=0.4 Easeout=0.07 Duration=1 Easein=0.07] [b_u type=lt v2=0.3] Perhaps it was used as a temporary /[b_u type=lt v2=0.3]706 hiding place, [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] or [b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=1 Easein=0.2] simply the thieves wanted to get [ey_u type=lt v2=0.2] rid of it. It is up to [b_u type=lt v2=0.2 Easeout=1] us to solve this mystery."
+Subtitles[0]=(Text="Perhaps it was used as a temporary hiding place, or simply the thieves wanted to get rid of it. It is up to us to solve this mystery.")
+Comment=""
+
+[Violence_Sherlock_know SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=lt v2=0.2 Easeout=1] What do you [eyd type=lt v2=0.2] know [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] [eru type=quad v2=0.3 v3=0.3 Easeout=0.03 Duration=1.5 Easein=0.03] about Sir Eustace, Inspector? [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] What was [er type=quad v2=0.2 v3=0.2 Easeout=0.07 Duration=0.5 Easein=0.07] his reputation? [H type=lt v2=0.4 Easeout=0.5]"
+Subtitles[0]=(Text="What do you know about Sir Eustace, Inspector? What was his reputation?")
+Comment=""
+
+[Silverware_Sherlock_garden SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.2 v3=0.2 Easeout=1 Duration=0.5 Easein=0.5] [lc_u type=quad v2=0.4 v3=0.4 Easeout=0.2 Duration=0.5 Easein=0.5] In the garden well."
+Subtitles[0]=(Text="In the garden well.")
+Comment=""
+
+[Silverware_Sherlock_unique SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[lc_u type=quad v2=0.5 v3=0.5 Easeout=0.01 Duration=3] [b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1 Easein=0.5] Unique, isn't it?"
+Subtitles[0]=(Text="Unique, isn't it?")
+Comment=""
+
+[Violence_Sherlock_mad SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eld type=quad v2=0.2 v3=0.2 Easeout=0.03 Duration=1.5 Easein=0.03] [b_u type=quad v2=0.3 v3=0.3 Easeout=1 Duration=1.5 Easein=0.5] The alcohol seemed to madden him. [D type=lt v2=0.2 Easeout=0.5]"
+Subtitles[0]=(Text="The alcohol seemed to madden him.")
+Comment=""
+

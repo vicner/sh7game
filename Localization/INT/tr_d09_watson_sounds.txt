@@ -1,0 +1,8 @@
+[Intro_Watson_smiling SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Oh, I see what you are getting at! No clues, and you are smiling!"
+Subtitles[0]=(Text="Oh, I see what you are getting at! No clues, and you are smiling!")
+Comment=""
+

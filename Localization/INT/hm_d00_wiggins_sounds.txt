@@ -1,0 +1,56 @@
+[intro_Wiggins_yard SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="From what I've heard - they took him to the Yard. An' they gave him a good beating already."
+Subtitles[0]=(Text="From what I've heard - they took him to the Yard. An' they gave him a good beating already.")
+Comment=""
+
+[intro_Wiggins_yard2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You know what they're like... they'll hang him, they won't look any further."
+Subtitles[0]=(Text="You know what they're like... they'll hang him, they won't look any further.")
+Comment=""
+
+[intro_Wiggins_please SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You have to help us, Mister Holmes!  'Cos I know he didn't do it!"
+Subtitles[0]=(Text="You have to help us, Mister Holmes!  'Cos I know he didn't do it!")
+Comment=""
+
+[intro_Wiggins_prefer SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are fantastic, Mister Holmes! I'll be waitin' for you at the crime scene! You'll be there, right?"
+Subtitles[0]=(Text="You are fantastic, Mister Holmes! I'll be waitin' for you at the crime scene! You'll be there, right?")
+Comment=""
+
+[intro_Wiggins_prefer2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It's on Half Moon Street, in Whitechapel!"
+Subtitles[0]=(Text="It's on Half Moon Street, in Whitechapel!")
+Comment=""
+
+[intro_Wiggins_holmes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes!"
+Subtitles[0]=(Text="Mister Holmes!")
+Comment=""
+
+[intro_Wiggins_brother SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes! It's my brother, Leighton. He's in a prison cell! They say he's killed two men!"
+Subtitles[0]=(Text="Mister Holmes! It's my brother, Leighton. He's in a prison cell! They say he's killed two men!")
+Comment=""
+

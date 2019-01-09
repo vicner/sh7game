@@ -1,0 +1,72 @@
+[BP_Cmt_Inspector_md005 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Have you finished inspecting the crime scene?"
+Subtitles[0]=(Text="Have you finished inspecting the crime scene?")
+Comment=""
+
+[BP_Cmt_Inspector_md009 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Police! Hold it right there!"
+Subtitles[0]=(Text="Police! Hold it right there!")
+Comment=""
+
+[BP_Cmt_Inspector_md032 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We need to find a good place for an ambush! Perhaps behind Carey's cabin, near the window."
+Subtitles[0]=(Text="We need to find a good place for an ambush! Perhaps behind Carey's cabin, near the window.")
+Comment=""
+
+[BP_Cmt_Inspector_md044 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Peter Carey's body is inside the cabin. We took care not to touch anything."
+Subtitles[0]=(Text="Peter Carey's body is inside the cabin. We took care not to touch anything.")
+Comment=""
+
+[BP_Cmt_Inspector_md045 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, come and see what we've caught in our net!"
+Subtitles[0]=(Text="Mr. Holmes, come and see what we've caught in our net!")
+Comment=""
+
+[BP_Cmt_Inspector_md046 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, where are you? Are you coming?"
+Subtitles[0]=(Text="Mr. Holmes, where are you? Are you coming?")
+Comment=""
+
+[BP_Cmt_Inspector_md047 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Where on earth are you, Mister Holmes? This is bad timing if you are wanting a game of hide-and-seek."
+Subtitles[0]=(Text="Where on earth are you, Mr. Holmes? This is bad timing if you are wanting a game of hide-and-seek.")
+Comment=""
+
+[BP_Cmt_Inspector_md053 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes! I'm over here! Come on!"
+Subtitles[0]=(Text="Mr. Holmes! I'm over here! Come on!")
+Comment=""
+
+[BP_Cmt_Inspector_md059 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="How is the investigation going, Mister Holmes? Do you have any idea who the murderer is yet?"
+Subtitles[0]=(Text="How is the investigation going, Mr. Holmes? Do you have any idea who the murderer is yet?")
+Comment=""
+

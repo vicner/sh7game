@@ -1,0 +1,56 @@
+[result_Watson_dying SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But you are dying, Holmes! Your pulse rate is dropping. We need to get you to the hospital immediately."
+Subtitles[0]=(Text="But you are dying, Holmes! Your pulse rate is dropping. We need to get you to the hospital immediately.")
+Comment=""
+
+[Intro1_Watson_nice SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And you look it. Let me examine you. Please don't tell me that you have returned to your old habits?"
+Subtitles[0]=(Text="And you look it. Let me examine you. Please don't tell me that you have returned to your old habits?")
+Comment=""
+
+[poison_Watson_enter SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Here, drink it all. Don't tell me that you did this to yourself?"
+Subtitles[0]=(Text="Here, drink it all. Don't tell me that you did this to yourself?")
+Comment=""
+
+[poison_Watson_never SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Holmes, imagine if I had not returned home when I did. What might have happened?"
+Subtitles[0]=(Text="Holmes, imagine if I had not returned home when I did. What might have happened?")
+Comment=""
+
+[result_Watson_poisonned SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The antidote? You mean that you are poisoned?"
+Subtitles[0]=(Text="The antidote? You mean that you are poisoned?")
+Comment=""
+
+[sick_Watson_sck SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes is unable to see anyone at the moment. He is unwell."
+Subtitles[0]=(Text="Mr. Holmes is unable to see anyone at the moment. He is unwell.")
+Comment=""
+
+[Intro1_Watson_H SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Holmes! What happened?"
+Subtitles[0]=(Text="Holmes! What happened?")
+Comment=""
+

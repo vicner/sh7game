@@ -1,0 +1,7 @@
+[D09_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D09 SH7_Dialog]
+Info="Evesham Station"
+

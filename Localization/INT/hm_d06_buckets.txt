@@ -1,0 +1,7 @@
+[D06_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D06 SH7_Dialog]
+Info="Scotland Yard"
+

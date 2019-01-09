@@ -1,0 +1,7 @@
+[D18 SH7_Dialog]
+Info="Scotland Yard - Interrogation Room"
+
+[D18_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+

@@ -1,0 +1,40 @@
+[BookBrought_Wiggins_here SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Here it is, Mister Holmes. But we can't take it back. It's too risky."
+Subtitles[0]=(Text="Here it is, Mr. Holmes. But we can't take it back. It's too risky.")
+Comment=""
+
+[Crocker2_Wiggins_ok2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Right away!"
+Subtitles[0]=(Text="Right away!")
+Comment=""
+
+[Crocker_Wiggins_ok SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No problem, Mister Holmes."
+Subtitles[0]=(Text="No problem, Mr. Holmes.")
+Comment=""
+
+[GetBook_Wiggins_done SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I'm straight on it, Mister Holmes!"
+Subtitles[0]=(Text="I'm straight on it, Mr. Holmes!")
+Comment=""
+
+[GetBook_Wiggins_sir SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="At your service, Mister Holmes."
+Subtitles[0]=(Text="At your service, Mr. Holmes.")
+Comment=""
+

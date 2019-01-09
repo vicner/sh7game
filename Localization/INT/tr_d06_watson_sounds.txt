@@ -1,0 +1,8 @@
+[end_Watson_line SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Your station will be famous, Mister Duff! The journalists will be here before you know it! Goodbye, sir."
+Subtitles[0]=(Text="Your station will be famous, Mr. Duff! The journalists will be here before you know it! Goodbye, sir.")
+Comment=""
+

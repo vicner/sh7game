@@ -1,0 +1,112 @@
+[guilty2_Sherlock_lover SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="He was a violent and irascible man. He needed to be eliminated. You had no qualms."
+Subtitles[0]=(Text="He was a violent and irascible man. He needed to be eliminated. You had no qualms.")
+Comment=""
+
+[alltogether_Sherlock_guilty SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="All that remains is to determine the level of guilt... Which one of you is the initiator in this case?"
+Subtitles[0]=(Text="All that remains is to determine the level of guilt... Which one of you is the initiator in this case?")
+Comment=""
+
+[goodbye_Sherlock_resolved SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The case is resolved, Inspector. I shall return to Baker Street."
+Subtitles[0]=(Text="The case is resolved, Inspector. I shall return to Baker Street.")
+Comment=""
+
+[guilty2_Sherlock_accuse SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Liam Hurtley, you are formally accused of the murder of Peter Carey. We are aware that you were in love with Carey's wife."
+Subtitles[0]=(Text="Liam Hurtley, you are formally accused of the murder of Peter Carey. We are aware that you were in love with Carey's wife.")
+Comment=""
+
+[peterattackNel_Sherlock_drunk SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Peter Carey was drunk. He drew his knife. In panic, you took the harpoon and made your lucky throw in self-defence. Put that in your report, Lestrade."
+Subtitles[0]=(Text="Peter Carey was drunk. He drew his knife. In panic, you took the harpoon and made your lucky throw in self-defence. Put that in your report, Lestrade.")
+Comment=""
+
+[guilty_Sherlock_guilty SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are guilty of the murder of Black Peter. Confess now, and your punishment may be the more merciful."
+Subtitles[0]=(Text="You are guilty of the murder of Black Peter. Confess now, and your punishment may be the more merciful.")
+Comment=""
+
+[guilty_Sherlock_motive SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Your motive: the valuable securities that Peter Carey stole from your father."
+Subtitles[0]=(Text="Your motive: the valuable securities that Peter Carey stole from your father.")
+Comment=""
+
+[guilty_Sherlock_refused SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Carey refused to return the bond certificates, and then he threatened you. You were afraid, and in your panic you took the harpoon and made your lucky throw."
+Subtitles[0]=(Text="Carey refused to return the bond certificates, and then he threatened you. You were afraid, and in your panic you took the harpoon and made your lucky throw.")
+Comment=""
+
+[Hurtleyguilty_Sherlock_both SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Both are guilty, of course, but I believe that Hurtley was the initiator of the crime."
+Subtitles[0]=(Text="Both are guilty, of course, but I believe that Hurtley was the initiator of the crime.")
+Comment=""
+
+[Hurtleyguilty_Sherlock_wanted SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You wanted to be rid of the man who was terrorising his wife, and who prevented the two of you from being together. Young Neligan was just following his lead..."
+Subtitles[0]=(Text="You wanted to be rid of the man who was terrorising his wife, and who prevented the two of you from being together. Young Neligan was just following his lead...")
+Comment=""
+
+[peterattackHur_Sherlock_quarell SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Then began the quarrel. He drew his knife, and in self-defence you took up the harpoon. Lestrade, please put that in your report."
+Subtitles[0]=(Text="Then began the quarrel. He drew his knife, and in self-defence you took up the harpoon. Lestrade, please put that in your report.")
+Comment=""
+
+[Neliganguilty_Sherlock_guilty SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Inspector, I believe that Neligan is the true culprit. Hurtley was his accomplice, blinded by his love for Peter's wife."
+Subtitles[0]=(Text="Inspector, I believe that Neligan is the true culprit. Hurtley was his accomplice, blinded by his love for Peter's wife.")
+Comment=""
+
+[peterattackNel_Sherlock_selfdefense SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="John Neligan, it was you who killed Black Peter. You attempted to convince him to return the bond certificates, and you threatened to call the police."
+Subtitles[0]=(Text="John Neligan, it was you who killed Black Peter. You attempted to convince him to return the bond certificates, and you threatened to call the police.")
+Comment=""
+
+[peterattackHur_Sherlock_comedrink SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Liam Hurtley, it was you who killed Black Peter. He learned of your relationship with his wife, and he asked that you meet him, to share in a drink."
+Subtitles[0]=(Text="Liam Hurtley, it was you who killed Black Peter. He learned of your relationship with his wife, and he asked that you meet him, to share in a drink.")
+Comment=""
+

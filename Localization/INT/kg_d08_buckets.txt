@@ -1,0 +1,7 @@
+[D08 SH7_Dialog]
+Info="Scotland Yard - Morgue"
+
+[D08_Bucket_Poisoned SH7_DialogPhraseBucket]
+Topic="Poisoned"
+QTETitle=""
+

@@ -1,0 +1,16 @@
+[ShipCompany_Watson_pretend SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I think that if you pretend you are from Scotland Yard, they'll give it to you without any problems."
+Subtitles[0]=(Text="I think that if you pretend you are from Scotland Yard, they'll give it to you without any problems.")
+Comment=""
+
+[Croker_Watson_think SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="This Crocker... Do you think...?"
+Subtitles[0]=(Text="This Crocker... Do you think...?")
+Comment=""
+

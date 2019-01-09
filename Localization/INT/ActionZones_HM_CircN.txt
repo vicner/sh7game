@@ -1,0 +1,4 @@
+[SH7_ActionZone]
+bucket_of_water=Bucket of water
+powder_trail=Powder trail
+

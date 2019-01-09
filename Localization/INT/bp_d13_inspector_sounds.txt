@@ -1,0 +1,80 @@
+[johnneligan_Inspector_motive SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_dc type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=0.5 Easein=0.2] I thought as much! But I fail to see his motive."
+Subtitles[0]=(Text="I thought as much! But I fail to see his motive.")
+Comment=""
+
+[neliganhurtley_Inspector_second SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=1] And the second?"
+Subtitles[0]=(Text="And the second?")
+Comment=""
+
+[neliganhurtley_Inspector_logical SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[D type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] Well, well, well, makes sense, Mister Holmes."
+Subtitles[0]=(Text="Well, well, well, it makes sense, Mr. Holmes.")
+Comment=""
+
+[neliganhurtley_Inspector_gang SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.8 v3=0.8 Easeout=0.5 Duration=0.5 Easein=0.2] What, I would never have guessed, Mister Holmes, [b_u type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=1.5 Easein=0.2] they are a rotten pair tough!"
+Subtitles[0]=(Text="What, I would never have guessed, Mr. Holmes, they are a rotten pair tough!")
+Comment=""
+
+[case_Inspector_who SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="So, tell me, [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.2] who killed Black Peter?"
+Subtitles[0]=(Text="So, tell me, who killed Black Peter?")
+Comment=""
+
+[liamhurtley_Inspector_guilty SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[D type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=1 Easein=0.2] That doesn't surprise me. I've never seen a guiltier looking fellow."
+Subtitles[0]=(Text="That doesn't surprise me. I've never seen a guiltier looking fellow.")
+Comment=""
+
+[johnneligan_Inspector_stop SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, then, I'll arrest this Neligan. [H type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1 Easein=0.2] I don't fancy his chances of getting out of prison after this."
+Subtitles[0]=(Text="Well, then, I'll arrest this Neligan. I don't fancy his chances of getting out of prison after this.")
+Comment=""
+
+[neliganhurtley_Inspector_they SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_d type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=1 Easein=0.2] What were their motives?"
+Subtitles[0]=(Text="What were their motives?")
+Comment=""
+
+[liamhurtley_Inspector_clear SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.6 v3=0.6 Easeout=0.5 Duration=0.5 Easein=0.2] I see! Come on, now, let us confront him."
+Subtitles[0]=(Text="I see! Come on, now, let us confront him.")
+Comment=""
+
+[neliganhurtley_Inspector_good_idea SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_uc type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1 Easein=1] That's a good idea, Mister Holmes. I'll talk to these fellows. Join me in the interrogation room."
+Subtitles[0]=(Text="That's a good idea Mr. Holmes. I'll talk to these fellows. Join me in the interrogation room.")
+Comment=""
+

@@ -1,0 +1,32 @@
+[BB_Cmt_Blinkhorn_md291 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It's horrible. I can't talk at the moment."
+Subtitles[0]=(Text="It's horrible. I can't talk at the moment.")
+Comment=""
+
+[BB_Cmt_Blinkhorn_md292 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I can't understand what happened. Am I allowed to leave?"
+Subtitles[0]=(Text="I can't understand what happened. Am I allowed to leave?")
+Comment=""
+
+[BB_Cmt_Blinkhorn_md293 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Do we have to stay here? Can't we go?"
+Subtitles[0]=(Text="Do we have to stay here? Can't we go?")
+Comment=""
+
+[BB_Cmt_Blinkhorn_md305 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I'm not sure that I can be helpful at the moment."
+Subtitles[0]=(Text="I'm not sure that I can be helpful at the moment.")
+Comment=""
+

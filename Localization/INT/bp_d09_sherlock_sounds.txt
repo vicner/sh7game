@@ -1,0 +1,56 @@
+[intro_Sherlock_list SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Fascinating. Here is the list of sailors."
+Subtitles[0]=(Text="Fascinating. Here is the list of sailors.")
+Comment=""
+
+[intro3_Sherlock_welldone SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well done, Wiggins! Let me see."
+Subtitles[0]=(Text="Well done, Wiggins! Let me see.")
+Comment=""
+
+[intro4_Sherlock_information SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Wiggins, could you gather some information on one of the sailors that you found? His name is Patrick Cairns."
+Subtitles[0]=(Text="Wiggins, could you gather some information on one of the sailors that you found? His name is Patrick Cairns.")
+Comment=""
+
+[Intro_Sherlock_come SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Wiggins! Could you come upstairs, please?"
+Subtitles[0]=(Text="Wiggins! Could you come upstairs, please?")
+Comment=""
+
+[intro2_Sherlock_fantastic SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Excellent. Here is your reward: two guineas!"
+Subtitles[0]=(Text="Excellent. Here is your reward: two guineas!")
+Comment=""
+
+[intro_Sherlock_bring SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Wiggins, I need you to track down certain people for me. I'll give you a list. You can read, can't you?"
+Subtitles[0]=(Text="Wiggins, I need you to track down certain people for me. I'll give you a list. You can read, can't you?")
+Comment=""
+
+[intro2_Sherlock_brave SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Good job Wiggins! Where is he?"
+Subtitles[0]=(Text="Good job Wiggins! Where is he?")
+Comment=""
+

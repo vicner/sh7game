@@ -1,0 +1,11 @@
+[D13_Bucket_Lantern SH7_DialogPhraseBucket]
+Topic="Lantern"
+QTETitle=""
+
+[D13_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D13 SH7_Dialog]
+Info="Evesham Station, Night"
+

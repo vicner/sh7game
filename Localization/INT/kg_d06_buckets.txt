@@ -1,0 +1,7 @@
+[D06_Bucket_LockedDoor SH7_DialogPhraseBucket]
+Topic="LockedDoor"
+QTETitle=""
+
+[D06 SH7_Dialog]
+Info="Kew Gardens - The reserve"
+

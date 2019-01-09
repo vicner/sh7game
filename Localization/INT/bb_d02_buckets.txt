@@ -1,0 +1,47 @@
+[D02_Bucket_key_qte SH7_DialogPhraseBucket]
+Topic="key_qte"
+QTETitle=""
+
+[D02_Bucket_tell2 SH7_DialogPhraseBucket]
+Topic="Tell us what happened"
+QTETitle=""
+
+[D02_Bucket_key_qte_no SH7_DialogPhraseBucket]
+Topic="key_qte_no"
+QTETitle="Left work?"
+
+[D02_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D02_Bucket_visitors SH7_DialogPhraseBucket]
+Topic="Were there any other visitors?"
+QTETitle=""
+
+[D02_Bucket_Champ SH7_DialogPhraseBucket]
+Topic="Who brought Champagne?"
+QTETitle=""
+
+[D02 SH7_Dialog]
+Info="Strand Lane Baths - Hall"
+
+[D02_Bucket_key_intro SH7_DialogPhraseBucket]
+Topic="The steam room keys?"
+QTETitle=""
+
+[D02_Bucket_Intro3 SH7_DialogPhraseBucket]
+Topic="Intro3"
+QTETitle=""
+
+[D02_Bucket_Intro2 SH7_DialogPhraseBucket]
+Topic="Intro2"
+QTETitle=""
+
+[D02_Bucket_key SH7_DialogPhraseBucket]
+Topic="key"
+QTETitle=""
+
+[D02_Bucket_key_fail SH7_DialogPhraseBucket]
+Topic="key_QTE_fail"
+QTETitle=""
+

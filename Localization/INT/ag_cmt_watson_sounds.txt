@@ -1,0 +1,64 @@
+[AG_Cmt_Watson_md036 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="This case is a simple one, isn't it, Holmes."
+Subtitles[0]=(Text="This case is a simple one, isn't it, Holmes.")
+Comment=""
+
+[AG_Cmt_Watson_md035 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="This house feels rather sinister. I can't say that I like it here."
+Subtitles[0]=(Text="This house feels rather sinister. I can't say that I like it here.")
+Comment=""
+
+[AG_Cmt_Watson_md034 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The death was instant."
+Subtitles[0]=(Text="The death was instant.")
+Comment=""
+
+[AG_Cmt_Watson_md033 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The letter is on the table, Holmes, you should take a look."
+Subtitles[0]=(Text="The letter is on the table, Holmes, you should take a look.")
+Comment=""
+
+[AG_Cmt_Watson_md022 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You should examine the body of Sir Eustace Brackenstall."
+Subtitles[0]=(Text="You should examine the body of Sir Eustace Brackenstall.")
+Comment=""
+
+[AG_Cmt_Watson_md019 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, I can confirm that the death was instant. Sir Eustace was facing his attacker when he received the blow to his head. There are no other apparent injuries."
+Subtitles[0]=(Text="Well, I can confirm that the death was instant. Sir Eustace was facing his attacker when he received the blow to his head. There are no other apparent injuries.")
+Comment=""
+
+[AG_Cmt_Watson_md017 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Let's go to the Abbey Grange."
+Subtitles[0]=(Text="Let's go to the Abbey Grange.")
+Comment=""
+
+[AG_Cmt_Watson_md014 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Now I understand why you dissected the bell rope!"
+Subtitles[0]=(Text="Now I understand why you dissected the bell rope!")
+Comment=""
+

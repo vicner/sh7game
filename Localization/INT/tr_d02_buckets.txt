@@ -1,0 +1,19 @@
+[D02 SH7_Dialog]
+Info="Bridlington Station"
+
+[D02_Bucket_wereyou SH7_DialogPhraseBucket]
+Topic="Passenger of the vanished train?"
+QTETitle=""
+
+[D02_Bucket_looklike SH7_DialogPhraseBucket]
+Topic="Portrait of the rich"
+QTETitle=""
+
+[D02_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D02_Bucket_what SH7_DialogPhraseBucket]
+Topic="What happened?"
+QTETitle=""
+

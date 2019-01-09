@@ -1,0 +1,7 @@
+[SH7_ActionZone]
+Analysis Table=Analysis table
+duval=Duval Bros. Circus
+elephant=Picture of elephant
+Poster=Poster
+wiggins=Wiggins
+

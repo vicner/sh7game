@@ -1,0 +1,29 @@
+[SH7_ActionZone]
+Abbreviations=Abbreviations
+boots=Boots
+Callosity=Callus
+Elaborate buttons=Elaborate buttons
+Expensive suit=Expensive fabric
+Handkerchief=Handkerchief
+Handkerchief with crested tit bird=Handkerchief with crested tit
+Hands of the gardener=Gardener's hands
+hartly_shelf=Hurtley's belongings
+hurtley=Liam Hurtley
+inscription=Inscription
+keys=Keys
+letter=Stained letter
+neligan=John Neligan
+neligan_shelf=Neligan's belongings
+notetebook=Notebook
+Old scar=Old scar
+Patch=Patch
+Pen=Pen
+pocket_knife=Pocket knife
+Rests of the plants=Plant remains
+ring=Ring
+Scars=Scars
+Shabby cap=Shabby cap
+Short sleeves=Short sleeves
+suspect=New suspect
+Thin neck=Thin neck
+

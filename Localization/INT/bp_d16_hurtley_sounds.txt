@@ -1,0 +1,48 @@
+[alltogether_Hurtley_culprit SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It's him! He is the culprit! He was forcing me. He threatened me! He's the mastermind behind it all!"
+Subtitles[0]=(Text="It's him! He is the culprit! He was forcing me. He threatened me! He's the mastermind behind it all!")
+Comment=""
+
+[alltogether_Hurtley_innocent SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ridiculous! I'm innocent!"
+Subtitles[0]=(Text="Ridiculous! I'm innocent!")
+Comment=""
+
+[guilty2_Hurtley_absurd SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But that's absurd! I am innocent!"
+Subtitles[0]=(Text="But that's absurd! I am innocent!")
+Comment=""
+
+[Hurtleyguilty_Hurtley_ridiculous SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It's ridiculous. Why would I need the help of this weakling?"
+Subtitles[0]=(Text="It's ridiculous. Why would I need the help of this weakling?")
+Comment=""
+
+[Neliganguilty_Hurtley_right SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="That's right, I confess."
+Subtitles[0]=(Text="That's right, I confess.")
+Comment=""
+
+[peterattackHur_Hurtley_noway SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I deny everything! You have no proof!"
+Subtitles[0]=(Text="I deny everything! You have no proof!")
+Comment=""
+

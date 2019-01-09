@@ -1,0 +1,64 @@
+[Cmt_Watson_md049 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="All right, Holmes!"
+Subtitles[0]=(Text="All right, Holmes!")
+Comment=""
+
+[Cmt_Watson_md031 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What are we doing, Holmes?"
+Subtitles[0]=(Text="What are we doing, Holmes?")
+Comment=""
+
+[Cmt_Watson_md024 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What a mess!"
+Subtitles[0]=(Text="What a mess!")
+Comment=""
+
+[Cmt_Watson_md021 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Let's go to the evidence room, Holmes."
+Subtitles[0]=(Text="Let's go to the evidence room, Holmes.")
+Comment=""
+
+[Cmt_Watson_md020 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Let's go to Scotland Yard."
+Subtitles[0]=(Text="Let's go to Scotland Yard.")
+Comment=""
+
+[Cmt_Watson_md005 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What should we do next, Holmes?"
+Subtitles[0]=(Text="What should we do next, Holmes?")
+Comment=""
+
+[Cmt_Watson_md002 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Have you found something interesting?"
+Subtitles[0]=(Text="Have you found something interesting?")
+Comment=""
+
+[Cmt_Watson_md001 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Someone should take Toby for a walk."
+Subtitles[0]=(Text="Someone should take Toby for a walk.")
+Comment=""
+

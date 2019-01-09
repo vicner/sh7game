@@ -1,0 +1,16 @@
+[Arrest_Inspector_arrest SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ladies, I must arrest you both for the murder of Sir Eustace."
+Subtitles[0]=(Text="Ladies, I must arrest you both for the murder of Sir Eustace.")
+Comment=""
+
+[Arrest_Inspector_judge SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You will tell that to the judge. Come with me, now."
+Subtitles[0]=(Text="You will tell that to the judge. Come with me, now.")
+Comment=""
+

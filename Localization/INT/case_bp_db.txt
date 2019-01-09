@@ -1,0 +1,90 @@
+[CaseMessage_inter_doc_absolvecairns Data_SH7_CaseMessage]
+Style="newspaper"
+Label="A Harpooner's Revenge"
+Description="<FONT SIZE=\"28\"><p align='justify'>The grotesque murder of the former Captain Peter Carey (known in private as 'Black Peter') has been resolved!<br />The evidence that Scotland Yard received from a trustworthy source was more than sufficient to conclude that the murderer of Peter Carey was Pablo Coventrao, one of Carey's former harpooners.<br />However, lawful justice could not be awarded - Coventrao was found dead of natural causes, possibly from his remorse at committing such a terrible crime.</p></Font>"
+
+[CaseMessage_inter_doc_absolvehurtley Data_SH7_CaseMessage]
+Style="bloodysheet"
+Label="Judith Carey's appreciation"
+Description="<FONT SIZE=\"28\"><i><br /><p align='left'>Mr. Holmes,</p><p align='justify'>I am so grateful that a great detective such as yourself could also possess such a kind heart.<br />Thank you for your decision regarding Liam Hurtley, a dear friend of mine, and the murderer of my husband, Peter Carey.<br />I am sure that Mr. Hurtley had no other choice; he killed accidentally and clearly in self-defence.<br /><br /><br />You have my deepest appreciation, from the bottom of my heart.</p><p align='right'>Yours sincerely,<br />Mrs. Judith Carey.</p></Font></i>"
+
+[CaseMessage_inter_doc_absolveneligan Data_SH7_CaseMessage]
+Style="bloodysheet"
+Label="A letter from a grateful mother"
+Description="<FONT SIZE=\"28\"><br /><i><p align='left'>Mr. Holmes,</p><p align='justify'>I know you were leading the investigation of the murder of \"Black Peter\".<br />Please accept my deepest gratitude for your humanity by your greatly shortening the sentence of my dear son, John Hopley Neligan.<br />He is innocent, I do assure you. He merely appeared in the wrong place at the wrong time.<br /><br /><br />But, thanks to you, he shall soon be released! </p><p align='right'>Yours sincerely,<br />Mrs. Sarah Neligan.</p></Font></i>"
+
+[CaseMessage_inter_doc_condencairns Data_SH7_CaseMessage]
+Style="newspaper"
+Label="No Escape from London Police"
+Description="<FONT SIZE=\"28\"><p align='justify'>The grotesque murder of the former Captain Peter Carey (known in private as 'Black Peter'), has been resolved!<br />The evidence that Scotland Yard received from a trustworthy source was more than sufficient to conclude that the murderer of Peter Carey was Patrick Cairns, one of Carey's former harpooners.<br />In fact, the dangerous criminal was caught single-handedly by brave Inspector Lestrade in a hand-to-hand fight. Patrick Cairns is now sentenced to death.</p></Font>"
+
+[CaseMessage_inter_doc_condeneligan Data_SH7_CaseMessage]
+Style="bloodysheet"
+Label="A letter from a grieving mother"
+Description="<FONT SIZE=\"28\"><br /><i><p align='left'>Mr. Holmes,</p><p align='justify'>we may not be acquainted, but that is of little importance.<br />I shall always remember you as the man who arrested my darling son, John Hopley Neligan.<br />He had already suffered so much from the loss of his father, but you dared to put him in prison for the murder of 'Black Peter'? A murder he never committed? How could you be so misguided and cruel?<br /><br />My son is an innocent victim, and I shall do anything to prove it. I shall hire the best lawyers in the country!</p><p align='right'>Mrs. Sarah Neligan.</p></Font></i>"
+
+[CaseMessage_inter_doc_condenhurtley Data_SH7_CaseMessage]
+Style="newspaper"
+Label="The Murder at Woodman's Lee"
+Description="<FONT SIZE=\"28\"><p align='justify'>The High Court of Justice yesterday convicted Liam Hurtley to 30 years of imprisonment for the murder of Peter Carey (also known as Black Peter).<FONT SIZE=\"8\"><br /></Font><br />Despite the numerous pleas of 'not guilty', and the lack of evidence as put forth by Hurtley's lawyer, the jurors agreed on a severe punishment.<FONT SIZE=\"8\"><br /></Font><br />This decision was due to the charge being brought by Mr. Sherlock Holmes, the great detective who led the murder investigation.</p></Font>"
+
+[CaseTrophy_BP_trophy Data_SH7_CaseTrophy]
+Label="Harpoon"
+Description="Harpoon that was used to kill Black Peter"
+
+[Conclusion_bp_conclusion_1_1 Data_SH7_Conclusion]
+Label="Neligan Is Guilty"
+Description="John Hopley Neligan murdered Peter Carey. This is proven by his dishonesty and the fact that he was at the scene of the murder."
+
+[Conclusion_bp_conclusion_2_1 Data_SH7_Conclusion]
+Label="Hurtley Is Guilty"
+Description="Liam Hurtley murdered Peter Carey. The motive was jealousy and his love for Carey's wife."
+
+[Conclusion_bp_conclusion_3_1 Data_SH7_Conclusion]
+Label="Two Murderers"
+Description="John Hopley Neligan and Liam Hurtley conspired together to murder Peter Carey. Neligan's motive was revenge for Carey's theft. Hurtley's motive was jealousy and his love for Carey's wife."
+
+[Conclusion_bp_conclusion_4_1 Data_SH7_Conclusion]
+Label="Cairns Is Guilty"
+Description="Peter Carey was murdered by Patrick Cairns. Cairns is a professional harpooner. His tobacco pouch was found inside Carey's cabin."
+
+[MoralChoice_bp_moralchoice_a1 Data_SH7_MoralChoice]
+Label="Condemn Neligan"
+Description="John Hopley Neligan has been found guilty of the murder of Peter Carey. He must be punished by the law for this desperate crime."
+EndCaseText="John Hopley Neligan murdered Peter Carey and stole the tin box containing the bond certificates. This is proven by his dishonesty and the fact that he was at the scene of the murder. You have decided to bring him to justice."
+
+[MoralChoice_bp_moralchoice_a2 Data_SH7_MoralChoice]
+Label="Absolve Neligan"
+Description="John Neligan is a victim of circumstance. His childhood was overshadowed by the loss of his father. He always dreamed of a reunion, to find out what had happened. He made a poor decision and so fell into trouble."
+EndCaseText="John Hopley Neligan murdered Peter Carey. This is proven by his dishonesty and the fact that he was at the scene of the murder. But it was in self-defence against an armed and furious drunken sailor. You have decided to ease his sentence."
+
+[MoralChoice_bp_moralchoice_a3 Data_SH7_MoralChoice]
+Label="Condemn Hurtley"
+Description="Liam Hurtley has been found guilty of the murder of Peter Carey. He must be punished by the law in all its rigour."
+EndCaseText="Liam Hurtley murdered Peter Carey and remained silent to hide his crime. Thanks to your deductive reasoning, his relationship with Judith Carey was revealed, and also his presence at Woodman's Lee. You have decided to bring him to justice."
+
+[MoralChoice_bp_moralchoice_a4 Data_SH7_MoralChoice]
+Label="Absolve Hurtley"
+Description="Liam Hurtley's mind was clouded by his love for Judith Carey, Peter's wife. This murder was a crime of passion, under emotional duress. Nevertheless, he must answer to the law for what he has done."
+EndCaseText="Liam Hurtley murdered Peter Carey, but it was in self-defence against an armed and furious drunken sailor. The murder was a crime of passion. Hurtley's mind was clouded by his love for Judith Carey, Peter's wife. You have decided to ease his sentence."
+
+[MoralChoice_bp_moralchoice_a5 Data_SH7_MoralChoice]
+Label="Neligan is the initiator"
+Description="Liam Hurtley and John Neligan are guilty of a heinous, premeditated crime. Let them be punished by the law. Neligan was the initiator, and Hurtley his accomplice."
+EndCaseText="This murder was planned by two men: John Neligan and Liam Hurtley. While one wished to retrieve his father's bond certificates, the other was glad to assist as it would \"free\" the woman he loved. Your choice determined Neligan as the initiator of the crime. Now they will both face justice."
+
+[MoralChoice_bp_moralchoice_a6 Data_SH7_MoralChoice]
+Label="Hurtley is the initiator"
+Description="Liam Hurtley and John Neligan are guilty of a heinous, premeditated crime. Let them be punished by the law. Hurtley was the initiator. Poor Neligan was just following his lead."
+EndCaseText="Liam Hurtley and John Neligan planned together to murder Peter Carey. The former's motive was that he might stay with Judith Carey; the latter was glad to assist as he wished to retrieve his father's bond certificates. Your choice determined Hurtley as the initiator. Now they will both face justice."
+
+[MoralChoice_bp_moralchoice_a7 Data_SH7_MoralChoice]
+Label="Condemn Cairns"
+Description="Patrick Cairns is a cold blooded murderer. He has been found guilty of the murder of Peter Carey, and must be punished."
+EndCaseText="Peter Carey was murdered by Patrick Cairns, a professional harpooner - the only one capable of executing such an accurate throw. His tobacco pouch was found inside Carey's cabin. He is a cold-blooded murderer. You have decided to bring him to justice."
+
+[MoralChoice_bp_moralchoice_a8 Data_SH7_MoralChoice]
+Label="Absolve Cairns"
+Description="Patrick Cairns killed Peter Carey, but the murder was not premeditated. It was in self-defence against an armed and irrational drunken sailor."
+EndCaseText="Peter Carey was murdered by Patrick Cairns, a professional harpooner - the only one capable of executing such an accurate throw. His tobacco pouch was found inside Carey's cabin. But the murder was in self-defence against an armed and furious drunken sailor. You have decided to absolve Patrick Cairns."
+

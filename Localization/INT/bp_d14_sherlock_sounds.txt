@@ -1,0 +1,88 @@
+[intro2_Sherlock_investig SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Has the investigation already [b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=0.5 Easein=0.2] begun?"
+Subtitles[0]=(Text="Has the investigation already begun?")
+Comment=""
+
+[intro2_Sherlock_praytell SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I suppose that Watson is right, Inspector. A little [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=1] brainwork would be preferable now. [b_u type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=1 Easein=0.2] Do please tell us more about Black Peter."
+Subtitles[0]=(Text="I suppose that Watson is right, Inspector. A little brainwork would be preferable now. Do please tell us more about Black Peter.")
+Comment=""
+
+[intro_Sherlock_nonsence SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[lc_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=0.5 Easein=0.2] Nonsense. I was aiming for the vases."
+Subtitles[0]=(Text="Nonsense. I was aiming for the vases.")
+Comment=""
+
+[intro2_Sherlock_sailor SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="A sailor, most probably."
+Subtitles[0]=(Text="A sailor, most probably.")
+Comment=""
+
+[intro2_Sherlock_dress SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=1.5 Easein=0.2] Give me half an hour to prepare, Inspector."
+Subtitles[0]=(Text="Give me half an hour to prepare, Inspector.")
+Comment=""
+
+[intro2_Sherlock_alone SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=1 Easein=0.2] I shall go alone, then."
+Subtitles[0]=(Text="I shall go alone, then.")
+Comment=""
+
+[intro_Sherlock_thatyou SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Is that you Watson?"
+Subtitles[0]=(Text="Is that you, Watson?")
+Comment=""
+
+[intro2_Sherlock_missed SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I missed four out of ten."
+Subtitles[0]=(Text="I missed four out of ten.")
+Comment=""
+
+[intro2_Sherlock_exercise SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It's the only exercise I've had all week. A grateful client from Limoges sent me a vase collection this morning. I couldn't think of a [lc_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.2] better use for it."
+Subtitles[0]=(Text="It's the only exercise I've had all week. A grateful client from Limoges sent me a vase collection this morning. I couldn't think of a better use for it.")
+Comment=""
+
+[intro2_Sherlock_whoisit SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ah, Lestrade! What is it this time?"
+Subtitles[0]=(Text="Ah, Lestrade! What is it this time?")
+Comment=""
+
+[intro_Sherlock_shhh SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Watson, [ls_uc type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=0.5 Easein=0.2] quiet please, I'm trying to concentrate..."
+Subtitles[0]=(Text="Watson, quiet please, I'm trying to concentrate...")
+Comment=""
+

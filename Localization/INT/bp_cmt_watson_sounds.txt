@@ -1,0 +1,104 @@
+[BP_Cmt_Watson_md007 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You go along to Peter Carey's house. Missis Hudson and I will take care of the mess you've made here."
+Subtitles[0]=(Text="You go along to Peter Carey's house. Mrs. Hudson and I will take care of the mess you've made here.")
+Comment=""
+
+[BP_Cmt_Watson_md019 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="He is right across the street. You can give him a sign from the window."
+Subtitles[0]=(Text="He is right across the street. You can give him a sign from the window.")
+Comment=""
+
+[BP_Cmt_Watson_md054 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I wish that you'd hurry and finish your test, Holmes. I don't want to spend the rest of the day in this terrible place."
+Subtitles[0]=(Text="I wish that you'd hurry and finish your test, Holmes. I don't want to spend the rest of the day in this terrible place.")
+Comment=""
+
+[BP_Cmt_Watson_md055 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Good gracious! You caught someone. At least now you have a suspect."
+Subtitles[0]=(Text="Good gracious! You caught someone. At least now you have a suspect.")
+Comment=""
+
+[BP_Cmt_Watson_md056 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="A new suspect, but this one refuses to talk. This case is more interesting than I first imagined."
+Subtitles[0]=(Text="A new suspect, but this one refuses to talk. This case is more interesting than I first imagined.")
+Comment=""
+
+[BP_Cmt_Watson_md057 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You met Patrick Cairns, the harpooner. Do you believe he is the murderer?"
+Subtitles[0]=(Text="You met Patrick Cairns, the harpooner. Do you believe he is the murderer?")
+Comment=""
+
+[BP_Cmt_Watson_md062 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Holmes!"
+Subtitles[0]=(Text="Holmes!")
+Comment=""
+
+[BP_Cmt_Watson_md063 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Holmes, will you stop that!"
+Subtitles[0]=(Text="Holmes, will you stop that!")
+Comment=""
+
+[BP_Cmt_Watson_md064 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are utterly mad!"
+Subtitles[0]=(Text="You are utterly mad!")
+Comment=""
+
+[BP_Cmt_Watson_pzl010 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Holmes, you should aim for the mark in order to perform the most reliable test."
+Subtitles[0]=(Text="Holmes, you should aim for the mark in order to perform the most reliable test.")
+Comment=""
+
+[BP_Cmt_Watson_pzl011 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Holmes, you should try to aim better and throw as hard as you can."
+Subtitles[0]=(Text="Holmes, you should try to aim better and throw as hard as you can.")
+Comment=""
+
+[BP_Cmt_Watson_pzl012 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Holmes, I can't believe it! Did you just miss?"
+Subtitles[0]=(Text="Holmes, I can't believe it! Did you just miss?")
+Comment=""
+
+[BP_Cmt_Watson_pzl013 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The harpoon has struck the body, but with insufficient strength to pierce it straight through."
+Subtitles[0]=(Text="The harpoon has struck the body, but with insufficient strength to pierce it straight through.")
+Comment=""
+

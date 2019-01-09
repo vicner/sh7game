@@ -1,0 +1,8 @@
+[BB_Cmt_Inspector_md119 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Any progress, Holmes?"
+Subtitles[0]=(Text="Any progress, Holmes?")
+Comment=""
+

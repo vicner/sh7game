@@ -1,0 +1,16 @@
+[Crocker_Watson_here SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Here?! Holmes, that could be dangerous."
+Subtitles[0]=(Text="Here?! Holmes, that could be dangerous.")
+Comment=""
+
+[GetBook_Watson_risky SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Do you really think they'll find it, Holmes?"
+Subtitles[0]=(Text="Do you really think they'll find it, Holmes?")
+Comment=""
+

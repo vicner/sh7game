@@ -1,0 +1,15 @@
+[D08_Bucket_Intro2 SH7_DialogPhraseBucket]
+Topic="Intro2"
+QTETitle=""
+
+[D08_Bucket_done SH7_DialogPhraseBucket]
+Topic="done"
+QTETitle=""
+
+[D08_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D08 SH7_Dialog]
+Info="Chesterfield Station"
+

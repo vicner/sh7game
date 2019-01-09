@@ -1,0 +1,51 @@
+[D02_Bucket_MotiveQTE SH7_DialogPhraseBucket]
+Topic="but nothing else"
+QTETitle="Nothing else"
+
+[D02_Bucket_Crime SH7_DialogPhraseBucket]
+Topic="What happened last night"
+QTETitle=""
+
+[D02 SH7_Dialog]
+Info="The Abbey Grange - Morning Room"
+
+[D02_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Good day Ladies"
+QTETitle=""
+
+[D02_Bucket_Wine SH7_DialogPhraseBucket]
+Topic="The three glasses on the table"
+QTETitle=""
+
+[D02_Bucket_MotiveIntro SH7_DialogPhraseBucket]
+Topic="Not a happy marriage"
+QTETitle=""
+
+[D02_Bucket_MotiveLose SH7_DialogPhraseBucket]
+Topic="Depressed"
+QTETitle="Depressed"
+
+[D02_Bucket_Motive SH7_DialogPhraseBucket]
+Topic="Motive"
+QTETitle="Motive"
+
+[D02_Bucket_relation SH7_DialogPhraseBucket]
+Topic="Condolences"
+QTETitle=""
+
+[D02_Bucket_Robbery SH7_DialogPhraseBucket]
+Topic="Is something missing"
+QTETitle=""
+
+[D02_Bucket_Safe SH7_DialogPhraseBucket]
+Topic="The safe"
+QTETitle=""
+
+[D02_Bucket_Silverware SH7_DialogPhraseBucket]
+Topic="Your silverware has been found"
+QTETitle=""
+
+[D02_Bucket_Goodbye SH7_DialogPhraseBucket]
+Topic="Leave"
+QTETitle=""
+

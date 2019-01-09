@@ -1,0 +1,55 @@
+[D07 SH7_Dialog]
+Info="Scotland Yard - Interrogation Room"
+
+[D07_Bucket_breaking SH7_DialogPhraseBucket]
+Topic="Breaking"
+QTETitle=""
+
+[D07_Bucket_breaking_QTE SH7_DialogPhraseBucket]
+Topic="Cabin"
+QTETitle="...trying to find information..."
+
+[D07_Bucket_breaking_intro SH7_DialogPhraseBucket]
+Topic="Break-in"
+QTETitle="Break-in"
+
+[D07_Bucket_Dawson SH7_DialogPhraseBucket]
+Topic="Dawson and Neligan"
+QTETitle=""
+
+[D07_Bucket_knifesea SH7_DialogPhraseBucket]
+Topic="Sea knife"
+QTETitle=""
+
+[D07_Bucket_notetebook SH7_DialogPhraseBucket]
+Topic="Notebook"
+QTETitle=""
+
+[D07_Bucket_owner SH7_DialogPhraseBucket]
+Topic="Father"
+QTETitle=""
+
+[D07_Bucket_owner_intro SH7_DialogPhraseBucket]
+Topic="Ring's owner"
+QTETitle="Ring's owner"
+
+[D07_Bucket_owner_QTE SH7_DialogPhraseBucket]
+Topic="Partner"
+QTETitle="The ring is mine."
+
+[D07_Bucket_QTE_fail SH7_DialogPhraseBucket]
+Topic="Fail"
+QTETitle=""
+
+[D07_Bucket_ring SH7_DialogPhraseBucket]
+Topic="Engraving"
+QTETitle=""
+
+[D07_Bucket_ring_intro SH7_DialogPhraseBucket]
+Topic="Gold Ring"
+QTETitle="Golden Ring"
+
+[D07_Bucket_ring_QTE SH7_DialogPhraseBucket]
+Topic="Ring"
+QTETitle="It has always belonged to me!"
+

@@ -1,0 +1,32 @@
+[moralchoice4_Inspector_enough SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are a clever one: do you think that this secret will spare you the gallows? Or prison for life?"
+Subtitles[0]=(Text="You are a clever one: do you think that this secret will spare you the gallows? Or prison for life?")
+Comment=""
+
+[moralchoice3_Inspector_eased SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes has convinced me to ease your sentence, but you will still be imprisoned, lad."
+Subtitles[0]=(Text="Mr. Holmes has convinced me to ease your sentence, but you will still be imprisoned, lad.")
+Comment=""
+
+[moralchoice2_Inspector_justice SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It's all over now, lad. The clues speak for themselves. Now you'll have to face up to justice."
+Subtitles[0]=(Text="It's all over now, lad. The clues speak for themselves. Now you'll have to face up to justice.")
+Comment=""
+
+[moralchoice1_Inspector_evidence SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We have solid evidence, Chapman, you cannot deny it. A crime is a crime, but Mister Holmes has convinced us to ease your sentence. Don't make us regret it!"
+Subtitles[0]=(Text="We have solid evidence, Chapman, you cannot deny it. A crime is a crime, but Mr. Holmes has convinced us to ease your sentence. Don't make us regret it!")
+Comment=""
+

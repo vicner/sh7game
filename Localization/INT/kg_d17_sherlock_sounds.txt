@@ -1,0 +1,32 @@
+[Intro2_Sherlock_case2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And that is enough. The case is closed, Watson. We can say, officially, that Martyn Hamish acted alone."
+Subtitles[0]=(Text="And that is enough. The case is closed, Watson. We can say, officially, that Martyn Hamish acted alone.")
+Comment=""
+
+[Intro2_Sherlock_death2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It was Albert who assisted Martyn Hamish with the murder of his father, Montague Dunne. An act of desperation to end years of misery and humiliation."
+Subtitles[0]=(Text="It was Albert who assisted Martyn Hamish with the murder of his father, Montague Dunne. An act of desperation to end years of misery and humiliation.")
+Comment=""
+
+[Intro_Sherlock_case SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And that is enough. The case is closed, Watson. Officially, Montague Dunne died of a heart attack."
+Subtitles[0]=(Text="And that is enough. The case is closed, Watson. Officially, Montague Dunne died of a heart attack.")
+Comment=""
+
+[Intro_Sherlock_death SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It was Albert who caused the death of his father. It was an act of desperation, to end years of misery and humiliation."
+Subtitles[0]=(Text="It was Albert who caused the death of his father. It was an act of desperation, to end years of misery and humiliation.")
+Comment=""
+

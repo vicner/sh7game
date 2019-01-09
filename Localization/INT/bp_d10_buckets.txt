@@ -1,0 +1,39 @@
+[D10_Bucket_lestrade SH7_DialogPhraseBucket]
+Topic="Lestrade"
+QTETitle=""
+
+[D10 SH7_Dialog]
+Info="221B Baker Street"
+
+[D10_Bucket_freegivemoney SH7_DialogPhraseBucket]
+Topic="Leave, but return the bond certificates"
+QTETitle=""
+
+[D10_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D10_Bucket_intro2 SH7_DialogPhraseBucket]
+Topic="intro2"
+QTETitle=""
+
+[D10_Bucket_neligan SH7_DialogPhraseBucket]
+Topic="Neligan"
+QTETitle=""
+
+[D10_Bucket_loose SH7_DialogPhraseBucket]
+Topic="lose"
+QTETitle=""
+
+[D10_Bucket_win SH7_DialogPhraseBucket]
+Topic="win"
+QTETitle=""
+
+[D10_Bucket_wakeup SH7_DialogPhraseBucket]
+Topic="Wake up"
+QTETitle=""
+
+[D10_Bucket_arrest SH7_DialogPhraseBucket]
+Topic="Arrest him"
+QTETitle=""
+

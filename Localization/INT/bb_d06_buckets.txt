@@ -1,0 +1,47 @@
+[D06_Bucket_Silver SH7_DialogPhraseBucket]
+Topic="Melted Silver"
+QTETitle=""
+
+[D06_Bucket_Hello SH7_DialogPhraseBucket]
+Topic="Good day"
+QTETitle=""
+
+[D06_Bucket_Ring SH7_DialogPhraseBucket]
+Topic="Ring"
+QTETitle=""
+
+[D06_Bucket_Drug SH7_DialogPhraseBucket]
+Topic="Drug"
+QTETitle=""
+
+[D06_Bucket_Profession SH7_DialogPhraseBucket]
+Topic="Your profession"
+QTETitle=""
+
+[D06_Bucket_Relation SH7_DialogPhraseBucket]
+Topic="Sir Rodney"
+QTETitle=""
+
+[D06_Bucket_Mithras SH7_DialogPhraseBucket]
+Topic="Mithras"
+QTETitle=""
+
+[D06 SH7_Dialog]
+Info="Scotland Yard - Interrogation Room"
+
+[D06_Bucket_Witness SH7_DialogPhraseBucket]
+Topic="The murder"
+QTETitle=""
+
+[D06_Bucket_Detail SH7_DialogPhraseBucket]
+Topic="Recent unusual event?"
+QTETitle=""
+
+[D06_Bucket_Romancoin SH7_DialogPhraseBucket]
+Topic="Old coin"
+QTETitle=""
+
+[D06_Bucket_Champagne SH7_DialogPhraseBucket]
+Topic="Champagne"
+QTETitle=""
+

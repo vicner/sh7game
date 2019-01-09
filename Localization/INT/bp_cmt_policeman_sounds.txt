@@ -1,0 +1,16 @@
+[BP_Cmt_Policeman_md026 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The Inspector is waiting for you in his office, Mister Holmes."
+Subtitles[0]=(Text="The Inspector is waiting for you in his office, Mr. Holmes.")
+Comment=""
+
+[BP_Cmt_Policeman_md036 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="At your service, Mister Holmes."
+Subtitles[0]=(Text="At your service, Mr. Holmes.")
+Comment=""
+

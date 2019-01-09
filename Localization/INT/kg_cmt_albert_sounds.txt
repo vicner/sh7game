@@ -1,0 +1,16 @@
+[KG_Cmt_Albert_md261 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Can I help you, gentlemen?"
+Subtitles[0]=(Text="Can I help you, gentlemen?")
+Comment=""
+
+[KG_Cmt_Albert_md136 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Excuse me, but I have to tidy up this room."
+Subtitles[0]=(Text="Excuse me, but I have to tidy up this room.")
+Comment=""
+

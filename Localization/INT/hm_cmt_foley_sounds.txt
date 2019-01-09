@@ -1,0 +1,16 @@
+[HM_Cmt_Foley_md046 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Are you still tampering with that lock?"
+Subtitles[0]=(Text="Are you still tampering with that lock?")
+Comment=""
+
+[hm_cmt_foley_md047 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We'll see you at the manor, Nigel."
+Subtitles[0]=(Text="We'll see you at the manor, Nigel.")
+Comment=""
+

@@ -1,0 +1,40 @@
+[Arrest_Lady_error SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are making a serious mistake, Inspector."
+Subtitles[0]=(Text="You are making a serious mistake, Inspector.")
+Comment=""
+
+[Arrest_Lady_too SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You too, Mister Holmes, which is rather surprising of you."
+Subtitles[0]=(Text="You too, Mr. Holmes, which is rather surprising of you.")
+Comment=""
+
+[NoArrest_Lady_explain SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, I can explain everything."
+Subtitles[0]=(Text="Mr. Holmes, I can explain everything.")
+Comment=""
+
+[NoArrest_Lady_lestrade SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What will you tell Inspector Lestrade?"
+Subtitles[0]=(Text="What will you tell Inspector Lestrade?")
+Comment=""
+
+[NoArrest_Lady_truth SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The truth... is often subjective, Mister Holmes."
+Subtitles[0]=(Text="The truth... is often subjective, Mr. Holmes.")
+Comment=""
+

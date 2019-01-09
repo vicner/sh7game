@@ -1,0 +1,8 @@
+[sick_Hudson_insp SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, Inspector Lestrade is here to see you."
+Subtitles[0]=(Text="Mr. Holmes, Inspector Lestrade is here to see you.")
+Comment=""
+

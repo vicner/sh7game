@@ -1,0 +1,32 @@
+[Intro_Watson_boy SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Poor boy! You are right, Holmes, he was also a victim."
+Subtitles[0]=(Text="Poor boy! You are right, Holmes, he was also a victim.")
+Comment=""
+
+[Intro2_Watson_father SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="He will live the rest of his life with the death of his father on his conscience."
+Subtitles[0]=(Text="He will live the rest of his life with the death of his father on his conscience.")
+Comment=""
+
+[Intro_Watson_father SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="He will live the rest of his life with the death of his father on his conscience."
+Subtitles[0]=(Text="He will live the rest of his life with the death of his father on his conscience.")
+Comment=""
+
+[Intro2_Watson_boy SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Poor boy! You are right, Holmes, he was also a victim."
+Subtitles[0]=(Text="Poor boy! You are right, Holmes, he was also a victim.")
+Comment=""
+

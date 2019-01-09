@@ -1,0 +1,7 @@
+[D03_Bucket_who SH7_DialogPhraseBucket]
+Topic="Who are you"
+QTETitle=""
+
+[D03 SH7_Dialog]
+Info="Woodman's Lee, night"
+

@@ -1,0 +1,8 @@
+[poster_Wiggins_found SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, we found it! Here it is!"
+Subtitles[0]=(Text="Mr. Holmes, we found it! Here it is!")
+Comment=""
+

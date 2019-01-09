@@ -1,0 +1,88 @@
+[ambush_Sherlock_burglary SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1.5 Easein=0.5] Because of last night's attempted break-in."
+Subtitles[0]=(Text="Because of last night's attempted break-in.")
+Comment=""
+
+[forced_Sherlock_visitor SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=1] Our mysterious visitor came here last night."
+Subtitles[0]=(Text="Our mysterious visitor came here last night.")
+Comment=""
+
+[door_Sherlock_What SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What is it, Lestrade?"
+Subtitles[0]=(Text="What is it, Lestrade?")
+Comment=""
+
+[door_Sherlock_well SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=1] [lc_u type=quad v2=0.3 v3=0.3 Easeout=1 Duration=0.5 Easein=0.2] Ha, good thinking."
+Subtitles[0]=(Text="Good thinking.")
+Comment=""
+
+[door_Sherlock_see SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Let me see."
+Subtitles[0]=(Text="Let me see.")
+Comment=""
+
+[door_Sherlock_closed SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=1 Easein=0.2] The door is locked."
+Subtitles[0]=(Text="The door is locked.")
+Comment=""
+
+[ambush_Sherlock_outside SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We shall remain on the outside, near the window, where we stand the best chance of catching sight of our visitor. Well, gentlemen, ready your pistols, we have a [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] long night ahead of us."
+Subtitles[0]=(Text="We shall remain on the outside, near the window, where we stand the best chance of catching sight of our visitor. Well, gentlemen, ready your pistols, we have a long night ahead of us.")
+Comment=""
+
+[ambush_Sherlock_lucky SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I think that we [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=0.5 Easein=0.5] are lucky."
+Subtitles[0]=(Text="I think that we are lucky.")
+Comment=""
+
+[ambush_Sherlock_blade SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It is [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=4.5 Easein=0.5] very probable that whoever came here hoped to find the door open. They tried to force it with a knife blade, but they failed. What will they do? [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=0.5 Easein=0.5] Why, return tonight, when they will be better prepared."
+Subtitles[0]=(Text="It is very probable that whoever came here hoped to find the door open. They tried to force it with a knife blade, but they failed. What will they do? Why, return tonight, when they will be better prepared.")
+Comment=""
+
+[forced_Sherlock_force SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are right. Someone tried to [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] force open the door."
+Subtitles[0]=(Text="You are right. Someone tried to force open the door.")
+Comment=""
+
+[forced_Sherlock_instrument SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Perhaps he did not have the right [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=1] tool."
+Subtitles[0]=(Text="Perhaps he did not have the right tool.")
+Comment=""
+

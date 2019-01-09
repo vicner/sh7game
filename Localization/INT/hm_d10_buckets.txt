@@ -1,0 +1,27 @@
+[D10_Bucket_lock_win SH7_DialogPhraseBucket]
+Topic="lock_win"
+QTETitle=""
+
+[D10_Bucket_lock_qte SH7_DialogPhraseBucket]
+Topic="lock_qte"
+QTETitle="Do you know me?"
+
+[D10_Bucket_lock_lose SH7_DialogPhraseBucket]
+Topic="lock_lose"
+QTETitle=""
+
+[D10_Bucket_lock SH7_DialogPhraseBucket]
+Topic="The lock is opened"
+QTETitle=""
+
+[D10 SH7_Dialog]
+Info="Duval Bros. Circus, Day"
+
+[D10_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D10_Bucket_beckett SH7_DialogPhraseBucket]
+Topic="beckett"
+QTETitle=""
+

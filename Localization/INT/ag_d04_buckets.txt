@@ -1,0 +1,7 @@
+[D04 SH7_Dialog]
+Info="221B Baker Street"
+
+[D04_Bucket_intro SH7_DialogPhraseBucket]
+Topic="Toby"
+QTETitle=""
+

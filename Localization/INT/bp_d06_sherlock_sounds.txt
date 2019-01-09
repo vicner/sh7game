@@ -1,0 +1,16 @@
+[intro_Sherlock_Lee SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Good morning, constable. I'd like to speak to the fellow who was arrested at Woodman's Lee last night."
+Subtitles[0]=(Text="Good morning, constable. I'd like to speak to the fellow who was arrested at Woodman's Lee last night.")
+Comment=""
+
+[intro_Sherlock_thank SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Thank you."
+Subtitles[0]=(Text="Thank you.")
+Comment=""
+

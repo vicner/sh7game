@@ -1,0 +1,48 @@
+[BookBrought_Sherlock_good SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Put it on the table, I'll take care of it. Good work, young Wiggins."
+Subtitles[0]=(Text="Put it on the table, I'll take care of it. Good work, young Wiggins.")
+Comment=""
+
+[Come_Sherlock_come SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Wiggins! Could you come upstairs, please?"
+Subtitles[0]=(Text="Wiggins! Could you come upstairs, please?")
+Comment=""
+
+[Crocker2_Sherlock_bring2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Wiggins, could you ask Mister Crocker to come here again, please?"
+Subtitles[0]=(Text="Wiggins, could you ask Mr. Crocker to come here again, please?")
+Comment=""
+
+[Crocker_Sherlock_bring SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Wiggins, could you find a way to bring this Captain Crocker here to us?"
+Subtitles[0]=(Text="Wiggins, could you find a way to bring this Captain Crocker here to us?")
+Comment=""
+
+[GetBook_Sherlock_cover SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="My secret police is better than the Yard, in many ways."
+Subtitles[0]=(Text="My secret police is better than the Yard, in many ways.")
+Comment=""
+
+[GetBook_Sherlock_need SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I need a register, my young friend. If you could \"borrow\" it, there will be half a guinea for every one of you... I need the crew list of the \"Rock of Gibraltar\" in 1893, and their current employment."
+Subtitles[0]=(Text="I need a register, my young friend. If you could \"borrow\" it, there will be half a guinea for every one of you... I need the crew list of the \"Rock of Gibraltar\" in 1893, and their current employment.")
+Comment=""
+

@@ -1,0 +1,8 @@
+[BP_Cmt_Hurtley_md040 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I'm not saying another word."
+Subtitles[0]=(Text="I'm not saying another word.")
+Comment=""
+

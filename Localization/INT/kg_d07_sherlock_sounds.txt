@@ -1,0 +1,16 @@
+[MartynGuilty_Sherlock_guilty SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Inspector, I believe that Martyn Hamish is guilty of the murder of Montague Dunne."
+Subtitles[0]=(Text="Inspector, I believe that Martyn Hamish is guilty of the murder of Montague Dunne.")
+Comment=""
+
+[MartynGuilty_Sherlock_fine SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Very good. I shall wait to hear from you."
+Subtitles[0]=(Text="Very good. I shall wait to hear from you.")
+Comment=""
+

@@ -1,0 +1,36 @@
+[LoadingScreenTip_CharacterPortraits Data_SH7_LoadingScreenTip]
+Title=""
+Tip="$SH7_GFxPreloaderScreen.CharacterPortraits"
+
+[LoadingScreenTip_Clues Data_SH7_LoadingScreenTip]
+Title=""
+Tip="$SH7_GFxPreloaderScreen.Clues"
+
+[LoadingScreenTip_Conclusion Data_SH7_LoadingScreenTip]
+Title=""
+Tip="$SH7_GFxPreloaderScreen.Conclusion"
+
+[LoadingScreenTip_DeductionSpace Data_SH7_LoadingScreenTip]
+Title=""
+Tip="$SH7_GFxPreloaderScreen.DeductionSpace"
+
+[LoadingScreenTip_Dialogs Data_SH7_LoadingScreenTip]
+Title=""
+Tip="$SH7_GFxPreloaderScreen.Dialogs"
+
+[LoadingScreenTip_Evideces Data_SH7_LoadingScreenTip]
+Title=""
+Tip="$SH7_GFxPreloaderScreen.Evideces"
+
+[LoadingScreenTip_Gameplay Data_SH7_LoadingScreenTip]
+Title=""
+Tip="$SH7_GFxPreloaderScreen.Gameplay"
+
+[LoadingScreenTip_Imagination Data_SH7_LoadingScreenTip]
+Title=""
+Tip="$SH7_GFxPreloaderScreen.Imagination"
+
+[LoadingScreenTip_Tasks Data_SH7_LoadingScreenTip]
+Title=""
+Tip="$SH7_GFxPreloaderScreen.Tasks"
+

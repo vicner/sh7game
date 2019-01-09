@@ -1,0 +1,15 @@
+[D20_Bucket_victory SH7_DialogPhraseBucket]
+Topic="Victory"
+QTETitle=""
+
+[D20_Bucket_sorry SH7_DialogPhraseBucket]
+Topic="Sorry"
+QTETitle=""
+
+[D20_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D20 SH7_Dialog]
+Info="Scotland Yard - Office"
+

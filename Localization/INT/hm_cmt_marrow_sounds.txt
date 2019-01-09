@@ -1,0 +1,64 @@
+[HM_Cmt_Marrow_md014 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I can see you very well, Mister Holmes."
+Subtitles[0]=(Text="I can see you very well, Mr. Holmes.")
+Comment=""
+
+[hm_cmt_marrow_md015 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Here you are, Mister Holmes."
+Subtitles[0]=(Text="Here you are, Mr. Holmes.")
+Comment=""
+
+[hm_cmt_marrow_md016 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, it wasn't difficult to find you at all."
+Subtitles[0]=(Text="Mr. Holmes, it wasn't difficult to find you at all.")
+Comment=""
+
+[hm_cmt_marrow_md017 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I shouldn't look for Mister Holmes here - he is hiding in Half Moon Street."
+Subtitles[0]=(Text="I shouldn't look for Mr. Holmes here - he is hiding in Half Moon Street.")
+Comment=""
+
+[hm_cmt_marrow_md018 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No, this is not how I walked at the time of the crime. I was more attentive. Let's start over again."
+Subtitles[0]=(Text="No, this is not how I walked at the time of the crime. I was more attentive. Let's start over again.")
+Comment=""
+
+[hm_cmt_marrow_md034 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, I had no doubts about this case, but now that you are here..."
+Subtitles[0]=(Text="Mr. Holmes, I had no doubts about this case, but now that you are here...")
+Comment=""
+
+[hm_cmt_marrow_md037 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It would be my pleasure to assist with your investigation, Mister Holmes."
+Subtitles[0]=(Text="It would be my pleasure to assist with your investigation, Mr. Holmes.")
+Comment=""
+
+[hm_cmt_marrow_md054 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="This is the back door of the building with the attic floor that you required, Mister Holmes."
+Subtitles[0]=(Text="This is the back door of the building with the attic floor that you required, Mr. Holmes.")
+Comment=""
+

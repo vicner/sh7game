@@ -1,0 +1,5 @@
+[SH7_ActionZone]
+Foley=Charles Foley
+Safe=Safe
+Jack=Circus bandit
+

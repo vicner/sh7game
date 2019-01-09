@@ -1,0 +1,7 @@
+[D08 SH7_Dialog]
+Info="Scotland Yard - Reception"
+
+[D08_Bucket_intro2 SH7_DialogPhraseBucket]
+Topic="intro2"
+QTETitle=""
+

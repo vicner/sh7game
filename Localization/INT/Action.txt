@@ -1,0 +1,87 @@
+[Action_Activate Data_SH7_Action]
+Label="Activate"
+
+[Action_AnalysisExam Data_SH7_Action]
+Label="Examine"
+
+[Action_ArchiveExam Data_SH7_Action]
+Label="Examine"
+
+[Action_CallWiggins Data_SH7_Action]
+Label="Call Wiggins"
+
+[Action_Deactivate Data_SH7_Action]
+Label="Deactivate"
+
+[Action_Drag Data_SH7_Action]
+Label="Drag"
+
+[Action_DragDown Data_SH7_Action]
+Label="Drag down"
+
+[Action_Interest Data_SH7_Action]
+Label="Object of interest"
+
+[Action_LettersExam Data_SH7_Action]
+Label="Examine"
+
+[Action_Lockpick Data_SH7_Action]
+Label="Lockpick"
+
+[Action_Look Data_SH7_Action]
+Label="Examine"
+
+[Action_Move Data_SH7_Action]
+Label="Move"
+
+[Action_Open Data_SH7_Action]
+Label="Open"
+
+[Action_OpenWardrobe Data_SH7_Action]
+Label="Open"
+
+[Action_Question Data_SH7_Action]
+Label="Evidence required"
+
+[Action_Question2 Data_SH7_Action]
+Label="Item required"
+
+[Action_Remove Data_SH7_Action]
+Label="Remove"
+
+[Action_Rotate Data_SH7_Action]
+Label="Rotate"
+
+[Action_Speak Data_SH7_Action]
+Label="Talk"
+
+[Action_Take Data_SH7_Action]
+Label="Take"
+
+[Action_TakeLetterAG Data_SH7_Action]
+Label="Take"
+
+[Action_TakeLetterBB Data_SH7_Action]
+Label="Take"
+
+[Action_TakeLetterBP Data_SH7_Action]
+Label="Take"
+
+[Action_TakeLetterKG Data_SH7_Action]
+Label="Take"
+
+[Action_TakeLetterTR Data_SH7_Action]
+Label="Take"
+
+[Action_Toby_Pet Data_SH7_Action]
+Label="Pet"
+
+[Action_Use Data_SH7_Action]
+Label="Use"
+
+[Action_UseMakeup Data_SH7_Action]
+Label="Use"
+
+[Action_UseMap Data_SH7_Action]
+Label="Examine"
+

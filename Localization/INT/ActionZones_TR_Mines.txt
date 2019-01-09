@@ -1,0 +1,28 @@
+[SH7_ActionZone]
+Archives=Portable archives
+CAbMines=Vehicle traces
+Fallen_Sign=Fallen sign
+Stones=Strange package
+Cab=Cab
+Screws=Screws
+DM_Mine=Collapsed mine
+DM_Stones=Pile of stones
+DM_Box=Paper package
+DM_Empty=Empty place
+DM_Traces=Traces on the ground
+DM_Rails=Missing rails
+Screw=Screw
+Nameplate=Nameplate
+zoomBox=Metal box
+DocMine=Documents
+zamokBox=Lock
+Deep_tracks=Vehicle traces
+Wooden_Beam=Wooden beam
+Horse_tracks=Horse tracks
+Box=Strange box
+Box_paper=Box paper
+open_box=Paper cover
+Sawdust=Sawdust
+Inf_board=Information board
+board=Board
+

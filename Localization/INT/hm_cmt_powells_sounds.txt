@@ -1,0 +1,16 @@
+[HM_Cmt_Powells_md039 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I suppose I shall have to move my stall now!"
+Subtitles[0]=(Text="I suppose I shall have to move my stall now!")
+Comment=""
+
+[hm_cmt_powells_md055 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Such a young man... and already a murderer!"
+Subtitles[0]=(Text="Such a young man... and already a murderer!")
+Comment=""
+

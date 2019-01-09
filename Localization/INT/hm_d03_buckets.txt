@@ -1,0 +1,19 @@
+[D03 SH7_Dialog]
+Info="Half Moon Street"
+
+[D03_Bucket_anyone SH7_DialogPhraseBucket]
+Topic="Anyone else?"
+QTETitle=""
+
+[D03_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D03_Bucket_shots SH7_DialogPhraseBucket]
+Topic="The shots"
+QTETitle=""
+
+[D03_Bucket_statement SH7_DialogPhraseBucket]
+Topic="Your testimony"
+QTETitle=""
+

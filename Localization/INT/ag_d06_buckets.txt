@@ -1,0 +1,43 @@
+[D06_Bucket_QTE_suicide_m3 SH7_DialogPhraseBucket]
+Topic="QTE_suicide_m3"
+QTETitle=""
+
+[D06_Bucket_QTE_suicide_m2 SH7_DialogPhraseBucket]
+Topic="QTE_suicide_m2"
+QTETitle=""
+
+[D06_Bucket_QTE_suicide_m1 SH7_DialogPhraseBucket]
+Topic="QTE_suicide_m1"
+QTETitle=""
+
+[D06_Bucket_Intro2 SH7_DialogPhraseBucket]
+Topic="Intro2"
+QTETitle=""
+
+[D06_Bucket_NodeQTE_fail SH7_DialogPhraseBucket]
+Topic="Fail"
+QTETitle=""
+
+[D06_Bucket_Node SH7_DialogPhraseBucket]
+Topic="Sailor's knot"
+QTETitle=""
+
+[D06_Bucket_Nodeqte2 SH7_DialogPhraseBucket]
+Topic="Tied"
+QTETitle="Fake proof"
+
+[D06_Bucket_Nodeqte SH7_DialogPhraseBucket]
+Topic="You tied her up"
+QTETitle=""
+
+[D06_Bucket_Lady SH7_DialogPhraseBucket]
+Topic="Lady Brackenstall"
+QTETitle=""
+
+[D06_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D06 SH7_Dialog]
+Info="221B Baker Street"
+

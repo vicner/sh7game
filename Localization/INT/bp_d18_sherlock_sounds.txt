@@ -1,0 +1,56 @@
+[intro_Sherlock_yes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes. [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] Believe me, you'll receive more useful assistance from these little urchins than from a [b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=1 Easein=0.2] dozen Yard [lc_u type=quad v2=0.2 v3=0.2 Easeout=1 Duration=0.5 Easein=0.2] detectives."
+Subtitles[0]=(Text="Yes. Believe me, you'll receive more useful assistance from these little urchins than from a dozen Yard detectives.")
+Comment=""
+
+[intro_Sherlock_watch SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="There is always a watch beneath our window. [b_u type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=0.5 Easein=0.2] I have only to call him."
+Subtitles[0]=(Text="There is always a watch beneath our window. I have only to call him.")
+Comment=""
+
+[intro_Sherlock_kids SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Those children are everywhere; they see and hear everything. And they are cunning. [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.2] All they lack is organisation. I'll summon them."
+Subtitles[0]=(Text="Those children are everywhere; they see and hear everything. And they are cunning. All they lack is organisation. I'll summon them.")
+Comment=""
+
+[intro_Sherlock_find SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I have only to find them. Let us [b_u type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=1.5 Easein=0.2] hope they are still working at the harbour."
+Subtitles[0]=(Text="I have only to find them. Let us hope they are still working at the harbour.")
+Comment=""
+
+[intro_Sherlock_doubt SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I doubt it, Watson. And really, I would prefer that all of this remains quiet for now. [b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=1 Easein=0.2] But I have another solution. I'll call in the specialists..."
+Subtitles[0]=(Text="I doubt it, Watson. And really, I would prefer that all of this remains quiet for now. But I have another solution. I'll call in the specialists...")
+Comment=""
+
+[intro_Sherlock_bsi SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The secret police division of Baker Street."
+Subtitles[0]=(Text="The secret police division of Baker Street.")
+Comment=""
+
+[intro_Sherlock_address SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] [lc_u type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=0.5 Easein=0.2] Something new, Watson! I have the list of sailors who were aboard the Sea Unicorn. We shall soon learn what happened to Neligan's father."
+Subtitles[0]=(Text="Something new, Watson! I have the list of sailors who were aboard the Sea Unicorn. We shall soon learn what happened to Neligan's father.")
+Comment=""
+

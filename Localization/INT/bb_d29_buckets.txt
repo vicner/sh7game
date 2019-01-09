@@ -1,0 +1,23 @@
+[D29_Bucket_sick SH7_DialogPhraseBucket]
+Topic="sick"
+QTETitle=""
+
+[D29_Bucket_result SH7_DialogPhraseBucket]
+Topic="result"
+QTETitle=""
+
+[D29 SH7_Dialog]
+Info="221B Baker Street"
+
+[D29_Bucket_Intro2 SH7_DialogPhraseBucket]
+Topic="Intro2"
+QTETitle=""
+
+[D29_Bucket_poison SH7_DialogPhraseBucket]
+Topic="poison"
+QTETitle=""
+
+[D29_Bucket_Intro1 SH7_DialogPhraseBucket]
+Topic="Intro1"
+QTETitle=""
+

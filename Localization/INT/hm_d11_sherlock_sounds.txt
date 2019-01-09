@@ -1,0 +1,96 @@
+[mycroft_Sherlock_no SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No."
+Subtitles[0]=(Text="No.")
+Comment=""
+
+[catch_Sherlock_carefully SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I assure you, Watson, it was quite an entertaining show. They will not escape the house now."
+Subtitles[0]=(Text="I assure you, Watson, it was quite an entertaining show. They will not escape the house now.")
+Comment=""
+
+[catch_Sherlock_bobby SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You sounded just like a real Bobby, my dear fellow! You startled them into the traps."
+Subtitles[0]=(Text="You sounded just like a real Bobby, my dear fellow! You startled them into the traps.")
+Comment=""
+
+[safe_Sherlock_indeed SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Indeed."
+Subtitles[0]=(Text="Indeed.")
+Comment=""
+
+[safe_Sherlock_ask SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I don't know why you are asking me, Mycroft. They are yours to find."
+Subtitles[0]=(Text="I don't know why you are asking me, Mycroft. They are yours to find.")
+Comment=""
+
+[catch_Sherlock_street SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And this is the pistol used for the murder in Half Moon Street."
+Subtitles[0]=(Text="And this is the pistol used for the murder in Half Moon Street.")
+Comment=""
+
+[mycroft_Sherlock_revenge SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And the hunter of a set of valuable antiques: \"The Hellenistic Treasures\", which disappeared in a theft many years ago."
+Subtitles[0]=(Text="And the hunter of a set of valuable antiques: \"The Hellenistic Treasures\", which disappeared in a theft many years ago.")
+Comment=""
+
+[mycroft_Sherlock_mycroft SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mycroft! What are you doing here? Did you follow me?"
+Subtitles[0]=(Text="Mycroft! What are you doing here? Did you follow me?")
+Comment=""
+
+[catch_Sherlock_gun SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Trapped, Watson, with your assistance."
+Subtitles[0]=(Text="Trapped, Watson, with your assistance.")
+Comment=""
+
+[mycroft_Sherlock_actor SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="This gentleman, Charles Foley, has been involved in a double murder."
+Subtitles[0]=(Text="This gentleman, Charles Foley, has been involved in a double murder.")
+Comment=""
+
+[leave_Sherlock_leave SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I shall leave now, Watson. Gentlemen, please take our friends here into custody!"
+Subtitles[0]=(Text="I shall leave now, Watson. Gentlemen, please take our friends here into custody!")
+Comment=""
+
+[leave_Sherlock_business SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I have unfinished business. I'll see you at Baker Street."
+Subtitles[0]=(Text="I have unfinished business. I'll see you at Baker Street.")
+Comment=""
+

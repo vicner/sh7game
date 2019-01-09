@@ -1,0 +1,40 @@
+[Crime_Sherlock_then SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And then?"
+Subtitles[0]=(Text="And then?")
+Comment=""
+
+[Injuries_Sherlock_marks SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Sir Eustace's doctor speaks of his violent behaviour."
+Subtitles[0]=(Text="Sir Eustace's doctor speaks of his violent behaviour.")
+Comment=""
+
+[Intro_Sherlock_testimony SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Theresa, I would like to hear your testimony."
+Subtitles[0]=(Text="Theresa, I would like to hear your testimony.")
+Comment=""
+
+[Silverware_Sherlock_found SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We found your mistress's silverware."
+Subtitles[0]=(Text="We found your mistress's silverware.")
+Comment=""
+
+[Silverware_Sherlock_yes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Indeed."
+Subtitles[0]=(Text="Indeed.")
+Comment=""
+

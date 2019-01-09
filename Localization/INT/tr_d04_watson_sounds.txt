@@ -1,0 +1,56 @@
+[intro_Watson_booze SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="By his sleeping off the alcohol, you mean."
+Subtitles[0]=(Text="By his sleeping off the alcohol, you mean.")
+Comment=""
+
+[intro_Watson_asleep SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="How could he fall asleep at work like this?"
+Subtitles[0]=(Text="How could he fall asleep at work like this?")
+Comment=""
+
+[intro_Watson_asleep2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Excuse me, sir?  Wake up!..."
+Subtitles[0]=(Text="Excuse me, sir?  Wake up!...")
+Comment=""
+
+[passagers_Watson_work SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No doubt you were very busy."
+Subtitles[0]=(Text="No doubt you were very busy.")
+Comment=""
+
+[intro_Watson_asleep3 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ah... his breath... he must have swallowed half a distillery..."
+Subtitles[0]=(Text="Ah... his breath... he must have swallowed half a distillery...")
+Comment=""
+
+[shotplug_Watson_shame SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="My friend means that you will end up by being sacked from your position."
+Subtitles[0]=(Text="My friend means that you will end up by being sacked from your position.")
+Comment=""
+
+[intro_Watson_booze2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Wake up, please, sir!"
+Subtitles[0]=(Text="Wake up, please, sir!")
+Comment=""
+

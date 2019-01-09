@@ -1,0 +1,7 @@
+[SH7_ActionZone]
+Archives=Portable archives
+Switch=Rail switch
+Cab=Cab
+WEApanel=Information sign
+coal=Pieces of coal
+

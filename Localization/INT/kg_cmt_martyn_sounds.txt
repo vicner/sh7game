@@ -1,0 +1,16 @@
+[KG_Cmt_Martyn_md248 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Martyn Hamish's perception of plants: The notion of communication in the plant world has long been considered marginal. Yet I remain convinced that some plants do indeed transmit chemical signals in the event of attack."
+Subtitles[0]=(Text="Martyn Hamish's perception of plants: The notion of communication in the plant world has long been considered marginal. Yet I remain convinced that some plants do indeed transmit chemical signals in the event of attack.")
+Comment=""
+
+[KG_Cmt_Martyn_md135 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Just be careful with the plants during your inspection."
+Subtitles[0]=(Text="Just be careful with the plants during your inspection.")
+Comment=""
+

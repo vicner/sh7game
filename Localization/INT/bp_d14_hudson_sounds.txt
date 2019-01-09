@@ -1,0 +1,8 @@
+[intro2_Hudson_couldyou SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.6 v3=0.6 Easeout=1 Duration=2.5 Easein=0.5] Oh, Mister Holmes, [ls_uc type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=0.5 Easein=0.2] how could you!"
+Subtitles[0]=(Text="Oh, Mr. Holmes, how could you!")
+Comment=""
+

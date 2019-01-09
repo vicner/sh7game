@@ -1,0 +1,37 @@
+[SH7_ActionZone]
+Acrobat=Acrobat
+agility=Agility practice
+amulet=Protective amulet
+ankh=Ankh cross
+bloody=Bloody bandages
+bulldog=Bulldog revolver
+Charles Foley=Charles Foley
+Circus Guard=Circus guard
+cutthroad=Cutthroat
+fingers=Taped fingers
+Gates=Gates
+Lock=Lock
+rams=Five Rams of Mytilene
+Revolver=Armed
+ring=Ring with ram head
+stolen=Stolen antiques
+supers=Superstitious
+trauma=Recent trauma
+Press=Printing press
+Paper=Blank papers
+Poster=Poster
+Picture=Picture of a man
+slogan=Slogan
+Barrels=Barrels
+powder=Powder
+crack=Crack
+paint=Paint
+crest=Crest
+Key=Complex key
+Safe=Protected safe
+thieves=Circus of thieves
+treasures=The Hellenistic Treasures
+Manor=Abandoned manor
+surpass=Surpass them!
+barrel=Barrel
+

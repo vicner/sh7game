@@ -1,0 +1,16 @@
+[moralchoice5_Foley_handouts SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are a fine gentleman, with your fake pity!"
+Subtitles[0]=(Text="You are a fine gentleman, with your fake pity!")
+Comment=""
+
+[moralchoice6_foley_scum SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are pitiful. You Scotland Yard dog!"
+Subtitles[0]=(Text="You are pitiful. You Scotland Yard dog!")
+Comment=""
+

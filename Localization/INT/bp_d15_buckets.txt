@@ -1,0 +1,7 @@
+[D15_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D15 SH7_Dialog]
+Info="221B Baker Street"
+

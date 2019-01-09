@@ -1,0 +1,56 @@
+[intro_Wiggins_service SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="At your service, Mister Holmes."
+Subtitles[0]=(Text="At your service, Mr. Holmes.")
+Comment=""
+
+[intro_Wiggins_sailors SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Sailors? Easy. Just gotta look where the rum and the red lights are."
+Subtitles[0]=(Text="Sailors? Easy. Just gotta look where the rum and the red lights are.")
+Comment=""
+
+[intro_Wiggins_big_oliver SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Big Oliver from our gang, he can. 'cause his father is the coachman of a famous lawyer."
+Subtitles[0]=(Text="Big Oliver from our gang, he can. 'cause his father is the coachman of a famous lawyer.")
+Comment=""
+
+[intro3_Wiggins_found SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, we've found the sailors from that list you gave us."
+Subtitles[0]=(Text="Mr. Holmes, we've found the sailors from that list you gave us.")
+Comment=""
+
+[intro2_Wiggins_thank_you SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Thank you, sir!"
+Subtitles[0]=(Text="Thank you, sir!")
+Comment=""
+
+[intro2_Wiggins_sea_witch SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="He lives in a small furnished dump of a room, but he's always at the \"Sea Witch\" pub, where he does arm wrestles for money and drinks."
+Subtitles[0]=(Text="He lives in a small furnished dump of a room, but he's always at the \"Sea Witch\" pub, where he does arm wrestles for money and drinks.")
+Comment=""
+
+[intro2_Wiggins_cairns SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We found Patrick Cairns."
+Subtitles[0]=(Text="We found Patrick Cairns.")
+Comment=""
+

@@ -1,0 +1,23 @@
+[D12_Bucket_wiggins SH7_DialogPhraseBucket]
+Topic="wiggins"
+QTETitle=""
+
+[D12_Bucket_moralchoice4 SH7_DialogPhraseBucket]
+Topic="Robbery - Condemn Leighton Chapman"
+QTETitle=""
+
+[D12_Bucket_moralchoice3 SH7_DialogPhraseBucket]
+Topic="Robbery - Absolve Leighton Chapman"
+QTETitle=""
+
+[D12_Bucket_moralchoice2 SH7_DialogPhraseBucket]
+Topic="Double Murder - Condemn Leighton Chapman"
+QTETitle=""
+
+[D12_Bucket_moralchoice1 SH7_DialogPhraseBucket]
+Topic="Double Murder - Absolve Leighton Chapman"
+QTETitle=""
+
+[D12 SH7_Dialog]
+Info="Scotland Yard"
+

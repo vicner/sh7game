@@ -1,0 +1,8 @@
+[HM_Cmt_Inspector_md040 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, what is the trouble with that lad? Isn't he guilty of murder?"
+Subtitles[0]=(Text="Mr. Holmes, what is the trouble with that lad? Isn't he guilty of murder?")
+Comment=""
+

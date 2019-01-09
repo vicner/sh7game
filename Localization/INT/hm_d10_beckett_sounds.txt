@@ -1,0 +1,40 @@
+[beckett_Beckett_well SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Glad to hear it... Be ready for tonight, then."
+Subtitles[0]=(Text="Glad to hear it... Be ready for tonight, then.")
+Comment=""
+
+[beckett_Beckett_quite SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Whatever. We'll be here after midnight to pick up the supplies."
+Subtitles[0]=(Text="Whatever. We'll be here after midnight to pick up the supplies.")
+Comment=""
+
+[beckett_Beckett_mistake SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I hope that no-one saw you. The police are on the look-out."
+Subtitles[0]=(Text="I hope that no-one saw you. The police are on the look-out.")
+Comment=""
+
+[beckett_Beckett_midnight SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No. You'll be paid after we make the transfer. As I said."
+Subtitles[0]=(Text="No. You'll be paid after we make the transfer. As I said.")
+Comment=""
+
+[beckett_Beckett_barrels SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Some of the barrels are wet!"
+Subtitles[0]=(Text="Some of the barrels are wet!")
+Comment=""
+

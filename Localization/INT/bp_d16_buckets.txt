@@ -1,0 +1,35 @@
+[D16_Bucket_alltogether SH7_DialogPhraseBucket]
+Topic="Both of you are guilty"
+QTETitle=""
+
+[D16_Bucket_guilty2 SH7_DialogPhraseBucket]
+Topic="Liam Hurtley, you are guilty"
+QTETitle=""
+
+[D16_Bucket_Hurtleyguilty SH7_DialogPhraseBucket]
+Topic="Both are guilty, Hurtley is the initiator"
+QTETitle=""
+
+[D16_Bucket_Neliganguilty SH7_DialogPhraseBucket]
+Topic="Both are guilty, Neligan is the initiator"
+QTETitle=""
+
+[D16 SH7_Dialog]
+Info="Scotland Yard - Interrogation Room"
+
+[D16_Bucket_peterattackHur SH7_DialogPhraseBucket]
+Topic="Peter attacked Hurtley"
+QTETitle=""
+
+[D16_Bucket_peterattackNel SH7_DialogPhraseBucket]
+Topic="Peter attacked Neligan"
+QTETitle=""
+
+[D16_Bucket_goodbye SH7_DialogPhraseBucket]
+Topic="Goodbye"
+QTETitle=""
+
+[D16_Bucket_guilty SH7_DialogPhraseBucket]
+Topic="John Neligan, you are guilty"
+QTETitle=""
+

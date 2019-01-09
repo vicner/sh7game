@@ -1,0 +1,16 @@
+[who_Sherlock_welcome SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are welcome, Inspector. But please don't be too hard on our young fellow. I would like to question him tomorrow morning."
+Subtitles[0]=(Text="You are welcome, Inspector. But please don't be too hard on our young fellow. I would like to question him tomorrow morning.")
+Comment=""
+
+[who_Sherlock_tell SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Shall I tell you? You came to retrieve what you had lost after killing Peter Carey. But we were here waiting for you."
+Subtitles[0]=(Text="Shall I tell you? You came to retrieve what you had lost after killing Peter Carey. But we were here waiting for you.")
+Comment=""
+

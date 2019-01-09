@@ -1,0 +1,8 @@
+[intro_Sherlock_follow SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I'll be right behind you."
+Subtitles[0]=(Text="I'll be right behind you.")
+Comment=""
+

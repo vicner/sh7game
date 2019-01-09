@@ -1,0 +1,24 @@
+[Cmt_Policeman_md036 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Inspector is waiting for you in his office."
+Subtitles[0]=(Text="The Inspector is waiting for you in his office.")
+Comment=""
+
+[Cmt_Policeman_md027 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes."
+Subtitles[0]=(Text="Mr. Holmes.")
+Comment=""
+
+[Cmt_Policeman_md026 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No, the inspector is absent at the moment."
+Subtitles[0]=(Text="I am sorry, sir, but the Inspector is absent at the moment.")
+Comment=""
+

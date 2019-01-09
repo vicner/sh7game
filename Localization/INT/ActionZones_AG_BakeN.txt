@@ -1,0 +1,15 @@
+[SH7_ActionZone]
+speak_tobby=Toby
+door=Door
+Archives=Archives
+Open=Wax seal
+Latter up=Letter
+table=Analysis table
+read=Address
+door_exit=Door
+Gerb=Coat-of-arms
+encyclopedias=Encyclopedias
+newspapers=Newspapers
+researches=Research
+Latter=Table
+

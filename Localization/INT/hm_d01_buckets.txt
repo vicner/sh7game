@@ -1,0 +1,7 @@
+[D01_Bucket_bring SH7_DialogPhraseBucket]
+Topic="bring"
+QTETitle=""
+
+[D01 SH7_Dialog]
+Info="Half Moon Street"
+

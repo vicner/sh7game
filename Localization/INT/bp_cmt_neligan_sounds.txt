@@ -1,0 +1,16 @@
+[BP_Cmt_Neligan_md037 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What am I doing here? I've done nothing wrong!"
+Subtitles[0]=(Text="What am I doing here? I've done nothing wrong!")
+Comment=""
+
+[BP_Cmt_Neligan_md049 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Please let me go, I am innocent!"
+Subtitles[0]=(Text="Please let me go, I am innocent!")
+Comment=""
+

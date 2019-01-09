@@ -1,0 +1,29 @@
+[SH7_ActionZone]
+door=Door
+DunneCase=Dunne's belongings
+letter=Letter
+ClubCard=Club card
+Body=Body
+Watch=Watch
+Pen=Pen
+Stomach=Stomach
+Stomach part1=Stomach tissue
+Stomach part2=Stomach consistency
+Lungs=Lungs
+Lungs part1=Lung consistency
+Lungs part2=Damaged area
+Liver=Liver
+Liver part1=Liver consistency
+Liver part2=Liver tissue
+Heart=Heart
+Heart part1=Heart vessels
+Heart part2=Heart tissue
+Right arm=Right arm
+Skin=Skin
+Left arm=Left arm
+Face=Face
+Forehead=Forehead
+Eyes=Eyes
+Nose and mouth=Nose and mouth
+Chest=Chest
+

@@ -1,0 +1,8 @@
+[Intro_Inspector_boy SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It's all over now, lad. There is no use denying it. We know that you murdered your father. Patricide by plant poisoning! Very alliterative!"
+Subtitles[0]=(Text="It's all over now, lad. There is no use denying it. We know that you murdered your father. Patricide by plant poisoning! Very alliterative!")
+Comment=""
+

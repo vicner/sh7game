@@ -1,0 +1,24 @@
+[Intro_Sherlock_revolt SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Society would condemn her. But she could walk free."
+Subtitles[0]=(Text="Society would condemn her. But she could walk free.")
+Comment=""
+
+[Intro_Sherlock_pull SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Oh, do pull yourself together, Watson."
+Subtitles[0]=(Text="Oh, do pull yourself together, Watson.")
+Comment=""
+
+[Intro_Sherlock_nothing SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Why, nothing at all. Montague Dunne officially died of a heart attack. The case is closed."
+Subtitles[0]=(Text="Why, nothing at all. Montague Dunne officially died of a heart attack. The case is closed.")
+Comment=""
+

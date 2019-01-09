@@ -1,0 +1,11 @@
+[D15_Bucket_Glory SH7_DialogPhraseBucket]
+Topic="Your murder was a vengeance"
+QTETitle=""
+
+[D15_Bucket_Rights SH7_DialogPhraseBucket]
+Topic="You killed for justice"
+QTETitle=""
+
+[D15 SH7_Dialog]
+Info="Scotland Yard - Interrogation Room"
+

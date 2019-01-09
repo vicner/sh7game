@@ -1,0 +1,8 @@
+[Intro3_Watson_great SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Wonderful!"
+Subtitles[0]=(Text="Wonderful!")
+Comment=""
+

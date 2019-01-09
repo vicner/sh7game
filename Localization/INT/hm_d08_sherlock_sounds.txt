@@ -1,0 +1,16 @@
+[disguise_Sherlock_calm SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Calm down, Watson. Take deep breaths now. It's me."
+Subtitles[0]=(Text="Calm down, Watson. Take deep breaths now. It's me.")
+Comment=""
+
+[disguise_Sherlock_watson SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Thank you, Watson. That means I am ready to go!"
+Subtitles[0]=(Text="Thank you, Watson. That means I am ready to go!")
+Comment=""
+

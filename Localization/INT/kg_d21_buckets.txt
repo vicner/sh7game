@@ -1,0 +1,7 @@
+[D21 SH7_Dialog]
+Info="The Divine Syndicare - Outdoors"
+
+[D21_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+

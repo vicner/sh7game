@@ -1,0 +1,32 @@
+[Drame_Watson_tragedy SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It is quite understandable that you might forget about the theft of plants, Miss, after the tragedy that took place here."
+Subtitles[0]=(Text="It is quite understandable that you might forget about the theft of plants, Miss, after the tragedy that took place here.")
+Comment=""
+
+[tendays_Watson_theft SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes, a theft of plants that took place here a few days ago, after their most recent exhibition."
+Subtitles[0]=(Text="Yes, a theft of plants that took place here a few days ago, after their most recent exhibition.")
+Comment=""
+
+[Intro_Watson_hello SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Good day to you, Miss! You have some very beautiful plants here!"
+Subtitles[0]=(Text="Good day to you, Miss! You have some very beautiful plants here!")
+Comment=""
+
+[Intro_Watson_pardon SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I do beg your pardon. My name is Doctor John Watson, and this is my good friend, Mister Sherlock Holmes."
+Subtitles[0]=(Text="I do beg your pardon. My name is Dr. John Watson, and this is my good friend, Mr. Sherlock Holmes.")
+Comment=""
+

@@ -1,0 +1,8 @@
+[wiggins_Wiggins_holmes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, but you promised to save him!"
+Subtitles[0]=(Text="Mr. Holmes, but you promised to save him!")
+Comment=""
+

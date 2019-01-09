@@ -1,0 +1,168 @@
+[cairns_Sherlock_bet SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I've heard all about the gambling on arm wrestling here. You seem the likely sort, and I'm up for it."
+Subtitles[0]=(Text="I've heard all about the gambling on arm wrestling here. You seem the likely sort, and I'm up for it.")
+Comment=""
+
+[blackpeter_Sherlock_name SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Black Peter, you say? I've heard rumours about that one."
+Subtitles[0]=(Text="Black Peter, you say? I've heard rumours about that one.")
+Comment=""
+
+[blackpeter_Sherlock_right SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I see. Yes, I was told terrible tales about Black Peter."
+Subtitles[0]=(Text="I see. Yes, I was told terrible tales about Black Peter.")
+Comment=""
+
+[cairns_Sherlock_cairns SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Hullo there, are you Cairns?"
+Subtitles[0]=(Text="Hullo there, are you Cairns?")
+Comment=""
+
+[continue_Sherlock_try SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I'm ready to try again."
+Subtitles[0]=(Text="I'm ready to try again.")
+Comment=""
+
+[cairns_Sherlock_fine SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Suits me."
+Subtitles[0]=(Text="Suits me.")
+Comment=""
+
+[drink_Sherlock_drink SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I'd like to buy you a drink."
+Subtitles[0]=(Text="I'd like to buy you a drink.")
+Comment=""
+
+[experience_Sherlock_adventures SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="A harpooner? Interesting. You've had a lot of adventures, I bet."
+Subtitles[0]=(Text="A harpooner? Interesting. You've had a lot of adventures, I bet.")
+Comment=""
+
+[moredrink_Sherlock_drink2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Tell me. And let's have another drink."
+Subtitles[0]=(Text="Tell me. And let's have another drink.")
+Comment=""
+
+[intro2_Sherlock_not SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Not all that much."
+Subtitles[0]=(Text="Not all that much.")
+Comment=""
+
+[person_Sherlock_weird SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="That's strange enough."
+Subtitles[0]=(Text="That's strange enough.")
+Comment=""
+
+[person_Sherlock_who SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And who was he?"
+Subtitles[0]=(Text="And who was he?")
+Comment=""
+
+[plantpouch_Sherlock_rick SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Back in a second. I'm off to the carsey."
+Subtitles[0]=(Text="Back in a second. I'm off to the carsey.")
+Comment=""
+
+[basil_Sherlock_appointment SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, I have to go now. I know a captain who is planning an expedition to Cape Cod. Captain Ahab is his name. He commanded \"The Pequod.\" He might need good harpooners. I'll tell him about you."
+Subtitles[0]=(Text="Well, I have to go now. I know a captain who is planning an expedition to Cape Cod. Captain Ahab is his name. He commanded \"The Pequod.\" He might need good harpooners. I'll tell him about you.")
+Comment=""
+
+[quit_Sherlock_stop SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I've had enough. You're too strong."
+Subtitles[0]=(Text="I've had enough. You're too strong.")
+Comment=""
+
+[you_Sherlock_you SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You know what happened, don't you?"
+Subtitles[0]=(Text="You know what happened, don't you?")
+Comment=""
+
+[tobacco_Sherlock_see SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Oh is this your tobacco pouch?"
+Subtitles[0]=(Text="Oh is this your tobacco pouch?")
+Comment=""
+
+[tobacco_Sherlock_smoke SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Have you got any tobacco? I've run out of mine."
+Subtitles[0]=(Text="Have you got any tobacco? I've run out of mine.")
+Comment=""
+
+[work_Sherlock_job SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Why do you say poor? You're not working?"
+Subtitles[0]=(Text="Why do you say poor? You're not working?")
+Comment=""
+
+[you_Sherlock_murderer SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Black Peter is a murderer!"
+Subtitles[0]=(Text="Black Peter is a murderer!")
+Comment=""
+
+[you_Sherlock_sure SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Of course."
+Subtitles[0]=(Text="Of course.")
+Comment=""
+

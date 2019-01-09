@@ -1,0 +1,8 @@
+[AG_Cmt_Wiggins_md039 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I left it right on the table for you, sir!"
+Subtitles[0]=(Text="I left it right on the table for you, sir!")
+Comment=""
+

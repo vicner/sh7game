@@ -1,0 +1,80 @@
+[CaseMessage_inter_doc_blindlake Data_SH7_CaseMessage]
+Style="bloodysheet"
+Label="Mycroft's resentment"
+Description="<FONT SIZE=\"28\"><br /><i><p align='left'>Sherlock, dear brother,</p><p align='justify'>you have made the most terrible mistake once again. Are you quite aware of the fact that the Empire is at the brink of international conflict?<br />How could you pass this incredibly sensitive case to those feather-brained Scotland Yard bobbies?<br />Very well, yes, they caught the criminals, but have you not read the newspapers?<br /><br />The great fuss that has risen around it? They are generalising all \"Mexicans\"!<br />And as you may know, the Empire has arrangements with a great many varied and loyal Mexican enterprises. You should think about that.</p><p align='right'>Yours, Mycroft.</p></Font></i>"
+
+[CaseMessage_inter_doc_blindrobinson Data_SH7_CaseMessage]
+Style="bloodysheet"
+Label="Mycroft's complaint"
+Description="<FONT SIZE=\"28\"><i><p align='left'>Sherlock, dear brother,</p><p align='justify'>you have made the most terrible mistake once again. Are you quite aware of who exactly Mr. Thomas Robinson is?<br />Well, I shall tell you: not only is he a well-known inventor and a valued member of society, but he is also an official government negotiator for technical development.<br />And now that he is in prison we shall have to find another \"inventor\"!<br />Take a look at what you have done... I believe that you are blinded by so-called 'justice' above all things.</p><p align='right'>Yours, Mycroft.</p></Font></i>"
+
+[CaseMessage_inter_doc_handlelake Data_SH7_CaseMessage]
+Style="newspaper"
+Label="Power of the Empire"
+Description="<FONT SIZE=\"28\"><p align='justify'><B>The power of the Empire is growing stronger, day by day!</B><br /><br />As of yesterday, the Mexican consortium \"Caracal\" began serving the cause of the British Empire.<br />This arrangement is undeniably profitable for London and England overall, and is a great achievement for our exceptional diplomatic and political community!</Font><FONT SIZE=\"12\"><br></Font><br><FONT SIZE=\"28\">In other news: a train has mysteriously disappeared en route to Evesham railway station...</p></Font>"
+
+[CaseMessage_inter_doc_handlerobinson Data_SH7_CaseMessage]
+Style="newspaper"
+Label="Technical progress of the Empire"
+Description="<FONT SIZE=\"28\"><p align='justify'>The technical progress of the British Empire is now an example to the international community!<br />Three days ago, our own famous inventor, Mr. Thomas Robinson, presented a prototype of his most recent invention: the 'Autonomous Electricity Generator'.<br>It caused an incredible furore! It is another confirmation of the fact that our Empire has produced so very many eminent people.</Font><FONT SIZE=\"12\"><br></Font><FONT SIZE=\"28\"><br>In other news: a train has mysteriously disappeared en route to Evesham railway station...</p></Font>"
+
+[CaseTrophy_tr_trophy Data_SH7_CaseTrophy]
+Label="Train Whistle"
+Description="Train Whistle"
+
+[Conclusion_tr_conclusion_1 Data_SH7_Conclusion]
+Label="Mexicans sealed in Chileans"
+Description="It was carefully planned murder. The Mexicans killed the Chileans, and sealed the train underneath the collapsed mines to hide their crime."
+
+[Conclusion_tr_conclusion_2 Data_SH7_Conclusion]
+Label="Mexicans drowned Chileans"
+Description="It was carefully planned murder. The Mexicans killed the Chileans, and sank the train in a flooded quarry to hide their crime."
+
+[Conclusion_tr_conclusion_3 Data_SH7_Conclusion]
+Label="Robinson is a swindler"
+Description="It was all about money. Mr. Robinson is a financial swindler. With the aid of his minions he sealed the train and his fake machine underneath the collapsed mines to make a fortune from multiple contracts and insurance claim."
+
+[Conclusion_tr_conclusion_4 Data_SH7_Conclusion]
+Label="Chileans stole the prototype"
+Description="The Chileans stole the prototype, and sealed the train underneath the collapsed mines to hide their crime."
+
+[MoralChoice_trn_moralchoice_1 Data_SH7_MoralChoice]
+Label="Blind Justice"
+Description="The Mexicans' inhumanity towards the Chileans has cost many lives. We must act quickly. Contact Lestrade and allow the police to perform their loud and swift justice, even at the risk of international conflict."
+EndCaseText="It was carefully planned murder. The Mexicans killed the Chileans, and sealed the train underneath the collapsed mines to hide their crime. The Mexicans' inhumanity towards the Chileans cost many lives, so the decision was made to act quickly. Lestrade will be informed."
+
+[MoralChoice_trn_moralchoice_2 Data_SH7_MoralChoice]
+Label="Political game"
+Description="A criminal organisation such as this cannot be confronted directly. It requires a delicate approach. Give Mycroft the chance to resolve the conflict, even though it might be protracted and turned to his own advantage."
+EndCaseText="It was carefully planned murder. The Mexicans killed the Chileans, and sealed the train underneath the collapsed mines to hide their crime. A criminal organisation such as this cannot be confronted directly. It requires a delicate approach. The decision was made to give Mycroft the chance to resolve the conflict."
+
+[MoralChoice_trn_moralchoice_3 Data_SH7_MoralChoice]
+Label="Blind Justice"
+Description="The Mexicans' inhumanity towards the Chileans has cost many lives. We must act quickly. Contact Lestrade and allow the police to perform their loud and swift justice, even at the risk of international conflict."
+EndCaseText="It was carefully planned murder. The Mexicans killed the Chileans, and sank the train to hide their crime. The dam breach was played to their advantage - they used their own barges to keep the train on the run for a few seconds and then sank it in the flooded quarry. The railway tracks were removed to hide the crime. The Mexicans' inhumanity towards the Chileans cost many lives, so the decision was made to act quickly. Lestrade will be informed."
+
+[MoralChoice_trn_moralchoice_4 Data_SH7_MoralChoice]
+Label="Political game"
+Description="A criminal organisation such as this cannot be confronted directly. It requires a delicate approach. Give Mycroft the chance to resolve the conflict, even though it might be protracted and turned to his own advantage."
+EndCaseText="It was carefully planned murder. The Mexicans killed the Chileans, and sank the train to hide their crime. The dam breach was played to their advantage - they used their own barges to keep the train on the run for a few seconds and then sank it in the flooded quarry. The railway tracks were removed to hide the crime. A criminal organisation such as this cannot be confronted directly. It requires a delicate approach. The decision was made to give Mycroft the chance to resolve the conflict."
+
+[MoralChoice_trn_moralchoice_5 Data_SH7_MoralChoice]
+Label="Blind Justice"
+Description="Thomas Robinson is a guileful man who would not hesitate to sacrifice lives for his own personal gain. Contact Lestrade and allow the police to perform their loud and swift justice, before he plans a new swindle."
+EndCaseText="Mr. Robinson is a financial swindler. With the aid of his minions he sealed the train and his fake machine underneath the collapsed mines to make a fortune from multiple contracts and the insurance claim. The decision was made to contact Lestrade, and allow the police to perform their loud and swift justice before Robinson can plan a new swindle."
+
+[MoralChoice_trn_moralchoice_6 Data_SH7_MoralChoice]
+Label="Political game"
+Description="Robinson is a swindler, but he is a famous man of influence. Direct confrontation is inadvisable; it would be preferable to accept Mycroft's 'political' means of resolving the situation, even at the expense of justice."
+EndCaseText="Mr. Robinson is a financial swindler. With the aid of his minions he sealed the train and his fake machine underneath the collapsed mines to make a fortune from multiple contracts and the insurance claim. Direct confrontation is inadvisable, so the decision was made to accept Mycroft's 'political' means of resolving the situation."
+
+[MoralChoice_trn_moralchoice_7 Data_SH7_MoralChoice]
+Label="Blind Justice"
+Description="The Chileans stole Robinson's prototype for financial gain. Who knows what they might do next? Contact Lestrade and allow the police to perform their loud and swift justice, even at the risk of international conflict."
+EndCaseText="The Chileans stole the prototype, and sealed the train underneath the collapsed mines to hide their crime. The decision was made to contact Lestrade, and allow the police to perform their loud and swift justice even at the risk of international conflict."
+
+[MoralChoice_trn_moralchoice_8 Data_SH7_MoralChoice]
+Label="Political game"
+Description="A criminal organisation such as this cannot be confronted directly. It requires a delicate approach. Give Mycroft the chance to resolve the conflict, even though it might be protracted and turned to his own advantage."
+EndCaseText="The Chileans stole the prototype, and sealed the train underneath the collapsed mines to hide their crime. The decision was made to give Mycroft the chance to resolve the conflict, even though it might be protracted and turned to his own advantage."
+

@@ -1,0 +1,14 @@
+[SH7_ActionZone]
+Sherlock=Sherlock
+Watson=Watson
+golden knife=The Golden Knife
+Puzzle=Table with stones
+lamp=Broken lamp
+rope=Rope
+Lever=Lever
+Exit=Exit
+Symbol=Symbol
+PutRock=Rock
+Take Rock=Rock
+Scales=Scales
+

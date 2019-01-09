@@ -1,0 +1,40 @@
+[QTE_suicide_m3_watson_think SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I... I'll think about it, Holmes."
+Subtitles[0]=(Text="I... I'll think about it, Holmes.")
+Comment=""
+
+[QTE_suicide_m2_watson_not SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Not guilty, my lord!"
+Subtitles[0]=(Text="Not guilty, my lord!")
+Comment=""
+
+[Node_Watson_what SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Holmes... What should we do now? Would you like to check his alibi?"
+Subtitles[0]=(Text="Holmes... What should we do now? Would you like to check his alibi?")
+Comment=""
+
+[Node_Watson_then SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="So what then?"
+Subtitles[0]=(Text="So what then?")
+Comment=""
+
+[QTE_suicide_m3_watson_over SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It's over, Holmes... We can do nothing for him now."
+Subtitles[0]=(Text="It's over, Holmes... We can do nothing for him now.")
+Comment=""
+

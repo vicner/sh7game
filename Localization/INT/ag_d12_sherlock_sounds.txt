@@ -1,0 +1,48 @@
+[Arrest_Sherlock_impossible SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Or rather... Impossible..."
+Subtitles[0]=(Text="Or rather... Impossible...")
+Comment=""
+
+[NoArrest_Sherlock_ladyguilty SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ladies, I know the full story. You are both guilty, are you not?"
+Subtitles[0]=(Text="Ladies, I know the full story. You are both guilty, are you not?")
+Comment=""
+
+[NoArrest_Sherlock_iknow2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="However, your mise-en-scene to divert suspicion was unnecessary. You should have admitted the truth."
+Subtitles[0]=(Text="However, your mise-en-scene to divert suspicion was unnecessary. You should have admitted the truth.")
+Comment=""
+
+[NoArrest_Sherlock_iknow SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It is no use. Your husband was a violent man; a cruel man. Your argument last night ended tragically, with him stumbling and falling, fatally striking his head upon the fireplace grate."
+Subtitles[0]=(Text="It is no use. Your husband was a violent man; a cruel man. Your argument last night ended tragically, with him stumbling and falling, fatally striking his head upon the fireplace grate.")
+Comment=""
+
+[NoArrest_Sherlock_eyes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Not to me."
+Subtitles[0]=(Text="Not to me.")
+Comment=""
+
+[NoArrest_Sherlock_nofind SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="He will find nothing, as he handed the case over to me. Farewell, ladies."
+Subtitles[0]=(Text="He will find nothing, as he handed the case over to me. Farewell, ladies.")
+Comment=""
+

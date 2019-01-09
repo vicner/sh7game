@@ -1,0 +1,16 @@
+[AG_Cmt_Crocker_md031 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, talk then, Mister Holmes, I'm listening!"
+Subtitles[0]=(Text="Well, talk then, Mr. Holmes, I'm listening!")
+Comment=""
+
+[AG_Cmt_Crocker_md027 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="So what, Holmes?"
+Subtitles[0]=(Text="So what, Holmes?")
+Comment=""
+

@@ -1,0 +1,16 @@
+[LockedDoor_Watson_timeline SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="With a timeline, such as we did in the \"Jack the Ripper\" case?"
+Subtitles[0]=(Text="With a timeline, such as we did in the \"Jack the Ripper\" case?")
+Comment=""
+
+[LockedDoor_Watson_maybe SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You mean to say... that somebody helped him?"
+Subtitles[0]=(Text="You mean to say... that somebody helped him?")
+Comment=""
+

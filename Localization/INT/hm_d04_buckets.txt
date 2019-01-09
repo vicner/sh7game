@@ -1,0 +1,39 @@
+[D04 SH7_Dialog]
+Info="Half Moon Street"
+
+[D04_Bucket_anyone SH7_DialogPhraseBucket]
+Topic="Anyone else?"
+QTETitle=""
+
+[D04_Bucket_conflict SH7_DialogPhraseBucket]
+Topic="The contradiction of statements"
+QTETitle=""
+
+[D04_Bucket_conflict_lose SH7_DialogPhraseBucket]
+Topic="conflict_lose"
+QTETitle=""
+
+[D04_Bucket_conflict_qte SH7_DialogPhraseBucket]
+Topic="conflict_qte"
+QTETitle="I stayed at the window"
+
+[D04_Bucket_conflict_win SH7_DialogPhraseBucket]
+Topic="conflict_win"
+QTETitle=""
+
+[D04_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D04_Bucket_shots SH7_DialogPhraseBucket]
+Topic="Two distinctive shots"
+QTETitle=""
+
+[D04_Bucket_statement SH7_DialogPhraseBucket]
+Topic="Testimony"
+QTETitle=""
+
+[D04_Bucket_window SH7_DialogPhraseBucket]
+Topic="After the escape"
+QTETitle=""
+

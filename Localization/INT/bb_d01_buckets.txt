@@ -1,0 +1,35 @@
+[D01_Bucket_Intro1 SH7_DialogPhraseBucket]
+Topic="Intro1"
+QTETitle=""
+
+[D01_Bucket_No SH7_DialogPhraseBucket]
+Topic="Wait"
+QTETitle=""
+
+[D01_Bucket_intro4 SH7_DialogPhraseBucket]
+Topic="intro4"
+QTETitle=""
+
+[D01_Bucket_Intro2 SH7_DialogPhraseBucket]
+Topic="Intro2"
+QTETitle=""
+
+[D01_Bucket_Yes SH7_DialogPhraseBucket]
+Topic="No objections"
+QTETitle=""
+
+[D01_Bucket_Call SH7_DialogPhraseBucket]
+Topic="The crime weapon"
+QTETitle=""
+
+[D01_Bucket_Suspects SH7_DialogPhraseBucket]
+Topic="Suspects"
+QTETitle=""
+
+[D01 SH7_Dialog]
+Info="Strand Lane Baths - Hall"
+
+[D01_Bucket_Witnesses SH7_DialogPhraseBucket]
+Topic="Witnesses"
+QTETitle=""
+

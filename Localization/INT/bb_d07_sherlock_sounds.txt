@@ -1,0 +1,160 @@
+[Garrow_Sherlock_drug SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Are you aware that Mister Garrow is under a form of medication?"
+Subtitles[0]=(Text="Are you aware that Mr. Garrow is under a form of medication?")
+Comment=""
+
+[Profession_Sherlock_owner SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I see. When do you wish to begin using the baths?"
+Subtitles[0]=(Text="I see. When do you wish to begin using the baths?")
+Comment=""
+
+[Hello_Sherlock_hello SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Good day to you, Sir Gregory. My name is Sherlock Holmes. I am assisting the police with their investigation of the murder that took place this morning. Would you mind answering a few questions?"
+Subtitles[0]=(Text="Good day to you, Sir Gregory. My name is Sherlock Holmes. I am assisting the police with their investigation of the murder that took place this morning. Would you mind answering a few questions?")
+Comment=""
+
+[PitkinIntro_Sherlock_things SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="How was the work progressing before Sir Rodney's arrival?"
+Subtitles[0]=(Text="How was the work progressing before Sir Rodney's arrival?")
+Comment=""
+
+[Mithras_Sherlock_fear2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And you are not concerned by the reputation of this artifact?"
+Subtitles[0]=(Text="And you are not concerned by the reputation of this artifact?")
+Comment=""
+
+[Pitkin_Sherlock_sir SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But the arrival of Sir Rodney changed your mind?"
+Subtitles[0]=(Text="But the arrival of Sir Rodney changed your mind?")
+Comment=""
+
+[Champagne_Sherlock_champagne SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Did you bring a bottle of Champagne to the baths?"
+Subtitles[0]=(Text="Did you bring a bottle of Champagne to the baths?")
+Comment=""
+
+[Detail_Sherlock_odd SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Had Sir Rodney exhibited any recent strange behaviour?"
+Subtitles[0]=(Text="Had Sir Rodney exhibited any recent strange behaviour?")
+Comment=""
+
+[Detail_Sherlock_why SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Why should you think that? Where?"
+Subtitles[0]=(Text="Why should you think that? Where?")
+Comment=""
+
+[Pitkin_Sherlock_letter SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Sir Gregory, could you please explain this letter? You expressed the wish to call off the research work at the baths."
+Subtitles[0]=(Text="Sir Gregory, could you please explain this letter? You expressed the wish to call off the research work at the baths.")
+Comment=""
+
+[Relation_Sherlock_relation SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What was your relationship with Sir Rodney Bentcliffe?"
+Subtitles[0]=(Text="What was your relationship with Sir Rodney Bentcliffe?")
+Comment=""
+
+[Witness_Sherlock_event SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Please tell me what happened this morning."
+Subtitles[0]=(Text="Please tell me what happened this morning.")
+Comment=""
+
+[Silver_Sherlock_Silver SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Some melted silver was found inside the steam room brazier. Do you know where it came from?"
+Subtitles[0]=(Text="Some melted silver was found inside the steam room brazier. Do you know where it came from?")
+Comment=""
+
+[Witness_Sherlock_what SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What did you see ?"
+Subtitles[0]=(Text="What did you see ?")
+Comment=""
+
+[PitkinQTE_Sherlock_fail SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I see."
+Subtitles[0]=(Text="I see.")
+Comment=""
+
+[Mithras_Sherlock_painting SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The paintings in the baths are focused on Mithras, I understand?"
+Subtitles[0]=(Text="The paintings in the baths are focused on Mithras, I understand?")
+Comment=""
+
+[Profession_Sherlock_curator SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are the manager of the baths, is that correct?"
+Subtitles[0]=(Text="You are the manager of the baths, is that correct?")
+Comment=""
+
+[Mithras_Sherlock_fear SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And that is why Sir Rodney came here?"
+Subtitles[0]=(Text="And that is why Sir Rodney came here?")
+Comment=""
+
+[Relation_Sherlock_obstacle SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Was he obstructive?"
+Subtitles[0]=(Text="Was he obstructive?")
+Comment=""
+
+[Garrow_Sherlock_killer SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Do you believe him to be capable of murder?"
+Subtitles[0]=(Text="Do you believe him to be capable of murder?")
+Comment=""
+

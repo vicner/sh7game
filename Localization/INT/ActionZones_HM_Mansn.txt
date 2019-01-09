@@ -1,0 +1,26 @@
+[SH7_ActionZone]
+Bead-Necklace=Bead necklace
+carpet=Carpet
+chandelier=Chandelier
+Closed Hatch=Closed hatch
+Corner=Corner
+Cup Board=Cupboard
+Cupboard=Cupboard
+Door Handle=Door handle
+hammer=Hammer
+Hatch=Hatch
+Kitchen Door=Kitchen door
+Last Stair=Stair
+Left Cupboard=Right bookcase
+mantelpiece=Mantelpiece
+Mop=Chair
+Right Cupboard=Bookcase
+rope=Rope
+Safe=Safe
+Staircase=Top stair
+Stove=Stove
+table=Table
+BooksBelow=Books
+SafeScratches=Scratches
+SafeLock=Lock
+

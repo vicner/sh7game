@@ -1,0 +1,8 @@
+[TR_Cmt_Chefd_md126 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You'll find nothing interesting here, I'm afraid."
+Subtitles[0]=(Text="You'll find nothing interesting here, I'm afraid.")
+Comment=""
+

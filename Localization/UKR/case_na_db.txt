@@ -1,0 +1,16 @@
+[Conclusion_conclusion_1 Data_SH7_Conclusion]
+Label="Shooter, Grossman and magnet"
+Description="Activated by a shooter  and assisting Grossman magnet stopped horses of cab1 that lead to the disatster in midst of which a murder and theft were comitted by shooter who thaen disappeared."
+
+[Conclusion_conclusion_2 Data_SH7_Conclusion]
+Label="Fakir, snake and cartdriver"
+Description="Horses of cab1 were stopped by snake that was freed intentionally by fakir that lead to a disaster, in midst of which a murder and theft were comitted by the driver of the cart"
+
+[Conclusion_conclusion_3 Data_SH7_Conclusion]
+Label="Counterweight, snake and cartdriver"
+Description="Horses of cab1 were stopped by the snake that was freed accidentally as the result of accidental fall of the scaffold counterweight, that lead to a disaster, in midst of which a murder and theft were comitted by the driver of the cart"
+
+[Conclusion_conclusion_4 Data_SH7_Conclusion]
+Label="Explosion and cartdriver"
+Description="Horses of cab1 were stopped by accidental explosion that lead to a disaster, in midst of which a murder and theft were comitted  by the driver of the cart"
+

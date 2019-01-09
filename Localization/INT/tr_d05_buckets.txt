@@ -1,0 +1,39 @@
+[D05_Bucket_Arrest SH7_DialogPhraseBucket]
+Topic="Arrest"
+QTETitle=""
+
+[D05_Bucket_insurance SH7_DialogPhraseBucket]
+Topic="Insurance for prototype"
+QTETitle=""
+
+[D05_Bucket_luggage SH7_DialogPhraseBucket]
+Topic="Important grip-sack"
+QTETitle=""
+
+[D05_Bucket_complains SH7_DialogPhraseBucket]
+Topic="Were you on the train?"
+QTETitle=""
+
+[D05_Bucket_engine SH7_DialogPhraseBucket]
+Topic="The prototype value"
+QTETitle=""
+
+[D05_Bucket_trade SH7_DialogPhraseBucket]
+Topic="Company direction"
+QTETitle=""
+
+[D05_Bucket_passagers SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D05_Bucket_robinson SH7_DialogPhraseBucket]
+Topic="Mr. Robinson"
+QTETitle=""
+
+[D05_Bucket_special_wagon SH7_DialogPhraseBucket]
+Topic="Special wagon"
+QTETitle=""
+
+[D05 SH7_Dialog]
+Info="Bridlington Station"
+

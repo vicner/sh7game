@@ -1,0 +1,32 @@
+[HM_Cmt_Turner_md020 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Anything else you would like to know, Mister Holmes?"
+Subtitles[0]=(Text="Anything else you would like to know, Mr. Holmes?")
+Comment=""
+
+[hm_cmt_turner_md038 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I am so glad that the murderer has been caught!"
+Subtitles[0]=(Text="I am so glad that the murderer has been caught!")
+Comment=""
+
+[hm_cmt_turner_md042 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I wish this crime had never happened, Mister Holmes."
+Subtitles[0]=(Text="I wish this crime had never happened, Mr. Holmes.")
+Comment=""
+
+[hm_cmt_turner_md056 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="That's why it's better to stay at home at night."
+Subtitles[0]=(Text="That's why it's better to stay at home at night.")
+Comment=""
+

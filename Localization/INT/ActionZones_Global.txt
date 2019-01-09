@@ -1,0 +1,28 @@
+[SH7_ActionZone]
+Inspector=Inspector
+Policeman=Policeman
+encyclopedias=Encyclopedias
+newspapers=Newspapers
+researches=Research
+wardrobe=Wardrobe
+makeup=Make-up table
+door=Door
+Rotate right=Rotate right
+Handle=Handle
+Rotate left=Rotate left
+analysistable=Analysis table
+wigginswindow=Window
+Watson=Watson
+Toby=Toby
+wiggins=Wiggins
+hudson=Mrs. Hudson
+window=Window
+Map=Map
+MapOfLondon=Map
+DoorSH=Door to Holmes's room
+DoorW=Door to Watson's room
+letter=Letter
+Letters=Letters
+Cab=Cab
+telescope=Telescope
+

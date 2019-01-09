@@ -1,0 +1,59 @@
+[D14_Bucket_Mexican SH7_DialogPhraseBucket]
+Topic="Mexican"
+QTETitle=""
+
+[D14_Bucket_Lestrade SH7_DialogPhraseBucket]
+Topic="Lestrade"
+QTETitle=""
+
+[D14_Bucket_NotEnd SH7_DialogPhraseBucket]
+Topic="NotEnd"
+QTETitle=""
+
+[D14_Bucket_Drowned SH7_DialogPhraseBucket]
+Topic="Drowned"
+QTETitle=""
+
+[D14_Bucket_Outro3_2 SH7_DialogPhraseBucket]
+Topic="Outro3_2"
+QTETitle=""
+
+[D14_Bucket_Sealed SH7_DialogPhraseBucket]
+Topic="Trapped"
+QTETitle=""
+
+[D14_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D14 SH7_Dialog]
+Info="Doncaster Station"
+
+[D14_Bucket_Mycroft SH7_DialogPhraseBucket]
+Topic="Mycroft"
+QTETitle=""
+
+[D14_Bucket_Outro_mid SH7_DialogPhraseBucket]
+Topic="Outro_mid"
+QTETitle=""
+
+[D14_Bucket_Robinson SH7_DialogPhraseBucket]
+Topic="Robinson"
+QTETitle=""
+
+[D14_Bucket_Outro1_2 SH7_DialogPhraseBucket]
+Topic="Outro1_2"
+QTETitle=""
+
+[D14_Bucket_Outro2 SH7_DialogPhraseBucket]
+Topic="Outro2"
+QTETitle=""
+
+[D14_Bucket_Outro3_1 SH7_DialogPhraseBucket]
+Topic="Outro3_1"
+QTETitle=""
+
+[D14_Bucket_Outro1 SH7_DialogPhraseBucket]
+Topic="Outro1"
+QTETitle=""
+

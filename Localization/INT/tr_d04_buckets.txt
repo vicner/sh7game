@@ -1,0 +1,35 @@
+[D04_Bucket_anomaly SH7_DialogPhraseBucket]
+Topic="Strange message"
+QTETitle=""
+
+[D04 SH7_Dialog]
+Info="Chesterfield Station"
+
+[D04_Bucket_shotplug SH7_DialogPhraseBucket]
+Topic="Chesterfield Master's booze"
+QTETitle=""
+
+[D04_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D04_Bucket_instruments SH7_DialogPhraseBucket]
+Topic="Dirty Instruments"
+QTETitle=""
+
+[D04_Bucket_workers SH7_DialogPhraseBucket]
+Topic="Workers?"
+QTETitle=""
+
+[D04_Bucket_passagers SH7_DialogPhraseBucket]
+Topic="Train Passengers"
+QTETitle=""
+
+[D04_Bucket_anomalyQTE SH7_DialogPhraseBucket]
+Topic="anomalyQTE"
+QTETitle="I clearly remember that train"
+
+[D04_Bucket_nosuccess SH7_DialogPhraseBucket]
+Topic="nosuccess"
+QTETitle=""
+

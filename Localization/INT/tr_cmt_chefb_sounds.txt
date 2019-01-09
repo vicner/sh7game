@@ -1,0 +1,8 @@
+[TR_Cmt_Chefb_md121 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Don't touch anything, please."
+Subtitles[0]=(Text="Don't touch anything, please.")
+Comment=""
+

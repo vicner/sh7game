@@ -1,0 +1,8 @@
+[TR_Cmt_Australian_md125 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I will not move from here until I receive my refund!!"
+Subtitles[0]=(Text="I will not move from here until I receive my refund!!")
+Comment=""
+

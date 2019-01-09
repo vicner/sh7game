@@ -1,0 +1,16 @@
+[KG_Cmt_Inspector_md287 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes, we found him like that."
+Subtitles[0]=(Text="Yes, we found him like that.")
+Comment=""
+
+[KG_Cmt_Inspector_md125 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Martyn Hamish is in the Large Glasshouse... There is no need to hurry..."
+Subtitles[0]=(Text="Martyn Hamish is in the Large Glasshouse... There is no need to hurry...")
+Comment=""
+

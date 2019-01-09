@@ -1,0 +1,8 @@
+[poster_Sherlock_worry SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Don't worry, Watson. I predict some news... in seven seconds."
+Subtitles[0]=(Text="Don't worry, Watson. I predict some news... in seven seconds.")
+Comment=""
+

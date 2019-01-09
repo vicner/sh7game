@@ -1,0 +1,55 @@
+[D07_Bucket_PitkinQTE SH7_DialogPhraseBucket]
+Topic="works"
+QTETitle=""
+
+[D07_Bucket_Witness SH7_DialogPhraseBucket]
+Topic="The murder"
+QTETitle=""
+
+[D07_Bucket_Pitkin SH7_DialogPhraseBucket]
+Topic="Pitkin"
+QTETitle=""
+
+[D07_Bucket_Garrow SH7_DialogPhraseBucket]
+Topic="Drug"
+QTETitle=""
+
+[D07_Bucket_Champagne SH7_DialogPhraseBucket]
+Topic="Champagne"
+QTETitle=""
+
+[D07_Bucket_PitkinIntro_well SH7_DialogPhraseBucket]
+Topic="Your Work_well"
+QTETitle="Work progress"
+
+[D07_Bucket_Silver SH7_DialogPhraseBucket]
+Topic="Melted Silver"
+QTETitle=""
+
+[D07_Bucket_PitkinIntro SH7_DialogPhraseBucket]
+Topic="Your Work"
+QTETitle=""
+
+[D07_Bucket_Hello SH7_DialogPhraseBucket]
+Topic="Good day"
+QTETitle=""
+
+[D07_Bucket_Detail SH7_DialogPhraseBucket]
+Topic="Recent unusual event?"
+QTETitle=""
+
+[D07_Bucket_Profession SH7_DialogPhraseBucket]
+Topic="Your profession"
+QTETitle=""
+
+[D07_Bucket_Relation SH7_DialogPhraseBucket]
+Topic="Sir Rodney"
+QTETitle=""
+
+[D07 SH7_Dialog]
+Info="Scotland Yard - Interrogation Room"
+
+[D07_Bucket_Mithras SH7_DialogPhraseBucket]
+Topic="Mithras"
+QTETitle=""
+

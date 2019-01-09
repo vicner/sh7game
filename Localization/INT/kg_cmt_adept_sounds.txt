@@ -1,0 +1,24 @@
+[KG_Cmt_adept_md225 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Osmosis and photosynthesis."
+Subtitles[0]=(Text="Osmosis and photosynthesis.")
+Comment=""
+
+[KG_Cmt_adept_md224 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You came to make a donation? Glory to Trewan!"
+Subtitles[0]=(Text="You came to make a donation? Glory to Trewan!")
+Comment=""
+
+[KG_Cmt_adept_md223 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Praise the grand tree! Praise it!"
+Subtitles[0]=(Text="Praise the grand tree! Praise it!")
+Comment=""
+

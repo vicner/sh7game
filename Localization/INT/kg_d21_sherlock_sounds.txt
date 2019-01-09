@@ -1,0 +1,40 @@
+[Intro_Sherlock_noose SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Now that the rope has tightened around Martyn Hamish, Miss White must act to erase all traces of her implication."
+Subtitles[0]=(Text="Now that the rope has tightened around Martyn Hamish, Miss White must act to erase all traces of her implication.")
+Comment=""
+
+[Intro_Sherlock_divine SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="After the suicide of her accomplice, there is one final trace remaining: the deadly plants of the Divine Syndicate. She will be there."
+Subtitles[0]=(Text="After the suicide of her accomplice, there is one final trace remaining: the deadly plants of the Divine Syndicate. She will be there.")
+Comment=""
+
+[Intro_Sherlock_behind SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Just one moment. Listen to me, Watson: I shall see her alone. You will conceal yourself behind her. Quietly."
+Subtitles[0]=(Text="Just one moment. Listen to me, Watson: I shall see her alone. You will conceal yourself behind her. Quietly.")
+Comment=""
+
+[Intro_Sherlock_spirit SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Nothing spectacular. The impulses of women have always been a mystery to me. But she is a bold one, and so we must be cautious."
+Subtitles[0]=(Text="Nothing spectacular. The impulses of women have always been a mystery to me. But she is a bold one, and so we must be cautious.")
+Comment=""
+
+[Intro_Sherlock_obvious SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It is obvious, Watson. Just use your brain."
+Subtitles[0]=(Text="It is obvious, Watson. Just use your brain.")
+Comment=""
+

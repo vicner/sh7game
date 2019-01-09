@@ -1,0 +1,16 @@
+[HM_Cmt_Leighton_md041 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Please believe me, Mister Holmes - I am not a killer."
+Subtitles[0]=(Text="Please believe me, Mr. Holmes - I am not a killer.")
+Comment=""
+
+[hm_cmt_leighton_md057 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Tell our Wiggins that I'll be fine."
+Subtitles[0]=(Text="Tell our Wiggins that I'll be fine.")
+Comment=""
+

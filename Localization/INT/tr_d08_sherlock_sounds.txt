@@ -1,0 +1,104 @@
+[done_Sherlock_calm SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ah, Watson, you should not jump to conclusions. In fact, this does not tell us very much at all, except that the train did not evaporate into thin air."
+Subtitles[0]=(Text="Ah, Watson, you should not jump to conclusions. In fact, this does not tell us very much at all, except that the train did not evaporate into thin air.")
+Comment=""
+
+[done_Sherlock_think SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Watson, I do believe that we have created an exact replica of the train that vanished in front of us last night."
+Subtitles[0]=(Text="Watson, I do believe that we have created an exact replica of the train that vanished in front of us last night.")
+Comment=""
+
+[Intro2_Sherlock_no SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But that is it! We didn't see the train itself!"
+Subtitles[0]=(Text="But that is it! We didn't see the train itself!")
+Comment=""
+
+[done_Sherlock_surprised SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The criminal mind can be most inventive. I am somewhat in awe."
+Subtitles[0]=(Text="The criminal mind can be most inventive. I am somewhat in awe.")
+Comment=""
+
+[Intro2_Sherlock_poin SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="A little patience, Watson. You will understand my point quite soon."
+Subtitles[0]=(Text="A little patience, Watson. You will understand my point quite soon.")
+Comment=""
+
+[Intro2_Sherlock_agree SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Then you are of the opinion that a train cannot simply disappear?"
+Subtitles[0]=(Text="Then you are of the opinion that a train cannot simply disappear?")
+Comment=""
+
+[Intro2_Sherlock_sure SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Watson, please tell me - do you believe in magic?"
+Subtitles[0]=(Text="Watson, please tell me - do you believe in magic?")
+Comment=""
+
+[Intro2_Sherlock_how SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="So... are you quite certain that you saw the train at Evesham station?"
+Subtitles[0]=(Text="So... are you quite certain that you saw the train at Evesham station?")
+Comment=""
+
+[Intro_Sherlock_here SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="So now here we have the fake train that we saw approaching Evesham station last night."
+Subtitles[0]=(Text="So now here we have the fake train that we saw approaching Evesham station last night.")
+Comment=""
+
+[done_Sherlock_archives SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I suggest we use my archives to find a more detailed map of our surroundings."
+Subtitles[0]=(Text="I suggest we use my archives to find a more detailed map of our surroundings.")
+Comment=""
+
+[Intro_Sherlock_patient SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Be patient, Watson. I haven't finished yet."
+Subtitles[0]=(Text="Be patient, Watson. I haven't finished yet.")
+Comment=""
+
+[Intro_Sherlock_missing SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Try using your imagination. Our 'train' requires only a headlight and a steam whistle."
+Subtitles[0]=(Text="Try using your imagination. Our 'train' requires only a headlight and a steam whistle.")
+Comment=""
+
+[done_Sherlock_find SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Hah! At any rate, we now need to find where the real train might be hidden."
+Subtitles[0]=(Text="Hah! At any rate, we now need to find where the real train might be hidden.")
+Comment=""
+

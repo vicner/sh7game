@@ -1,0 +1,8 @@
+[poster_Watson_hope SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I do hope that those children don't get into trouble, Holmes."
+Subtitles[0]=(Text="I do hope that those children don't get into trouble, Holmes.")
+Comment=""
+

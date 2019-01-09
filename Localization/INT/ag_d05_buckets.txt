@@ -1,0 +1,23 @@
+[D05 SH7_Dialog]
+Info="221B Baker Street"
+
+[D05_Bucket_BookBrought SH7_DialogPhraseBucket]
+Topic="The register"
+QTETitle=""
+
+[D05_Bucket_Come SH7_DialogPhraseBucket]
+Topic="come"
+QTETitle=""
+
+[D05_Bucket_Crocker SH7_DialogPhraseBucket]
+Topic="Fetch the Captain for me"
+QTETitle=""
+
+[D05_Bucket_Crocker2 SH7_DialogPhraseBucket]
+Topic="Fetch the Captain for me.2"
+QTETitle=""
+
+[D05_Bucket_GetBook SH7_DialogPhraseBucket]
+Topic="Rock of Gibraltar"
+QTETitle=""
+

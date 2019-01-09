@@ -1,0 +1,47 @@
+[D11 SH7_Dialog]
+Info="Scotland Yard - Interrogation Room"
+
+[D11_Bucket_letter_qte SH7_DialogPhraseBucket]
+Topic="Letter"
+QTETitle="Hide? What are you talking about?"
+
+[D11_Bucket_presence SH7_DialogPhraseBucket]
+Topic="Explain presence2"
+QTETitle=""
+
+[D11_Bucket_letter_intro SH7_DialogPhraseBucket]
+Topic="What did you hide"
+QTETitle="What did you hide?"
+
+[D11_Bucket_presence_qte SH7_DialogPhraseBucket]
+Topic="Explain presence"
+QTETitle="What would I be doing there, anyway?"
+
+[D11_Bucket_woodmans SH7_DialogPhraseBucket]
+Topic="Woodman's Lee2"
+QTETitle=""
+
+[D11_Bucket_presence_intro SH7_DialogPhraseBucket]
+Topic="Presence at Woodman's Lee"
+QTETitle="Explain your presence at Woodman's Lee"
+
+[D11_Bucket_woodmans_intro SH7_DialogPhraseBucket]
+Topic="Woodman's Lee"
+QTETitle="What were you doing at Woodman's Lee?"
+
+[D11_Bucket_QTE_fail SH7_DialogPhraseBucket]
+Topic="Fail"
+QTETitle=""
+
+[D11_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D11_Bucket_letter SH7_DialogPhraseBucket]
+Topic="Letter2"
+QTETitle=""
+
+[D11_Bucket_woodmans_qte SH7_DialogPhraseBucket]
+Topic="Woodman's Lee1"
+QTETitle="Woodman's Lee? I've never been there."
+

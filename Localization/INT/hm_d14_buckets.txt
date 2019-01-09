@@ -1,0 +1,15 @@
+[D14_Bucket_sabotage SH7_DialogPhraseBucket]
+Topic="Allow the Merry Men their sabotage."
+QTETitle=""
+
+[D14 SH7_Dialog]
+Info="Duval Bros. Circus"
+
+[D14_Bucket_merrymen SH7_DialogPhraseBucket]
+Topic="merrymen"
+QTETitle=""
+
+[D14_Bucket_blowup SH7_DialogPhraseBucket]
+Topic="Stop the Merry Men."
+QTETitle=""
+

@@ -1,0 +1,32 @@
+[SH7_ActionZone]
+speak_tobby=Toby
+door=Door
+window=Window
+Archives=Archives
+Open=Wax seal
+Latter up=Letter
+Register=Register
+wiggins=Wiggins
+Jack Crocker=Jack Crocker
+table=Analysis table
+read=Address
+door_exit=Door
+Gerb=Coat-of-arms
+COEyes2=Clear look
+COEyes=Honest
+COShoulder=Strong build
+COPocket_knife=Sea knife
+COBoots=Clean boots
+COFinger_ink=Newspaper ink
+encyclopedias=Encyclopedias
+newspapers=Newspapers
+researches=Research
+Bell_Rope=Bell rope
+Scisors=Scissors
+Knife=Knife
+Nippers=Cutters
+Rope_Edge=Rope end
+Cut_here=Cut here
+Make_cut=Make a cut
+handCrocker=Hand with pistol
+

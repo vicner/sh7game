@@ -1,0 +1,15 @@
+[D02 SH7_Dialog]
+Info="Woodman's Lee"
+
+[D02_Bucket_ambush SH7_DialogPhraseBucket]
+Topic="Organise an ambush"
+QTETitle=""
+
+[D02_Bucket_door SH7_DialogPhraseBucket]
+Topic="The door is locked"
+QTETitle=""
+
+[D02_Bucket_forced SH7_DialogPhraseBucket]
+Topic="Break-in attempts"
+QTETitle=""
+

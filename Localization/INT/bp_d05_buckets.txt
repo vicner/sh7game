@@ -1,0 +1,11 @@
+[D05 SH7_Dialog]
+Info="Whitechapel Butcher"
+
+[D05_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D05_Bucket_intro2 SH7_DialogPhraseBucket]
+Topic="intro2"
+QTETitle=""
+

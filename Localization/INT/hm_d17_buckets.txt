@@ -1,0 +1,19 @@
+[D17 SH7_Dialog]
+Info="221B Baker Street"
+
+[D17_Bucket_empire SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+
+[D17_Bucket_explosion SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+
+[D17_Bucket_russian SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+
+[D17_Bucket_teaser SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+

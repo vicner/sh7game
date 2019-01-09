@@ -1,0 +1,8 @@
+[Outro_mid_Chefd_send_him SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Oh my god! I thought I was a dead man!"
+Subtitles[0]=(Text="Oh my god! I thought I was a dead man!")
+Comment=""
+

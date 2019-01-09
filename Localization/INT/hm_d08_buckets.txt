@@ -1,0 +1,7 @@
+[D08 SH7_Dialog]
+Info="221B Baker Street, Day"
+
+[D08_Bucket_disguise SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+

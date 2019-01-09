@@ -1,0 +1,88 @@
+[anomaly_Sherlock_noticed SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Apart from the passengers disembarking, did you notice anything else that was unusual last night?"
+Subtitles[0]=(Text="Apart from the passengers disembarking, did you notice anything else that was unusual last night?")
+Comment=""
+
+[anomaly_Sherlock_what SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What was it?"
+Subtitles[0]=(Text="What was it?")
+Comment=""
+
+[anomaly_Sherlock_working SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Confidential, you say? How long have you been working here?"
+Subtitles[0]=(Text="Confidential, you say? How long have you been working here?")
+Comment=""
+
+[Intro_Sherlock_mind SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Do not worry. I have only a few questions..."
+Subtitles[0]=(Text="Do not worry. I have only a few questions...")
+Comment=""
+
+[Intro_Sherlock_perfect SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Good day to you, sir. My name is Sherlock Holmes. I am investigating the unfortunate disappearance of last night's train."
+Subtitles[0]=(Text="Good day to you, sir. My name is Sherlock Holmes. I am investigating the unfortunate disappearance of last night's train.")
+Comment=""
+
+[message_Sherlock_message SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What did the telegram say?"
+Subtitles[0]=(Text="What did the telegram say?")
+Comment=""
+
+[nosuccess_Sherlock_Nevermind SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I see."
+Subtitles[0]=(Text="I see.")
+Comment=""
+
+[passagers_Sherlock_absolutely SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes, yes, thank you, I understand."
+Subtitles[0]=(Text="Yes, yes, thank you, I understand.")
+Comment=""
+
+[passagers_Sherlock_remark SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Station Master Everett, from Evesham, told us that you reported a problem with some passengers last night?"
+Subtitles[0]=(Text="Station Master Everett, from Evesham, told us that you reported a problem with some passengers last night?")
+Comment=""
+
+[succesanomaly_Sherlock_guessed SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Listen here, young man, I am aware that you wish to protect yourself behind all of these regulations... but I represent the law."
+Subtitles[0]=(Text="Listen here, young man, I am aware that you wish to protect yourself behind all of these regulations... but I represent the law.")
+Comment=""
+
+[succesanomaly_Sherlock_student SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Let me speak frankly, Mister Bertram. Your age, and your lack of confidence in your position are quite apparent. You cannot deny that you have only recently completed your studies."
+Subtitles[0]=(Text="Let me speak frankly, Mr. Bertram. Your age, and your lack of confidence in your position are quite apparent. You cannot deny that you have only recently completed your studies.")
+Comment=""
+

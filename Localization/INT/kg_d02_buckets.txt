@@ -1,0 +1,7 @@
+[D02 SH7_Dialog]
+Info="221B Baker Street"
+
+[D02_Bucket_SmokeBees SH7_DialogPhraseBucket]
+Topic="SmokeBees"
+QTETitle=""
+

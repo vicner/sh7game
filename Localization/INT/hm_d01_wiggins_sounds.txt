@@ -1,0 +1,32 @@
+[bring_Wiggins_indeed SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I knew it, Mister Holmes!"
+Subtitles[0]=(Text="I knew it, Mr. Holmes!")
+Comment=""
+
+[bring_Wiggins_holmes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes?"
+Subtitles[0]=(Text="Mr. Holmes?")
+Comment=""
+
+[bring_Wiggins_check SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You can count on me, Mister Holmes!"
+Subtitles[0]=(Text="You can count on me, Mr. Holmes!")
+Comment=""
+
+[bring_Wiggins_ask SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Anything you like, Guv."
+Subtitles[0]=(Text="Anything you like, Guv.")
+Comment=""
+

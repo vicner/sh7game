@@ -1,0 +1,208 @@
+[Detail_Sherlock_all SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Is that all?"
+Subtitles[0]=(Text="Is that all?")
+Comment=""
+
+[Detail_Sherlock_odd SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Can you recall any recent event that would occur to you now as being a little strange?"
+Subtitles[0]=(Text="Can you recall any recent event that would occur to you now as being a little strange?")
+Comment=""
+
+[Champagne_Sherlock_wardrobe SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Did you place the bottle of Champagne in the changing room?"
+Subtitles[0]=(Text="Did you place the bottle of Champagne in the changing room?")
+Comment=""
+
+[Drug_Sherlock_garrow SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What can you tell me about Garrow?"
+Subtitles[0]=(Text="What can you tell me about Garrow?")
+Comment=""
+
+[Hello_Sherlock_hello SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Good day to you, sir. My name is Sherlock Holmes, and I am assisting the police with their investigation of the murder of Sir Rodney Bentcliffe."
+Subtitles[0]=(Text="Good day to you, sir. My name is Sherlock Holmes, and I am assisting the police with their investigation of the murder of Sir Rodney Bentcliffe.")
+Comment=""
+
+[Hello_Sherlock_hello2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Would you mind if I asked you a few questions?"
+Subtitles[0]=(Text="Would you mind if I asked you a few questions?")
+Comment=""
+
+[Knife_Sherlock_link SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Did you expect to find the Golden Knife at the baths?"
+Subtitles[0]=(Text="Did you expect to find the Golden Knife at the baths?")
+Comment=""
+
+[Mithras_Sherlock_death SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I understand. I read something about immortality...?"
+Subtitles[0]=(Text="I understand. I read something about immortality...?")
+Comment=""
+
+[Mithras_Sherlock_knife SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Were you seeking the Golden Knife?"
+Subtitles[0]=(Text="Were you seeking the Golden Knife?")
+Comment=""
+
+[Mithras_Sherlock_mithras SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What can you tell me about Mithras?"
+Subtitles[0]=(Text="What can you tell me about Mithras?")
+Comment=""
+
+[Pitkin_Sherlock_dead SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Hmm. What will happen now that Sir Rodney is dead?"
+Subtitles[0]=(Text="Hmm. What will happen now that Sir Rodney is dead?")
+Comment=""
+
+[Pitkin_Sherlock_pitkin SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="This letter reveals that Sir Gregory was prepared to put a stop to your work."
+Subtitles[0]=(Text="This letter reveals that Sir Gregory was prepared to put a stop to your work.")
+Comment=""
+
+[PitkinIntro_Sherlock_things SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="How well were your researches progressing before Sir Rodney's arrival?"
+Subtitles[0]=(Text="How well were your researches progressing before Sir Rodney's arrival?")
+Comment=""
+
+[PitkinQTE_Sherlock_fail SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I see."
+Subtitles[0]=(Text="I see.")
+Comment=""
+
+[Profession_Sherlock_bath SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Hmm. Can you tell me more about the baths?"
+Subtitles[0]=(Text="Hmm. Can you tell me more about the baths?")
+Comment=""
+
+[Profession_Sherlock_prof SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What is your occupation?"
+Subtitles[0]=(Text="What is your occupation?")
+Comment=""
+
+[Profession_Sherlock_success SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And has it been successful?"
+Subtitles[0]=(Text="And has it been successful?")
+Comment=""
+
+[Relation_Sherlock_believe SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Surprisingly?"
+Subtitles[0]=(Text="Surprisingly?")
+Comment=""
+
+[Relation_Sherlock_relation SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What was your relationship with Sir Rodney?"
+Subtitles[0]=(Text="What was your relationship with Sir Rodney?")
+Comment=""
+
+[Relation_Sherlock_why SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Was it your first collaboration?"
+Subtitles[0]=(Text="Was it your first collaboration?")
+Comment=""
+
+[Ring_Sherlock_himself SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And he kept it for himself?"
+Subtitles[0]=(Text="And he kept it for himself?")
+Comment=""
+
+[Ring_Sherlock_ring SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Do you recognise this ring?"
+Subtitles[0]=(Text="Do you recognise this ring?")
+Comment=""
+
+[Silver_Sherlock_Silver SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We discovered some melted silver in the brazier. Did you put it there?"
+Subtitles[0]=(Text="We discovered some melted silver in the brazier. Did you put it there?")
+Comment=""
+
+[Witness_Sherlock_do SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What did you do?"
+Subtitles[0]=(Text="What did you do?")
+Comment=""
+
+[Witness_Sherlock_today SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Can you tell me what you saw today?"
+Subtitles[0]=(Text="Can you tell me what you saw today?")
+Comment=""
+
+[Witness_Sherlock_you SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Do you believe that Garrow killed Sir Rodney?"
+Subtitles[0]=(Text="Do you believe that Garrow killed Sir Rodney?")
+Comment=""
+

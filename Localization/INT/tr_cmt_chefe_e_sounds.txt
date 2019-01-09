@@ -1,0 +1,8 @@
+[TR_Cmt_Chefe_e_md123 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The entire train has disappeared! It's a disaster!"
+Subtitles[0]=(Text="The entire train has disappeared! It's a disaster!")
+Comment=""
+

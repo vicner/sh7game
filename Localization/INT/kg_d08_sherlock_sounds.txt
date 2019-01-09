@@ -1,0 +1,72 @@
+[Poisoned_Sherlock_cloakroom SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No. A few innocuous questions at Kew will suffice. As well as a discreet delve into their personal affairs."
+Subtitles[0]=(Text="No. A few innocuous questions at Kew will suffice. As well as a discreet delve into their personal affairs.")
+Comment=""
+
+[Poisoned_Sherlock_yes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No. We also have the people working at Kew Gardens: Martyn Hamish, and the son of the victim, Albert Dunne."
+Subtitles[0]=(Text="No. We also have the people working at Kew Gardens: Martyn Hamish, and the son of the victim, Albert Dunne.")
+Comment=""
+
+[Poisoned_Sherlock_exactly SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes, it is murder."
+Subtitles[0]=(Text="Yes, it is murder.")
+Comment=""
+
+[Poisoned_Sherlock_doit SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes, but do remember, Watson, that I discovered the murder. The challenge is mine."
+Subtitles[0]=(Text="Yes, but do remember, Watson, that I discovered the murder. The challenge is mine.")
+Comment=""
+
+[Poisoned_Sherlock_fears SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="My suspicions have been substantiated: Montague Dunne, the director of Kew Gardens, died from poisoning. Plant poisoning, to be more exact."
+Subtitles[0]=(Text="My suspicions have been substantiated: Montague Dunne, the director of Kew Gardens, died from poisoning. Plant poisoning, to be more exact.")
+Comment=""
+
+[Poisoned_Sherlock_plant SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We need to locate that deadly plant. Such a perfect murder appeals to me."
+Subtitles[0]=(Text="We need to locate that deadly plant. Such a perfect murder appeals to me.")
+Comment=""
+
+[Poisoned_Sherlock_idea SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ha ha! More than a little."
+Subtitles[0]=(Text="Ha ha! More than a little.")
+Comment=""
+
+[Poisoned_Sherlock_cloakroom2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes Watson, it is time now to open the doors..."
+Subtitles[0]=(Text="Yes Watson, it is time now to open the doors...")
+Comment=""
+
+[Poisoned_Sherlock_victim SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We should also be concerned with the victim himself. After all, we don't know very much about Montague Dunne."
+Subtitles[0]=(Text="We should also be concerned with the victim himself. After all, we don't know very much about Montague Dunne.")
+Comment=""
+

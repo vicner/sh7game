@@ -1,0 +1,8 @@
+[intro_Hudson_isa SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Doctor Watson! It's Mister Isa Whitney, [b_u type=quad v2=0.6 v3=0.6 Easeout=1 Duration=2.5 Easein=1] he says that it's urgent."
+Subtitles[0]=(Text="Dr. Watson! It's Mr. Isa Whitney, he says that it's urgent.")
+Comment=""
+

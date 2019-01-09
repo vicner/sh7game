@@ -1,0 +1,11 @@
+[D12 SH7_Dialog]
+Info="The Abbey Grange - Morning Room"
+
+[D12_Bucket_Arrest SH7_DialogPhraseBucket]
+Topic="Arrestation"
+QTETitle=""
+
+[D12_Bucket_NoArrest SH7_DialogPhraseBucket]
+Topic="You are guilty"
+QTETitle=""
+

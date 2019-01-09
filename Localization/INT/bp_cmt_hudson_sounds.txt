@@ -1,0 +1,8 @@
+[BP_Cmt_Hudson_md060 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Oh, what a mess! What a terrible mess!"
+Subtitles[0]=(Text="Oh, what a mess! What a terrible mess!")
+Comment=""
+

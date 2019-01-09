@@ -1,0 +1,8 @@
+[intro_Policeman_trouble SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Sorry to trouble you, Mister Holmes, but the Inspector asks that you come to the station as soon as possible."
+Subtitles[0]=(Text="Sorry to trouble you, Mr. Holmes, but the Inspector asks that you come to the station as soon as possible.")
+Comment=""
+

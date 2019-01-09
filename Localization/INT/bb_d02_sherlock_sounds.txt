@@ -1,0 +1,152 @@
+[Intro2_Sherlock_falls SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes, it is somewhat treacherous. Hmm. Fortunately, I am unscathed. To where does this corridor lead?"
+Subtitles[0]=(Text="Yes, it is somewhat treacherous. Hmm. Fortunately, I am unscathed. To where does this corridor lead?")
+Comment=""
+
+[key_intro_Sherlock_steamroom SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="So, this morning you opened the steam room. And then?"
+Subtitles[0]=(Text="So, this morning you opened the steam room. And then?")
+Comment=""
+
+[Intro_Sherlock_hello SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Good day to you, Mister Phillips. My name is Sherlock Holmes and this is my colleague, Doctor Watson. Would you be so kind as to answer our questions?"
+Subtitles[0]=(Text="Good day to you, Mr. Phillips. My name is Sherlock Holmes and this is my colleague, Dr. Watson. Would you be so kind as to answer our questions?")
+Comment=""
+
+[visitors_Sherlock_then SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What happened after that?"
+Subtitles[0]=(Text="What happened after that?")
+Comment=""
+
+[key_intro_Sherlock_keys SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="How many people have keys to the steam room?"
+Subtitles[0]=(Text="How many people have keys to the steam room?")
+Comment=""
+
+[tell2_Sherlock_night SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="There was a fire burning all night?"
+Subtitles[0]=(Text="There was a fire burning all night?")
+Comment=""
+
+[visitors_Sherlock_visit SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Hmm, did you receive any other visitors this morning?"
+Subtitles[0]=(Text="Hmm, did you receive any other visitors this morning?")
+Comment=""
+
+[key_qte_Sherlock_leave SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Did you leave the baths at any time, or receive any visitors?"
+Subtitles[0]=(Text="Did you leave the baths at any time, or receive any visitors?")
+Comment=""
+
+[key_Sherlock_isee SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I see."
+Subtitles[0]=(Text="I see.")
+Comment=""
+
+[key_Sherlock_reply SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Did you receive a reply from your sister?"
+Subtitles[0]=(Text="Did you receive a reply from your sister?")
+Comment=""
+
+[key_Sherlock_seems SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are not telling the truth, Mister Phillips. You left your work this morning, and you went to the post office where you despatched a telegram at around seven-thirty."
+Subtitles[0]=(Text="You are not telling the truth, Mr. Phillips. You left your work this morning, and you went to the post office where you despatched a telegram at around seven-thirty.")
+Comment=""
+
+[key_Sherlock_sent SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The telegram was for someone in Manchester."
+Subtitles[0]=(Text="The telegram was for someone in Manchester.")
+Comment=""
+
+[key_Sherlock_still SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Did you check to see if the key was still in your desk when you returned?"
+Subtitles[0]=(Text="Did you check to see if the key was still in your desk when you returned?")
+Comment=""
+
+[key_fail_Sherlock_fail SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I see."
+Subtitles[0]=(Text="I see.")
+Comment=""
+
+[Intro3_Sherlock_thanks SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Thank you, Mister Phillips."
+Subtitles[0]=(Text="Thank you, Mr. Phillips.")
+Comment=""
+
+[tell2_Sherlock_day SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Please tell us the chain of events from the start of your day."
+Subtitles[0]=(Text="Please tell us the chain of events from the start of your day.")
+Comment=""
+
+[Champ_Sherlock_bottle SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="There is a bottle of Champagne on ice in the changing room. Do you have any idea who left it there?"
+Subtitles[0]=(Text="There is a bottle of Champagne on ice in the changing room. Do you have any idea who left it there?")
+Comment=""
+
+[visitors_Sherlock_left SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You would have heard if someone had entered or left the steam room?"
+Subtitles[0]=(Text="You would have heard if someone had entered or left the steam room?")
+Comment=""
+
+[tell2_Sherlock_can SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Everything that you can remember. The slightest detail may be of importance."
+Subtitles[0]=(Text="Everything that you can remember. The slightest detail may be of importance.")
+Comment=""
+

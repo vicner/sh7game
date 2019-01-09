@@ -1,0 +1,72 @@
+[ambush_Inspector_return SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=1 Easein=0.5] [ls_uc type=quad v2=1 v3=1 Easeout=1 Duration=1 Easein=0.5] [ey_u type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=0.5 Easein=0.2] You've lost me."
+Subtitles[0]=(Text="You've lost me.")
+Comment=""
+
+[ambush_Inspector_think SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[ey_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=0.5 Easein=0.5] Well, Mister Holmes, [b_u type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=1.5 Easein=0.2] what do you think?"
+Subtitles[0]=(Text="Well, Mr. Holmes, what do you think?")
+Comment=""
+
+[forced_Inspector_marks SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[ey_u type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=0.5 Easein=0.2] I swear these scratches were not here [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] yesterday."
+Subtitles[0]=(Text="I swear these scratches were not here yesterday.")
+Comment=""
+
+[door_Inspector_touched SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=1 Easein=0.2] It seems to me that someone has tried to force it Mister Holmes."
+Subtitles[0]=(Text="It seems to me that someone has tried to force it, Mr. Holmes.")
+Comment=""
+
+[door_Inspector_nobody SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[H type=quad v2=0.5 v3=0.5 Easeout=1 Duration=0.5 Easein=0.5] Wait just a moment, Mister Holmes, and I'll open it. [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=1] I locked it yesterday, to ensure that no-one should enter the cabin and tamper with the evidence."
+Subtitles[0]=(Text="Wait just a moment, Mr. Holmes, and I'll open it. I locked it yesterday, to ensure that no-one should enter the cabin and tamper with the evidence.")
+Comment=""
+
+[door_Inspector_Gosh SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1.5 Easein=0.5] Hello, hello, hello!"
+Subtitles[0]=(Text="Hello, hello, hello!")
+Comment=""
+
+[ambush_Inspector_why SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_dc type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1.5 Easein=0.2] And why is that?"
+Subtitles[0]=(Text="And why is that?")
+Comment=""
+
+[ambush_Inspector_meet SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=1] [lc_u type=quad v2=1 v3=1 Easeout=1 Duration=0.5 Easein=0.5] A-ha! So what do you propose?"
+Subtitles[0]=(Text="Aha! So what do you propose?")
+Comment=""
+
+[forced_Inspector_failed SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=0.5 Easein=0.5] Well, he's not the man for the job. [H type=quad v2=0.3 v3=0.3 Easeout=1 Duration=1 Easein=0.2] This lock is not a difficult one."
+Subtitles[0]=(Text="Well, he's not the man for the job. This lock is not a difficult one.")
+Comment=""
+

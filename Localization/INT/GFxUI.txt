@@ -1,0 +1,15 @@
+[FontLib]
+FontLib=UI_Fonts.fonts_en
+FontLib=UI_Fonts.gfxfontlib
+
+[Fonts]
+ConstantiaRegular=Constantia
+ConstantiaBold=Constantia,Bold
+SegoeScriptBold=Segoe Script
+SegoeScript=Segoe Script
+GentiumPlusRegular=Gentium Plus
+GoudyTrajanRegular=Goudy Trajan Regular
+MemoryFont=Constantia,Bold
+
+[Translation]
+Enable="1"

@@ -1,0 +1,8 @@
+[intro_Sherlock_thanks SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Thank you. I'll be there shortly."
+Subtitles[0]=(Text="Thank you. I'll be there shortly.")
+Comment=""
+

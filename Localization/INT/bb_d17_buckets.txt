@@ -1,0 +1,11 @@
+[D17 SH7_Dialog]
+Info="Scotland Yard - Interrogation Room"
+
+[D17_Bucket_Cold SH7_DialogPhraseBucket]
+Topic="You are the murderer"
+QTETitle=""
+
+[D17_Bucket_Helpless SH7_DialogPhraseBucket]
+Topic="You killed for justice"
+QTETitle=""
+

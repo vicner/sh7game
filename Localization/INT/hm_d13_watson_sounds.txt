@@ -1,0 +1,8 @@
+[leave_Watson_going SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Where are you going?"
+Subtitles[0]=(Text="Where are you going?")
+Comment=""
+

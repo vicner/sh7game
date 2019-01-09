@@ -1,0 +1,17 @@
+[SH7_ActionZone]
+AcountingBook=Accounting book
+Counter=Counter
+Counter_Door=Counter door
+Crampons=Climbing equipment
+DoorLock=Door lock
+FlareGUN=Flare pistol
+flares=Flares
+IceAxe=Ice axe
+LeftDrawer=Left drawer
+letter=Letter
+Necklace=Necklace
+RamsHead=Ram's head
+RightDrawer=Right drawer
+Shelves=Shelves
+Gates=Gates
+

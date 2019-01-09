@@ -1,0 +1,88 @@
+[Randalls_Sherlock_simple SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1.5 Easein=0.2] Well, Inspector, this case proved to be a simple one after all."
+Subtitles[0]=(Text="Well, Inspector, this case proved to be a simple one after all.")
+Comment=""
+
+[Randalls_Sherlock_itis SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes."
+Subtitles[0]=(Text="Yes.")
+Comment=""
+
+[Quest_Sherlock_own SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The next time you call on me, [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1.5 Easein=1] do try to make sure it's for something a little better than this."
+Subtitles[0]=(Text="The next time you call on me, do try to make sure it's for something a little better than this.")
+Comment=""
+
+[Quest_Sherlock_help SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It is a case that [b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=0.5 Easein=0.2] only [lc_u type=quad v2=0.2 v3=0.2 Easeout=0.2 Duration=0.5 Easein=0.1] Watson could find some small point of interest in. I am used to more challenging work."
+Subtitles[0]=(Text="It is a case that only Watson could find some small point of interest in. I am used to more challenging work.")
+Comment=""
+
+[Murder_Sherlock_ahyes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes. And their mise-en-scene after the death of Sir Eustace can only point to [b_u type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=0.5 Easein=0.2] premeditation."
+Subtitles[0]=(Text="Yes. And their mise-en-scene after the death of Sir Eustace can only point to premeditation.")
+Comment=""
+
+[Police_Sherlock_leave SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I'll leave it to you, [b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=1 Easein=0.2] Inspector. After all, [b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1 Easein=1] you have handled this matter quite brilliantly."
+Subtitles[0]=(Text="I'll leave it to you, Inspector. After all, you have handled this matter quite brilliantly.")
+Comment=""
+
+[Murder_Sherlock_next SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I have reached my conclusion, [b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1 Easein=1] Lestrade. I regret that your culprits are in the next room."
+Subtitles[0]=(Text="I have reached my conclusion, Lestrade. I regret that your culprits are in the next room.")
+Comment=""
+
+[EndCase_Sherlock_find SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You only need to find a gang of three thugs, wandering around... [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1.5 Easein=1] I can trust you to do that."
+Subtitles[0]=(Text="You only need to find a gang of three thugs, wandering around... I can trust you to do that.")
+Comment=""
+
+[EndCase_Sherlock_doubt SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1.5 Easein=1] You'll find someone, I have no doubt of it. [b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=0.5 Easein=0.5] Goodbye, Inspector."
+Subtitles[0]=(Text="You'll find someone, I have no doubt of it. Goodbye, Inspector.")
+Comment=""
+
+[EndCase_Sherlock_case SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I mentioned the murderers, [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=0.5 Easein=0.5] not the case. It is obvious [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1.5 Easein=1] that the crime was committed by three criminals who cannot be the Randalls."
+Subtitles[0]=(Text="I mentioned the murderers, not the case. It is obvious that the crime was committed by three criminals who cannot be the Randalls.")
+Comment=""
+
+[EndCase_Sherlock_afraid SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[S type=quad v2=0.2 v3=0.2 Easeout=0.2 Duration=1.5 Easein=0.2] [lc_u type=quad v2=0.1 v3=0.1 Easeout=0.5 Duration=1.5 Easein=0.2] Inspector, I am afraid that the murderers have escaped us."
+Subtitles[0]=(Text="Inspector, I am afraid that the murderers have escaped us.")
+Comment=""
+

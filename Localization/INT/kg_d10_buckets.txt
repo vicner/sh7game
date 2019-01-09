@@ -1,0 +1,67 @@
+[D10_Bucket_Ready SH7_DialogPhraseBucket]
+Topic="Ready"
+QTETitle=""
+
+[D10_Bucket_offeringQTE SH7_DialogPhraseBucket]
+Topic="offeringQTE"
+QTETitle="Name of our lord"
+
+[D10_Bucket_Informations SH7_DialogPhraseBucket]
+Topic="Information"
+QTETitle=""
+
+[D10_Bucket_PotKewGarden SH7_DialogPhraseBucket]
+Topic="Kew Gardens pots"
+QTETitle=""
+
+[D10_Bucket_Nosuccess SH7_DialogPhraseBucket]
+Topic="nosuccess"
+QTETitle=""
+
+[D10_Bucket_Hopital SH7_DialogPhraseBucket]
+Topic="To a Hospital"
+QTETitle=""
+
+[D10_Bucket_SuccessOfferingQTE SH7_DialogPhraseBucket]
+Topic="god-king"
+QTETitle=""
+
+[D10_Bucket_KewGardenQTE SH7_DialogPhraseBucket]
+Topic="KewGardenQTE"
+QTETitle="Not worth Kew Gardens"
+
+[D10_Bucket_Offering SH7_DialogPhraseBucket]
+Topic="Look around"
+QTETitle=""
+
+[D10_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D10_Bucket_QTE_fail SH7_DialogPhraseBucket]
+Topic="Fail"
+QTETitle=""
+
+[D10_Bucket_KewGarden SH7_DialogPhraseBucket]
+Topic="Do you know the Kew Gardens"
+QTETitle=""
+
+[D10_Bucket_FollowUs SH7_DialogPhraseBucket]
+Topic="Follow us"
+QTETitle=""
+
+[D10 SH7_Dialog]
+Info="The Divine Syndicate - Outdoors"
+
+[D10_Bucket_SeePlants SH7_DialogPhraseBucket]
+Topic="See plants"
+QTETitle=""
+
+[D10_Bucket_GODQTE_fail SH7_DialogPhraseBucket]
+Topic="Fail"
+QTETitle=""
+
+[D10_Bucket_Potsect SH7_DialogPhraseBucket]
+Topic="Your pots"
+QTETitle=""
+

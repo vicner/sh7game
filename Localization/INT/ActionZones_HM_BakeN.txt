@@ -1,0 +1,10 @@
+[SH7_ActionZone]
+Archives=Archives
+Analysis Table=Analysis table
+window=Window
+Unknown hair=Unknown hair
+Human hair=Human hair
+Horse hair=Horse hair
+Hairs=Hairs
+BlackThreads=Black threads
+

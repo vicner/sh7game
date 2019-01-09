@@ -1,0 +1,8 @@
+[Crocker_Crocker_Iam SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes, it was me! I confess!"
+Subtitles[0]=(Text="Yes, it was me! I confess!")
+Comment=""
+

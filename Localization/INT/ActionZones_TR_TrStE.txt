@@ -1,0 +1,30 @@
+[SH7_ActionZone]
+Archives=Portable archives
+ESM=Evesham Station Master
+Map=Railway map
+Post=Postal bags
+Tele=Telegraph
+Traces=Heavy vehicle traces
+traincomposition=Train composition
+synchrophasotron=Spare parts
+COMastERing=Wedding ring
+COMastEWatch=Honorary badge
+COMastESleeves=Spots of earth
+COMastEHair=Fully grey hair
+CabanTrench=Remains of building
+Cab=Cab
+tableBell=Locomotive bell
+Bell=Junk pile
+Land=Ground near the rails
+Casses=Office table
+DM_LotOfTraces=Multiple traces
+DM_CabTraces=Wheel traces
+DM_HeavyTraces=Heavy vehicle traces
+rails=Rails
+bottleE=Empty bottle
+Sleepers=Railway sleepers
+gateRoad=Road
+telegram=Telegram
+HorseTracks=Horse tracks
+Deep_tracks=Heavy vehicle traces
+

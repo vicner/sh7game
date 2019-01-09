@@ -1,0 +1,16 @@
+[intro_Policeman_help SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Good morning, Mister Holmes. Can I help you?"
+Subtitles[0]=(Text="Good morning, Mr Holmes. Can I help you?")
+Comment=""
+
+[intro_Policeman_waiting SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ah, the young man? He is waiting in the interrogation room. You can go straight through. His belongings are held in the evidence room."
+Subtitles[0]=(Text="Ah, the young man? He is waiting in the interrogation room. You can go straight through. His belongings are held in the evidence room.")
+Comment=""
+

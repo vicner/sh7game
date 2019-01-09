@@ -1,0 +1,71 @@
+[D12_Bucket_cairns SH7_DialogPhraseBucket]
+Topic="cairns"
+QTETitle=""
+
+[D12_Bucket_you SH7_DialogPhraseBucket]
+Topic="You know, don't you"
+QTETitle=""
+
+[D12_Bucket_quit SH7_DialogPhraseBucket]
+Topic="I quit"
+QTETitle=""
+
+[D12_Bucket_lose SH7_DialogPhraseBucket]
+Topic="loose"
+QTETitle=""
+
+[D12_Bucket_drink SH7_DialogPhraseBucket]
+Topic="Buy you a drink"
+QTETitle=""
+
+[D12_Bucket_intro2 SH7_DialogPhraseBucket]
+Topic="intro2"
+QTETitle=""
+
+[D12_Bucket_plantpouch SH7_DialogPhraseBucket]
+Topic="[Plant pouch] Go to toilet"
+QTETitle=""
+
+[D12_Bucket_blackpeter SH7_DialogPhraseBucket]
+Topic="Black Peter"
+QTETitle=""
+
+[D12_Bucket_tobacco SH7_DialogPhraseBucket]
+Topic="Tobacco"
+QTETitle=""
+
+[D12_Bucket_experience SH7_DialogPhraseBucket]
+Topic="Harpooner"
+QTETitle=""
+
+[D12_Bucket_moredrink SH7_DialogPhraseBucket]
+Topic="Another drink"
+QTETitle=""
+
+[D12_Bucket_continue SH7_DialogPhraseBucket]
+Topic="Let's continue"
+QTETitle=""
+
+[D12_Bucket_person SH7_DialogPhraseBucket]
+Topic="Who was he"
+QTETitle=""
+
+[D12 SH7_Dialog]
+Info="\"Sea Witch\" Pub"
+
+[D12_Bucket_win SH7_DialogPhraseBucket]
+Topic="win"
+QTETitle=""
+
+[D12_Bucket_basil SH7_DialogPhraseBucket]
+Topic="Keep in touch"
+QTETitle=""
+
+[D12_Bucket_win2 SH7_DialogPhraseBucket]
+Topic="win2"
+QTETitle=""
+
+[D12_Bucket_work SH7_DialogPhraseBucket]
+Topic="No job"
+QTETitle=""
+

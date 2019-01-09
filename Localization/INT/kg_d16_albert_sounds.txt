@@ -1,0 +1,16 @@
+[Intro_Albert_crazy SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Wha ... What? You are mad! I didn't do it! I don't know anything about botany! No!"
+Subtitles[0]=(Text="Wha ... What? You are mad! I didn't do it! I don't know anything about botany! No!")
+Comment=""
+
+[Intro_Albert_what SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What happened, Inspector?"
+Subtitles[0]=(Text="What happened, Inspector?")
+Comment=""
+

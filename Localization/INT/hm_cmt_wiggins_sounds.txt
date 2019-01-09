@@ -1,0 +1,16 @@
+[HM_Cmt_Wiggins_md048 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I'll do anything to save my brother, Mister Holmes!"
+Subtitles[0]=(Text="I'll do anything to save my brother, Mr. Holmes!")
+Comment=""
+
+[hm_cmt_wiggins_md058 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, did you see my brother at Scotland Yard? Is he all right?"
+Subtitles[0]=(Text="Mr. Holmes, did you see my brother at Scotland Yard? Is he all right?")
+Comment=""
+

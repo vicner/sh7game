@@ -1,0 +1,11 @@
+[D09 SH7_Dialog]
+Info="Duval Bros. Circus, Day"
+
+[D09_Bucket_guard SH7_DialogPhraseBucket]
+Topic="guard"
+QTETitle=""
+
+[D09_Bucket_guard2 SH7_DialogPhraseBucket]
+Topic="guard2"
+QTETitle=""
+

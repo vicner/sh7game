@@ -1,0 +1,39 @@
+[D06_Bucket_horsesraces SH7_DialogPhraseBucket]
+Topic="Gambling man"
+QTETitle="Gambling man"
+
+[D06 SH7_Dialog]
+Info="Doncaster Station"
+
+[D06_Bucket_nosuccess SH7_DialogPhraseBucket]
+Topic="nosuccess"
+QTETitle=""
+
+[D06_Bucket_passagers SH7_DialogPhraseBucket]
+Topic="The passengers"
+QTETitle=""
+
+[D06_Bucket_horsesracesQTE SH7_DialogPhraseBucket]
+Topic="horsesracesQTE"
+QTETitle="Addiction?"
+
+[D06_Bucket_mexican SH7_DialogPhraseBucket]
+Topic="Mexican"
+QTETitle=""
+
+[D06_Bucket_career SH7_DialogPhraseBucket]
+Topic="Flooded area"
+QTETitle=""
+
+[D06_Bucket_yeshorsesraces SH7_DialogPhraseBucket]
+Topic="yeshorsesraces"
+QTETitle=""
+
+[D06_Bucket_end SH7_DialogPhraseBucket]
+Topic="[Bait] Case is solved"
+QTETitle=""
+
+[D06_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+

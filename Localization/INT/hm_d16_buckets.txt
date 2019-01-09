@@ -1,0 +1,27 @@
+[D16_Bucket_intro6 SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+
+[D16_Bucket_intro5 SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+
+[D16_Bucket_intro4 SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+
+[D16_Bucket_intro3 SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+
+[D16_Bucket_intro2 SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+
+[D16_Bucket_intro SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+
+[D16 SH7_Dialog]
+Info="Half Moon Street"
+

@@ -1,0 +1,200 @@
+[basil_Cairns_maybe SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Maybe, if you like, aye."
+Subtitles[0]=(Text="Maybe, if you like, aye.")
+Comment=""
+
+[blackpeter_Cairns_liar SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="He was the worst of 'em all. He was a liar, and violent too, swingin' those fists of his around. He was a tyrant, and not much of a captain. At least, not as good as Great Roger!"
+Subtitles[0]=(Text="He was the worst of 'em all. He was a liar, and violent too, swingin' those fists of his around. He was a tyrant, and not much of a captain. At least, not as good as Great Roger!")
+Comment=""
+
+[blackpeter_Cairns_yes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But you ain't heard the worst."
+Subtitles[0]=(Text="But you ain't heard the worst.")
+Comment=""
+
+[cairns_Cairns_price SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I start at ten shillings."
+Subtitles[0]=(Text="I start at ten shillings.")
+Comment=""
+
+[cairns_Cairns_what SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What do you want?"
+Subtitles[0]=(Text="What do you want?")
+Comment=""
+
+[continue_Cairns_money SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Fine. If you want me to take all your money, no problem with that."
+Subtitles[0]=(Text="Fine. If you want me to take all your money, no problem with that.")
+Comment=""
+
+[drink_Cairns_good SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Good winner as well! That's good, let's have a drink."
+Subtitles[0]=(Text="Good winner as well! That's good, let's have a drink.")
+Comment=""
+
+[experience_Cairns_ofcourse SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Of course, it's been a dozen years since I sailed! I've seen everything! With old Wallace, damned Black Peter, Great Roger, we sailed to the Cape of Good Hope."
+Subtitles[0]=(Text="Of course, it's been a dozen years since I sailed! I've seen everything! With old Wallace, damned Black Peter, Great Roger, we sailed to the Cape of Good Hope.")
+Comment=""
+
+[intro2_Cairns_poor SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Aye, well, at least you're not as poor as me."
+Subtitles[0]=(Text="Aye, well, at least you're not as poor as me.")
+Comment=""
+
+[intro2_Cairns_yougood SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You're a good type. Seems you've managed to settle down in life. You've got money, eh."
+Subtitles[0]=(Text="You're a good type. Seems you've managed to settle down in life. You've got money, eh.")
+Comment=""
+
+[lose_Cairns_loose SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ha ha! That's the arm that killed a hunnert whales! Care to lose 'nother ten shillings?"
+Subtitles[0]=(Text="Ha ha! That's the arm that killed a hunnert whales! Care to lose 'nother ten shillings?")
+Comment=""
+
+[moredrink_Cairns_crew SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The crew must have thought that she'd foundered, and they'd made for the Norwegian coast in the dinghy. I guess they all drowned. We took the man on board."
+Subtitles[0]=(Text="The crew must have thought that she'd foundered, and they'd made for the Norwegian coast in the dinghy. I guess they all drowned. We took the man on board.")
+Comment=""
+
+[moredrink_Cairns_man SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="One evening we saw a little craft that had been blown north. There was only one man on her, and he wasn't a sailor."
+Subtitles[0]=(Text="One evening we saw a little craft that had been blown north. There was only one man on her, and he wasn't a sailor.")
+Comment=""
+
+[moredrink_Cairns_unicorn SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It was in eighteen-eighty-three that it happened; the August of that year. Peter Carey was captain of the \"Sea Unicorn\", and I was a spare harpooner. We were coming out of the ice-pack on our way home."
+Subtitles[0]=(Text="It was in 1883 that it happened; the August of that year. Peter Carey was captain of the \"Sea Unicorn\", and I was a spare harpooner. We were coming out of the ice-pack on our way home.")
+Comment=""
+
+[person_Cairns_disappear SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Aye. Even stranger was that on the second night, he disappeared. Nobody knew what happened to him, and, of course, nobody could ask Black Peter about it."
+Subtitles[0]=(Text="Aye. Even stranger was that on the second night, he disappeared. Nobody knew what happened to him, and, of course, nobody could ask Black Peter about it.")
+Comment=""
+
+[person_Cairns_notknow SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I don't know. During the crossing, he and the skipper enjoyed some long talks. His baggage was just a tin box."
+Subtitles[0]=(Text="I don't know. During the crossing, he and the skipper enjoyed some long talks. His baggage was just a tin box.")
+Comment=""
+
+[plantpouch_Cairns_here SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I'll be here with my drink."
+Subtitles[0]=(Text="I'll be here with my drink.")
+Comment=""
+
+[quit_Cairns_back SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Come back later, when you can use your arms again. Ahaha."
+Subtitles[0]=(Text="Come back later, when you can use your arms again. Ahaha.")
+Comment=""
+
+[tobacco_Cairns_found SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, I'll be... Aye, it is!"
+Subtitles[0]=(Text="Well, I'll be... Aye, it is!")
+Comment=""
+
+[tobacco_Cairns_lost SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Naw, I lost my pouch... don't know where... wait a minute, what's this?"
+Subtitles[0]=(Text="Naw, I lost my pouch... don't know where... wait a minute, what's this?")
+Comment=""
+
+[win2_Cairns_strong SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, good for you, I reckon. You're stronger than you look. Here's your ten shillings."
+Subtitles[0]=(Text="Well, good for you, I reckon. You're stronger than you look. Here's your ten shillings.")
+Comment=""
+
+[win_Cairns_luck SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You were lucky, I wasn't focused. Let's go again."
+Subtitles[0]=(Text="You were lucky, I wasn't focused. Let's go again.")
+Comment=""
+
+[work_Cairns_harpooner SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I'm a harpooner. But you see, the whalers are rare, and they don't pay much. So as a result, I find myself arm wrestling to pay for my drink."
+Subtitles[0]=(Text="I'm a harpooner. But you see, the whalers are rare, and they don't pay much. So as a result, I find myself arm wrestling to pay for my drink.")
+Comment=""
+
+[you_Cairns_private SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Aye, and those that know him wouldn't be surprised to hear it. But all this must stay between us, all right?"
+Subtitles[0]=(Text="Aye, and those that know him wouldn't be surprised to hear it. But all this must stay between us, all right?")
+Comment=""
+
+[you_Cairns_shetland SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I do. I saw the skipper tie his heels and push him over the rail in the middle of my watch on that dark night, two days before we sighted the Shetland Lights."
+Subtitles[0]=(Text="I do. I saw the skipper tie his heels and push him over the rail in the middle of my watch on that dark night, two days before we sighted the Shetland Lights.")
+Comment=""
+

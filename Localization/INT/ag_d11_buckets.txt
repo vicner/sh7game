@@ -1,0 +1,23 @@
+[D11_Bucket_EndCase SH7_DialogPhraseBucket]
+Topic="Blame other thugs"
+QTETitle=""
+
+[D11_Bucket_Murder SH7_DialogPhraseBucket]
+Topic="The culprits are the two women"
+QTETitle=""
+
+[D11_Bucket_Quest SH7_DialogPhraseBucket]
+Topic="A commonplace case"
+QTETitle=""
+
+[D11_Bucket_Police SH7_DialogPhraseBucket]
+Topic="No need to name me"
+QTETitle=""
+
+[D11_Bucket_Randalls SH7_DialogPhraseBucket]
+Topic="It was the Randalls"
+QTETitle=""
+
+[D11 SH7_Dialog]
+Info="The Abbey Grange - Hall"
+

@@ -1,0 +1,11 @@
+[D18_Bucket_Parano SH7_DialogPhraseBucket]
+Topic="You must be cured"
+QTETitle=""
+
+[D18 SH7_Dialog]
+Info="Scotland Yard - Interrogation Room"
+
+[D18_Bucket_Crazy SH7_DialogPhraseBucket]
+Topic="You are a great manipulator"
+QTETitle=""
+

@@ -1,0 +1,15 @@
+[D13_Bucket_Drama SH7_DialogPhraseBucket]
+Topic="Drama"
+QTETitle=""
+
+[D13_Bucket_Lead SH7_DialogPhraseBucket]
+Topic="Wrong track"
+QTETitle=""
+
+[D13 SH7_Dialog]
+Info="221B Baker Street"
+
+[D13_Bucket_Crocker SH7_DialogPhraseBucket]
+Topic="Crocker"
+QTETitle=""
+

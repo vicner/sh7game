@@ -1,0 +1,8 @@
+[succesanomaly_Watson_listen SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And you are obstructing the investigation of an important case. I would suggest that you cooperate with Mister Holmes. Think of your career!"
+Subtitles[0]=(Text="And you are obstructing the investigation of an important case. I would suggest that you cooperate with Mr. Holmes. Think of your career!")
+Comment=""
+

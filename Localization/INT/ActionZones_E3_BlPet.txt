@@ -1,0 +1,31 @@
+[SH7_ActionZone]
+Gold Ring=Gold Ring
+inscription=Inscription
+door=Door
+John Hopley Neligan=Suspect
+Inspector Lestrade=Inspector Lestrade
+Shelf=Shelf
+Ship's logs=Ship's logs
+Print=Dustprint
+Harpoon Stand=Harpoon Stand
+boots=Boots
+Chest=Chest
+Drivers=Drivers
+Dead Body=Dead Body
+Wound=Wound
+harpoon=Harpoon
+Pool of blood=Pool of Blood
+Knife=Knife
+Handle=Handle
+blood=Blood
+notebook=Notebook
+Initials=Initials
+Blood Stain=Blood Stain
+Writings=Writings
+Abbreviations=Notebook Page
+table=Table
+Bottle=Bottle
+Glass=Glass
+pouch=Pouch
+Flap=Flap
+

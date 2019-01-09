@@ -1,0 +1,28 @@
+[SH7_ActionZone]
+showel=Shovel
+wall of bricks=Fallen blocks
+Salt=Salt
+ice box=Ice box
+Orbit=Dead man's face
+Rope To Frigidarium=To Frigidarium
+Broken Photo=Broken glass plate
+tunel fresco=Fresco
+Neptune=Trident
+Bridge=Arch
+plaque=Fallen perforated plate
+Shadows=Shadows
+img_plaque=Perforated plate
+lamp=Lamp
+up_plaque=Perforated plate
+brushwood=Brushwood
+killing=Face
+Bull=Animal head
+Trident=Trident
+broken=Collapsed pillar
+skeleton=Skeleton
+Shoes=Shoes
+Ground=Ground
+pillar=Pillar
+mummy=Mummy
+fresco=Fresco
+

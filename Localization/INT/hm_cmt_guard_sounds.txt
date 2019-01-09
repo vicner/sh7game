@@ -1,0 +1,16 @@
+[HM_Cmt_Guard_md044 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Charles Foley is inside the marquee."
+Subtitles[0]=(Text="Charles Foley is inside the marquee.")
+Comment=""
+
+[hm_cmt_guard_md045 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You're a bit slow to catch on, eh? Get lost!"
+Subtitles[0]=(Text="You're a bit slow to catch on, eh? Get lost!")
+Comment=""
+

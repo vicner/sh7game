@@ -1,0 +1,3 @@
+[SH7_ActionZone]
+neligan=Intruder
+

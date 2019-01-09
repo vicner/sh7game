@@ -1,0 +1,48 @@
+[intro_Sherlock_powells SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Missis Powell?"
+Subtitles[0]=(Text="Mrs. Powell?")
+Comment=""
+
+[intro_Sherlock_name SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="My name is Sherlock Holmes. I am assisting the police with their investigation of the crime that took place this evening."
+Subtitles[0]=(Text="My name is Sherlock Holmes. I am assisting the police with their investigation of the crime that took place this evening.")
+Comment=""
+
+[anyone_Sherlock_prior SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Did you see anyone else leaving Half Moon Street prior to, or at the time of the crime?"
+Subtitles[0]=(Text="Did you see anyone else leaving Half Moon Street prior to, or at the time of the crime?")
+Comment=""
+
+[statement_Sherlock_heard SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Could you tell us everything that you may have seen or heard?"
+Subtitles[0]=(Text="Could you tell us everything that you may have seen or heard?")
+Comment=""
+
+[shots_Sherlock_shots SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Missis Powell, did you hear the gun shots?"
+Subtitles[0]=(Text="Mrs. Powell, did you hear the gun shots?")
+Comment=""
+
+[statement_Sherlock_then SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And then?"
+Subtitles[0]=(Text="And then?")
+Comment=""
+

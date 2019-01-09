@@ -1,0 +1,80 @@
+[alltogether_Inspector_admit SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Gentlemen, we know everything about your \"association\" to kill Black Peter. Admit that you planned it together."
+Subtitles[0]=(Text="Gentlemen, we know everything about your \"association\" to kill Black Peter. Admit that you planned it together.")
+Comment=""
+
+[alltogether_Inspector_throw SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You needed to kill Peter Carey. There had to be two of you there."
+Subtitles[0]=(Text="You needed to kill Peter Carey. There had to be two of you there.")
+Comment=""
+
+[alltogether_Inspector_truth SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, it all seems very clear. Don't you think, Mister Holmes?"
+Subtitles[0]=(Text="Well, it all seems very clear. Don't you think, Mr. Holmes?")
+Comment=""
+
+[goodbye_Inspector_well SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Very well, Mister Holmes. Goodbye for now."
+Subtitles[0]=(Text="Very well, Mr. Holmes. Goodbye for now.")
+Comment=""
+
+[guilty2_Inspector_caught SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, we caught you lad!"
+Subtitles[0]=(Text="Well, we caught you lad!")
+Comment=""
+
+[guilty_Inspector_liar SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are a liar, Mister Neligan. It's all over now."
+Subtitles[0]=(Text="You are a liar, Mr. Neligan. It's all over now.")
+Comment=""
+
+[Hurtleyguilty_Inspector_judge SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You will explain that to the judge."
+Subtitles[0]=(Text="You will explain that to the judge.")
+Comment=""
+
+[Neliganguilty_Inspector_criminal SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, young man, it turns out you are the gang leader! I don't fancy your chances now."
+Subtitles[0]=(Text="Well, young man, it turns out you are the gang leader! I don't fancy your chances now.")
+Comment=""
+
+[peterattackHur_Inspector_calmdown SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Calm down and thank your stars that Mister Holmes just saved your neck."
+Subtitles[0]=(Text="Calm down and thank your stars that Mr. Holmes just saved your neck.")
+Comment=""
+
+[peterattackNel_Inspector_save SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You had better thank Mister Holmes for saving your neck, Neligan."
+Subtitles[0]=(Text="You had better thank Mr. Holmes for saving your neck, Neligan.")
+Comment=""
+

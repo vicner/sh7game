@@ -1,0 +1,11 @@
+[D14_Bucket_Croker SH7_DialogPhraseBucket]
+Topic="The Captain Crocker"
+QTETitle=""
+
+[D14_Bucket_ShipCompany SH7_DialogPhraseBucket]
+Topic="Digging the ship company office"
+QTETitle=""
+
+[D14 SH7_Dialog]
+Info="221B Baker Street - Archives"
+

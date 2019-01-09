@@ -1,0 +1,32 @@
+[BB_Cmt_Pitkin_md285 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I'm in shock. I don't want to talk."
+Subtitles[0]=(Text="I'm in shock. I don't want to talk.")
+Comment=""
+
+[BB_Cmt_Pitkin_md286 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="If you have to interrogate me, I'd like to be dressed properly first."
+Subtitles[0]=(Text="If you have to interrogate me, I'd like to be dressed properly first.")
+Comment=""
+
+[BB_Cmt_Pitkin_md287 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I feel ill, I want to go."
+Subtitles[0]=(Text="I feel ill, I want to go.")
+Comment=""
+
+[BB_Cmt_Pitkin_md303 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Do you have something else to ask me?"
+Subtitles[0]=(Text="Do you have something else to ask me?")
+Comment=""
+

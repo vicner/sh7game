@@ -1,0 +1,31 @@
+[D07 SH7_Dialog]
+Info="Doncaster Station"
+
+[D07_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D07_Bucket_nosuccess SH7_DialogPhraseBucket]
+Topic="nosuccess"
+QTETitle=""
+
+[D07_Bucket_bissness SH7_DialogPhraseBucket]
+Topic="What is your business here?"
+QTETitle=""
+
+[D07_Bucket_Mexique SH7_DialogPhraseBucket]
+Topic="I thought you were Mexican"
+QTETitle=""
+
+[D07_Bucket_MexiqueQTE SH7_DialogPhraseBucket]
+Topic="MexiqueQTE"
+QTETitle="Why Mexican?"
+
+[D07_Bucket_cigar SH7_DialogPhraseBucket]
+Topic="Mexican Cigars"
+QTETitle=""
+
+[D07_Bucket_Traidor SH7_DialogPhraseBucket]
+Topic="Traidor"
+QTETitle=""
+

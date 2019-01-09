@@ -1,0 +1,100 @@
+[allachieve Data_FDK_Achievement]
+LocName="Perfectionist"
+LocDescription="Collect all possible in-game achievements."
+
+[allconcl Data_FDK_Achievement]
+LocName="A Complex Mind"
+LocDescription="Reach all possible conclusions in the game."
+
+[altarcoop Data_FDK_Achievement]
+LocName="Raider of the Tombs"
+LocDescription="Retrieve the Golden Knife from the ancient temple of Mithras."
+
+[beatcairns Data_FDK_Achievement]
+LocName="Bruiser"
+LocDescription="Beat Cairns in a fight."
+
+[crocker Data_FDK_Achievement]
+LocName="Hold your Herrings, Captain!"
+LocDescription="Save Crocker from committing suicide."
+
+[dialogqte Data_FDK_Achievement]
+LocName="I Never Fail"
+LocDescription="Finish 10 Dialogue QTEs without a failure."
+
+[finishag Data_FDK_Achievement]
+LocName="Vox populi, vox Dei"
+LocDescription="Finish Abbey Grange case."
+
+[finishbb Data_FDK_Achievement]
+LocName="Blood and Ice"
+LocDescription="Finish Blood Bath case."
+
+[finishbp Data_FDK_Achievement]
+LocName="Aye Aye, Captain!"
+LocDescription="Finish Black Peter case."
+
+[finishgame Data_FDK_Achievement]
+LocName="Their Crimes, Your Punishments"
+LocDescription="Complete the game."
+
+[finishhm Data_FDK_Achievement]
+LocName="Guilty Brotherhood"
+LocDescription="Finish Half Moon case."
+
+[finishkg Data_FDK_Achievement]
+LocName="A Deadly Flower"
+LocDescription="Finish Kew Gardens case."
+
+[finishtrn Data_FDK_Achievement]
+LocName="Off the Rails!"
+LocDescription="Finish Train case."
+
+[maxperson Data_FDK_Achievement]
+LocName="A Man of Character"
+LocDescription="Receive maximum personality ranking."
+
+[Messages Data_FDK_Achievement]
+LocName="An Omnivorous Reader"
+LocDescription="Receive 3 messages from those whom you condemned or absolved."
+
+[mexican Data_FDK_Achievement]
+LocName="Sharpshooter"
+LocDescription="Disarm Mexican by shooting the gun from his hand."
+
+[minigames1 Data_FDK_Achievement]
+LocName="Child's Play!"
+LocDescription="Finish 25 mini games and puzzles without skipping."
+
+[minigames2 Data_FDK_Achievement]
+LocName="Elementary!"
+LocDescription="Finish 35 mini games and puzzles without skipping."
+
+[minigames3 Data_FDK_Achievement]
+LocName="My Grey Matters"
+LocDescription="Finish 45 mini games and puzzles without skipping."
+
+[Observation Data_FDK_Achievement]
+LocName="Keen Observer"
+LocDescription="Finish 15 \"Character Observations\" without skipping."
+
+[portraits Data_FDK_Achievement]
+LocName="A Methodical Man"
+LocDescription="Gather 26 Character Portraits."
+
+[rightconl Data_FDK_Achievement]
+LocName="I Never Guess"
+LocDescription="Reach 6 correct conclusions for all 6 cases."
+
+[thieves Data_FDK_Achievement]
+LocName="Haunted House"
+LocDescription="Catch the thieves at Notting Hill Manor."
+
+[tobyclick Data_FDK_Achievement]
+LocName="Dog-fancier"
+LocDescription="Interact with Toby in every case."
+
+[White Data_FDK_Achievement]
+LocName="Suicide is Not an Option!"
+LocDescription="Prevent Miss White from suicide."
+

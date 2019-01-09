@@ -1,0 +1,224 @@
+[freegivemoney_Sherlock_Goodbye SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I will deal with him. Goodbye."
+Subtitles[0]=(Text="I will deal with him. Goodbye.")
+Comment=""
+
+[arrest_Sherlock_lestrade SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] [eys_c type=lt v2=0.3] Indeed, it is the correct address. [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] [b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1.5 Easein=0.5] But in place of your Captain, may [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] I present to you Inspector [b_u type=quad v2=0.6 v3=0.6 Easeout=1 Duration=0.5 Easein=1] Lestrade [lc_u type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=1 Easein=1] [Wr type=quad v2=0.2 v3=0.2 Easeout=0.2 Duration=0.5 Easein=0.5] of [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] Scotland Yard."
+Subtitles[0]=(Text="Indeed, it is the correct address. But in place of your Captain, may I present to you Inspector Lestrade of Scotland Yard.")
+Comment=""
+
+[intro2_Sherlock_yes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes."
+Subtitles[0]=(Text="Yes.")
+Comment=""
+
+[intro2_Sherlock_talk SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="That is correct. We need to talk."
+Subtitles[0]=(Text="That is correct. We need to talk.")
+Comment=""
+
+[intro2_Sherlock_sherlock SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No, my name is Sherlock Holmes."
+Subtitles[0]=(Text="No, my name is Sherlock Holmes.")
+Comment=""
+
+[freegivemoney_Sherlock_money SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I will not say anything, as long as you return the money."
+Subtitles[0]=(Text="I will not say anything, as long as you return the money.")
+Comment=""
+
+[intro_Sherlock_ready SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.2 v3=0.2 Easeout=0.2 Duration=1.5 Easein=0.5] [ey_u type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=1 Easein=0.5] [m_o type=quad v2=0.1 v3=0.1 Easeout=1 Duration=1.5 Easein=1] [b_dc type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=1.5 Easein=2] [eys_c type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=1.5 Easein=2] [l_p type=quad v2=0.1 v3=0.1 Easeout=0.5 Duration=1.5 Easein=2] No. I just heard the front door. Prepare yourself."
+Subtitles[0]=(Text="No. I just heard the front door. Prepare yourself.")
+Comment=""
+
+[intro2_Sherlock_tobaccoo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The tobacco pouch. You recognised it."
+Subtitles[0]=(Text="The tobacco pouch. You recognised it.")
+Comment=""
+
+[intro_Sherlock_cairns SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.2 v3=0.2 Easeout=1 Duration=3 Easein=1] As I informed you on our way here, Patrick Cairns is the murderer of Black Peter."
+Subtitles[0]=(Text="As I informed you on our way here, Patrick Cairns is the murderer of Black Peter.")
+Comment=""
+
+[intro_Sherlock_12_sec SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_dc type=quad v2=0.2 v3=0.2 Easeout=1 Duration=2.5 Easein=2] [eys_c type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=2.5 Easein=0.5] [l_p type=quad v2=0.1 v3=0.1 Easeout=0.5 Duration=2.5 Easein=0.5] That would be futile, as he will be with us in approximately twelve seconds."
+Subtitles[0]=(Text="That would be futile, as he will be with us in approximately twelve seconds.")
+Comment=""
+
+[intro2_Sherlock_peter SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eys_c type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=2.5 Easein=0.5] [l_p type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=2.5 Easein=0.5] [n type=quad v2=0.2 v3=0.2 Easeout=2 Duration=1.5 Easein=2] About Black Peter, who was killed in his own hut with a harpoon."
+Subtitles[0]=(Text="About Black Peter, who was killed in his own hut with a harpoon.")
+Comment=""
+
+[freegivemoney_Sherlock_treasure SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I ask that you return the bond certificates. Keep some of them, you will need them in your exile. It is better that you leave the country for a few years."
+Subtitles[0]=(Text="I ask that you return the bond certificates. Keep some of them, you will need them in your exile. It is better that you leave the country for a few years.")
+Comment=""
+
+[intro2_Sherlock_story SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I know. Did you know about this story with the bond certificates... Did you [b_u type=quad v2=0.4 v3=0.4 Easeout=0.1 Duration=1.5 Easein=0.07] [ey_u type=quad v2=0.3 v3=0.3 Easeout=0.2 Duration=1.5 Easein=0.5] [m_o type=quad v2=0.1 v3=0.1 Easeout=0.2 Duration=2 Easein=0.2] need money?"
+Subtitles[0]=(Text="I know. Did you know about this story with the bond certificates... Did you need money?")
+Comment=""
+
+[lestrade_Sherlock_about SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="About what?"
+Subtitles[0]=(Text="About what?")
+Comment=""
+
+[lestrade_Sherlock_wiggins SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="His name is Wiggins, Inspector."
+Subtitles[0]=(Text="His name is Wiggins, Inspector.")
+Comment=""
+
+[lestrade_Sherlock_morgue SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The morgue."
+Subtitles[0]=(Text="The morgue.")
+Comment=""
+
+[lestrade_Sherlock_cake SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="His name is, or rather, was, Pablo Coventrao. He was also on the ship with Peter Carey, and he was a harpooner. I'll tell you everything, Inspector, but do calm down. Missis Hudson will bring us tea and orange cake."
+Subtitles[0]=(Text="His name is, or rather, was, Pablo Coventrao. He was also on the ship with Peter Carey, and he was a harpooner. I'll tell you everything, Inspector, but do calm down. Mrs. Hudson will bring us tea and orange cake.")
+Comment=""
+
+[loose_Sherlock_come SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.2 v3=0.2 Easeout=1 Duration=1.5 Easein=0.5] [ey_u type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=1 Easein=0.5] [m_o type=quad v2=0.1 v3=0.1 Easeout=1 Duration=1.5 Easein=1] If that had been the case, then Cairns wouldn't have come here."
+Subtitles[0]=(Text="If that had been the case, then Cairns wouldn't have come here.")
+Comment=""
+
+[loose_Sherlock_unfortunately SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[ls_uc type=quad v2=0.1 v3=0.1 Easeout=0.2 Duration=1.5 Easein=0.2] [n type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=1.5 Easein=0.5] [eyd type=quad v2=0.3 v3=0.3 Easeout=0.2 Duration=3 Easein=0.2] [b_d type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=2.5 Easein=0.5] Yes, unfortunately."
+Subtitles[0]=(Text="Yes, unfortunately.")
+Comment=""
+
+[loose_Sherlock_better SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eys_c type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=2.5 Easein=0.5] [l_p type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=2.5 Easein=0.5] How's your jaw, Inspector?"
+Subtitles[0]=(Text="How's your jaw, Inspector?")
+Comment=""
+
+[wakeup_Sherlock_how_are_you SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_uc type=quad v2=0.3 v3=0.3 Easeout=1 Duration=2 Easein=0.5] [ey_u type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=2.5 Easein=0.5] [m_ou type=quad v2=0.3 v3=0.3 Easeout=1 Duration=2.5 Easein=1] Lestrade, are you all right? Are you able to stand?"
+Subtitles[0]=(Text="Lestrade, are you all right? Are you able to stand?")
+Comment=""
+
+[neligan_Sherlock_time SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It would take far too long to explain."
+Subtitles[0]=(Text="It would take far too long to explain.")
+Comment=""
+
+[win_Sherlock_of_course SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Of course, Inspector. The case is closed."
+Subtitles[0]=(Text="Of course, Inspector. The case is closed.")
+Comment=""
+
+[neligan_Sherlock_yours SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I believe that this belongs to you."
+Subtitles[0]=(Text="I believe that this belongs to you.")
+Comment=""
+
+[neligan_Sherlock_good_luck SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Then that may serve as an explanation. Goodbye, Mister Neligan, and good luck!"
+Subtitles[0]=(Text="Then that may serve as an explanation. Goodbye, Mr. Neligan, and good luck!")
+Comment=""
+
+[wakeup_Sherlock_lucky SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eys_c type=quad v2=0.4 v3=0.4 Easeout=0.2 Duration=1.5 Easein=0.5] [l_p type=quad v2=0.1 v3=0.1 Easeout=0.2 Duration=1.5 Easein=0.5] Yes, he was lucky."
+Subtitles[0]=(Text="Yes, he was lucky.")
+Comment=""
+
+[win_Sherlock_easy SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.2 v3=0.2 Easeout=0.1 Duration=1.5 Easein=0.07] [ey_u type=quad v2=0.2 v3=0.2 Easeout=0.07 Duration=1 Easein=0.07] [m_o type=quad v2=0.1 v3=0.1 Easeout=1 Duration=1.5 Easein=1] It was remarkably easy. [b_u type=quad v2=0.2 v3=0.2 Easeout=0.1 Duration=1.5 Easein=0.07] He lost his balance after he struck you."
+Subtitles[0]=(Text="It was remarkably easy. He lost his balance after he struck you.")
+Comment=""
+
+[win_Sherlock_hospital SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We should call for a police cab, and then take you to the hospital."
+Subtitles[0]=(Text="We should call for a police cab, and then take you to the hospital.")
+Comment=""
+

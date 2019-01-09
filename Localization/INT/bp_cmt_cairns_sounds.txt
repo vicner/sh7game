@@ -1,0 +1,8 @@
+[BP_Cmt_Cairns_md039 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Care to lose 'nother ten shillings?"
+Subtitles[0]=(Text="Care to lose 'nother ten shillings?")
+Comment=""
+

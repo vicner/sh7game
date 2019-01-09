@@ -1,0 +1,19 @@
+[D01_Bucket_Goodbye SH7_DialogPhraseBucket]
+Topic="Goodbye"
+QTETitle=""
+
+[D01_Bucket_Silverware SH7_DialogPhraseBucket]
+Topic="I have the stolen silverware"
+QTETitle=""
+
+[D01_Bucket_Violence SH7_DialogPhraseBucket]
+Topic="Sir Eustace's reputation"
+QTETitle=""
+
+[D01_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D01 SH7_Dialog]
+Info="The Abbey Grange - Hall"
+

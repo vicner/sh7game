@@ -1,0 +1,19 @@
+[D12_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D12 SH7_Dialog]
+Info="221B Baker Street"
+
+[D12_Bucket_remember SH7_DialogPhraseBucket]
+Topic="Mycroft remembers you"
+QTETitle=""
+
+[D12_Bucket_beelover SH7_DialogPhraseBucket]
+Topic="A bee lover"
+QTETitle=""
+
+[D12_Bucket_MerryMen SH7_DialogPhraseBucket]
+Topic="The Merry Men"
+QTETitle=""
+

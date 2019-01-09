@@ -1,0 +1,48 @@
+[catch_Watson_about SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I did?"
+Subtitles[0]=(Text="I did?")
+Comment=""
+
+[catch_Watson_police SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Police! Police!"
+Subtitles[0]=(Text="Police! Police!")
+Comment=""
+
+[catch_Watson_stop SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Stop where you are!"
+Subtitles[0]=(Text="Stop where you are!")
+Comment=""
+
+[catch_Watson_they SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Where are they??"
+Subtitles[0]=(Text="Where are they??")
+Comment=""
+
+[catch_Watson_why SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="How so?"
+Subtitles[0]=(Text="How so?")
+Comment=""
+
+[safe_Watson_incredible SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Holmes, that is incredible! \"The Hellenistic Treasures\"!"
+Subtitles[0]=(Text="Holmes, that is incredible! \"The Hellenistic Treasures\"!")
+Comment=""
+

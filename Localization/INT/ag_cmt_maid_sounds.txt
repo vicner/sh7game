@@ -1,0 +1,24 @@
+[AG_Cmt_Maid_md030 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Please let Lady Brackenstall rest, she is exhausted!"
+Subtitles[0]=(Text="Please let Lady Brackenstall rest, she is exhausted!")
+Comment=""
+
+[AG_Cmt_Maid_md005 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Please, leave my Mary alone! She suffered so much, she deserves some rest!"
+Subtitles[0]=(Text="Please, leave my Mary alone! She suffered so much, she deserves some rest!")
+Comment=""
+
+[AG_Cmt_Maid_md004 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="My mistress is very tired, can't you allow her to her room?"
+Subtitles[0]=(Text="My mistress is very tired, can't you allow her to her room?")
+Comment=""
+

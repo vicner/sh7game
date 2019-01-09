@@ -1,0 +1,23 @@
+[D11_Bucket_intro3 SH7_DialogPhraseBucket]
+Topic="intro3"
+QTETitle=""
+
+[D11_Bucket_intro2 SH7_DialogPhraseBucket]
+Topic="intro2"
+QTETitle=""
+
+[D11_Bucket_doctor SH7_DialogPhraseBucket]
+Topic="You have to be SAVED"
+QTETitle=""
+
+[D11_Bucket_ArrestWhite SH7_DialogPhraseBucket]
+Topic="You are under arrest"
+QTETitle=""
+
+[D11_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D11 SH7_Dialog]
+Info="The Divine Syndicate - Indoors"
+

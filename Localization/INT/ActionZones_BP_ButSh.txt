@@ -1,0 +1,3 @@
+[SH7_ActionZone]
+nuf_nuf=Pig carcass
+

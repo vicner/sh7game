@@ -1,0 +1,15 @@
+[D13_Bucket_moralchoice6 SH7_DialogPhraseBucket]
+Topic="Foley's Robberies - Condemn Charles Foley"
+QTETitle=""
+
+[D13 SH7_Dialog]
+Info="Notting Hill Manor"
+
+[D13_Bucket_moralchoice5 SH7_DialogPhraseBucket]
+Topic="Foley's Robberies - Absolve Charles Foley"
+QTETitle=""
+
+[D13_Bucket_leave SH7_DialogPhraseBucket]
+Topic="leave"
+QTETitle=""
+

@@ -1,0 +1,120 @@
+[arrest_Cairns_hello SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[er type=quad v2=0.2 v3=0.2 Easeout=0.03 Duration=0.5 Easein=0.03] [b_u type=quad v2=0.6 v3=0.6 Easeout=1 Duration=1 Easein=1] Good day, [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] [lc_u type=quad v2=0.6 v3=0.6 Easeout=1 Duration=0.5 Easein=0.5] gentlemen. [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] [el type=quad v2=0.2 v3=0.2 Easeout=0.03 Duration=0.5 Easein=0.03] [b_dc type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1 Easein=0.5] A young lad gave me a note [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] from [b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1 Easein=0.5] Captain Ahab. [er type=quad v2=0.3 v3=0.3 Easeout=0.03 Duration=1 Easein=0.03] [eys_c type=lt v2=0.4] [b_u type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=1.5 Easein=0.2] Am I at the right address? [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] [el type=quad v2=0.5 v3=0.5 Easeout=0.03 Duration=1.5 Easein=0.03] [n type=quad v2=0.6 v3=0.6 Easeout=0.2 Duration=0.5 Easein=0.5] [b_u type=quad v2=0.6 v3=0.6 Easeout=1 Duration=1 Easein=0.5] Is it here?"
+Subtitles[0]=(Text="Good day, gentlemen. A young lad gave me a note from Captain Ahab. Am I at the right address? Is it here?")
+Comment=""
+
+[arrest_Cairns_means SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] [b_dc type=quad v2=0.7 v3=0.7 Easeout=0.5 Duration=2 Easein=0.5] [eys_u type=quad v2=0.6 v3=0.6 Easeout=0.07 Duration=2.5 Easein=1] [l_p type=quad v2=0.6 v3=0.6 Easeout=1 Duration=2 Easein=1] That [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] means..."
+Subtitles[0]=(Text="That means...")
+Comment=""
+
+[arrest_Cairns_take SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[A type=quad v2=1 v3=1 Easeout=0.2 Duration=2 Easein=1] And I say that we will!"
+Subtitles[0]=(Text="And I say that we will!")
+Comment=""
+
+[arrest_Cairns_trap SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=lt v2=1 Easeout=0.03] What... [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] [A type=quad v2=0.4 v3=0.4 Easeout=0.1 Duration=1.5 Easein=0.2] What! [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] [b_u type=quad v2=0.3 v3=0.3 Easeout=1 Duration=1 Easein=0.2] [ls_uc type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] A trap? [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] You [eb type=quad v2=1 v3=1 Easeout=0.1 Duration=0 Easein=0.1] think you can take [lc_u type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=1 Easein=1] [Wr type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=1 Easein=1] me?"
+Subtitles[0]=(Text="What... What! A trap? You think you can take me?")
+Comment=""
+
+[freegivemoney_Cairns_but SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But... what about Inspector Lestrade?"
+Subtitles[0]=(Text="But... what about Inspector Lestrade?")
+Comment=""
+
+[freegivemoney_Cairns_not_say SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And you will not say anything to the police?"
+Subtitles[0]=(Text="And you will not say anything to the police?")
+Comment=""
+
+[freegivemoney_Cairns_wish SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, I will do as you ask."
+Subtitles[0]=(Text="Well, I will do as you ask.")
+Comment=""
+
+[intro2_Cairns_confess SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.4 v3=0.4 Easeout=2 Duration=2 Easein=1] [ey_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1.5 Easein=1] [l_p type=quad v2=0.3 v3=0.3 Easeout=2 Duration=2 Easein=2] [eys_c type=quad v2=0.5 v3=0.5 Easeout=2 Duration=2 Easein=2] Ah... The sailor... It was you! Unbelievable... Well, fine. I confess. But if you really do know everything, you should also know that I didn't want to kill him. He made me do it."
+Subtitles[0]=(Text="Ah... The sailor... It was you! Unbelievable... Well, fine. I confess. But if you really do know everything, you should also know that I didn't want to kill him. He made me do it.")
+Comment=""
+
+[intro2_Cairns_famous SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.8 v3=0.8 Easeout=0.5 Duration=2 Easein=0.5] That... That detective fellow... So... you wanted to see me?"
+Subtitles[0]=(Text="That... That detective fellow... So... you wanted to see me?")
+Comment=""
+
+[intro2_Cairns_good_afternoon SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1.5 Easein=2] [ey_u type=quad v2=0.3 v3=0.3 Easeout=1 Duration=1.5 Easein=2] [m_o type=quad v2=0.1 v3=0.1 Easeout=1 Duration=2 Easein=1] Good afternoon. I must be at the wrong address? I'd like to speak with a ship's captain, a Captain Ahab. Is that you?"
+Subtitles[0]=(Text="Good afternoon. I must be at the wrong address? I'd like to speak with a ship's captain, a Captain Ahab. Is that you?")
+Comment=""
+
+[intro2_Cairns_how SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.8 v3=0.8 Easeout=0.5 Duration=1 Easein=0.5] How?"
+Subtitles[0]=(Text="How?")
+Comment=""
+
+[intro2_Cairns_know SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.8 v3=0.8 Easeout=0.5 Duration=1 Easein=0.5] You know, don't you?"
+Subtitles[0]=(Text="You know, don't you?")
+Comment=""
+
+[intro2_Cairns_mad SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But then he got mad [A type=quad v2=1 v3=1 Easeout=0.2 Duration=0 Easein=0.5] when I spoke about his \"treasure\"! I barely just had time to throw the harpoon at him before he could jump at me with his knife. You know the truth. [b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1.5 Easein=2] [ey_u type=quad v2=0.3 v3=0.3 Easeout=1 Duration=1.5 Easein=2] [m_o type=quad v2=0.1 v3=0.1 Easeout=1 Duration=2 Easein=1] What will you do now?"
+Subtitles[0]=(Text="But then he got mad when I spoke about his \"treasure\"! I barely just had time to throw the harpoon at him before he could jump at me with his knife. You know the truth. What will you do now?")
+Comment=""
+
+[intro2_Cairns_murder SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[ey_u type=quad v2=0.3 v3=0.3 Easeout=1 Duration=1.5 Easein=2] [m_o type=quad v2=0.1 v3=0.1 Easeout=1 Duration=2 Easein=1] [A type=quad v2=0.5 v3=0.5 Easeout=3 Duration=2.5 Easein=3] Yes. I just wanted him to cough up a little silver. I'm out of work, and I thought maybe he could help me. Well, [A type=quad v2=1 v3=1 Easeout=1 Duration=0 Easein=1] he refused outright and he insulted me. I reminded him I knew all about that murder he committed at sea in eighteen-eighty-three..."
+Subtitles[0]=(Text="Yes. I just wanted him to cough up a little silver. I'm out of work, and I thought maybe he could help me. Well, he refused outright and he insulted me. I reminded him I knew all about that murder he committed at sea in 1883...")
+Comment=""
+
+[intro2_Cairns_what SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[eys_c type=quad v2=0.4 v3=0.4 Easeout=0.2 Duration=1 Easein=0.2] [l_p type=lt] About what?"
+Subtitles[0]=(Text="About what?")
+Comment=""
+

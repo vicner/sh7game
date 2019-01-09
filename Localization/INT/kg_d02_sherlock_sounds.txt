@@ -1,0 +1,72 @@
+[SmokeBees_Sherlock_Intro003 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Hello Watson! You are early. Did you kill all of your patients?"
+Subtitles[0]=(Text="Hello Watson! You are early. Did you kill all of your patients?")
+Comment=""
+
+[SmokeBees_Sherlock_Intro2003 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I increased the temperature of the room so as to prevent them from hibernating. I needed to take a sample of honey."
+Subtitles[0]=(Text="I increased the temperature of the room so as to prevent them from hibernating. I needed to take a sample of honey.")
+Comment=""
+
+[SmokeBees_Sherlock_Intro2003b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But it worked, Watson! We will have honey all year round!"
+Subtitles[0]=(Text="But it worked, Watson! We will have honey all year round!")
+Comment=""
+
+[SmokeBees_Sherlock_Intro2005 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="They are domestic bees. Apis mellifera, such industrious workers!"
+Subtitles[0]=(Text="They are domestic bees. Apis mellifera, such industrious workers!")
+Comment=""
+
+[SmokeBees_Sherlock_Intro2006 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Anyway, Watson, I am sorry but I must leave you. I am in rather a hurry."
+Subtitles[0]=(Text="Anyway, Watson, I am sorry but I must leave you. I am in rather a hurry.")
+Comment=""
+
+[SmokeBees_Sherlock_Intro2009 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes, but nothing as thrilling as this experiment. A theft of plants at the Royal Botanic Gardens in Kew."
+Subtitles[0]=(Text="Yes, but nothing as thrilling as this experiment. A theft of plants at the Royal Botanic Gardens in Kew.")
+Comment=""
+
+[SmokeBees_Sherlock_Intro2009b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I am helping a minister who is an old friend of mine. You can join me, if you'd like."
+Subtitles[0]=(Text="I am helping a minister who is an old friend of mine. You can join me, if you'd like.")
+Comment=""
+
+[SmokeBees_Sherlock_Intro2011 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Watson! However did you guess?"
+Subtitles[0]=(Text="Watson! However did you guess?")
+Comment=""
+
+[SmokeBees_Sherlock_Intro2013 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ha, ha, ha! Since when did I become so transparent? Let us go!"
+Subtitles[0]=(Text="Ha, ha, ha! Since when did I become so transparent? Let us go!")
+Comment=""
+

@@ -1,0 +1,11 @@
+[D03_Bucket_Intro2 SH7_DialogPhraseBucket]
+Topic="Intro2"
+QTETitle=""
+
+[D03_Bucket_Intro1 SH7_DialogPhraseBucket]
+Topic="Intro1"
+QTETitle=""
+
+[D03 SH7_Dialog]
+Info="Strand Lane Baths - Steam Room"
+

@@ -1,0 +1,47 @@
+[D02_Bucket_blinded SH7_DialogPhraseBucket]
+Topic="blinded"
+QTETitle=""
+
+[D02_Bucket_flashrec SH7_DialogPhraseBucket]
+Topic="Check Leighton's words"
+QTETitle=""
+
+[D02_Bucket_lamprec SH7_DialogPhraseBucket]
+Topic="Hiding place"
+QTETitle=""
+
+[D02_Bucket_window SH7_DialogPhraseBucket]
+Topic="Mr. Turner's window"
+QTETitle=""
+
+[D02_Bucket_anything SH7_DialogPhraseBucket]
+Topic="Details in Half Moon"
+QTETitle=""
+
+[D02_Bucket_fireworks SH7_DialogPhraseBucket]
+Topic="Fireworks"
+QTETitle=""
+
+[D02_Bucket_shots SH7_DialogPhraseBucket]
+Topic="Shots"
+QTETitle=""
+
+[D02_Bucket_statement SH7_DialogPhraseBucket]
+Topic="Testimony"
+QTETitle=""
+
+[D02_Bucket_witnesses SH7_DialogPhraseBucket]
+Topic="Witnesses"
+QTETitle=""
+
+[D02_Bucket_victims SH7_DialogPhraseBucket]
+Topic="Victims"
+QTETitle=""
+
+[D02_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D02 SH7_Dialog]
+Info="Half Moon Street"
+

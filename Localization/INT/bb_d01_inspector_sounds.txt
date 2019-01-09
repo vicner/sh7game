@@ -1,0 +1,72 @@
+[Call_Inspector_mystery SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No, and that's why I called you. All three witnesses and the victim were locked in when the murder occurred, and they remained so until we got here."
+Subtitles[0]=(Text="No, and that's why I called you. All three witnesses and the victim were locked in when the murder occurred, and they remained so until we got here.")
+Comment=""
+
+[Call_Inspector_mystery2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We even had to pick the lock to enter!"
+Subtitles[0]=(Text="We even had to pick the lock to enter!")
+Comment=""
+
+[Intro1_Inspector_hurry SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I shall be waiting for you here, but please hurry."
+Subtitles[0]=(Text="I shall be waiting for you here, but please hurry.")
+Comment=""
+
+[Intro1_Inspector_murder SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="With a dreadful murder! The body of Sir Rodney Bentcliffe is still in the steam room. It has not been touched, per your usual instructions, mister Holmes."
+Subtitles[0]=(Text="With a dreadful murder! The body of Sir Rodney Bentcliffe is still in the steam room. It has not been touched, per your usual instructions, Mr. Holmes.")
+Comment=""
+
+[Intro2_Inspector_custody SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes! I should like to take the suspects to the Yard. You can interrogate them there. Any objections?"
+Subtitles[0]=(Text="Mr. Holmes! I should like to take the suspects to the Yard. You can interrogate them there. Any objections?")
+Comment=""
+
+[intro4_Inspector_wait SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes! We can't wait any longer, we have to be off. You'll find the suspects and all of their belongings at the Yard."
+Subtitles[0]=(Text="Mr. Holmes! We can't wait any longer, we have to be off. You'll find the suspects and all of their belongings at the Yard.")
+Comment=""
+
+[Suspects_Inspector_garrow SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I think that the plump one, Garrow, did it. He doesn't seem right in the head."
+Subtitles[0]=(Text="I think that the plump one, Garrow, did it. He doesn't seem right in the head.")
+Comment=""
+
+[Suspects_Inspector_pitkin SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes. The manager of the bath, Sir Gregory Pitkin. A lad from the city council, Garrow, and an archaeologist by the name of Blinkhorn."
+Subtitles[0]=(Text="Yes. The manager of the bath, Sir Gregory Pitkin. A lad from the city council, Garrow, and an archaeologist by the name of Blinkhorn.")
+Comment=""
+
+[Witnesses_Inspector_phillips SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Yes, a mister Phillips. He was the one who called the police. He will be able to give you more details."
+Subtitles[0]=(Text="Yes, a Mr Phillips. He was the one who called the police. He will be able to give you more details.")
+Comment=""
+

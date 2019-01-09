@@ -1,0 +1,72 @@
+[moralchoice5_sherlock_since SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The jeweller missed him, but they proceeded to kill each other with simultaneous shots."
+Subtitles[0]=(Text="The jeweller missed him, but they proceeded to kill each other with simultaneous shots.")
+Comment=""
+
+[moralchoice6_sherlock_punished SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You will be severely punished for your deeds."
+Subtitles[0]=(Text="You will be severely punished for your deeds.")
+Comment=""
+
+[moralchoice5_Sherlock_blood SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Charles Foley, you were a witness to a double murder. You were standing next to Vercotti when Butler fired at your accomplice."
+Subtitles[0]=(Text="Charles Foley, you were a witness to a double murder. You were standing next to Vercotti when Butler fired at your accomplice.")
+Comment=""
+
+[leave_Sherlock_business SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I have unfinished business. I'll see you at Baker Street."
+Subtitles[0]=(Text="I have unfinished business. I'll see you at Baker Street.")
+Comment=""
+
+[leave_Sherlock_leave SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I shall leave now, Watson. Gentlemen, please take our friends here into custody!"
+Subtitles[0]=(Text="I shall leave now, Watson. Gentlemen, please take our friends here into custody!")
+Comment=""
+
+[moralchoice5_sherlock_intend SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Even if your intention was to retrieve the stolen treasure, you did not intend to kill. I shall inform Inspector Lestrade of that fact, so your sentence should be the lighter."
+Subtitles[0]=(Text="Even if your intention was to retrieve the stolen treasure, you did not intend to kill. I shall inform Inspector Lestrade of that fact, so your sentence should be the lighter.")
+Comment=""
+
+[moralchoice6_sherlock_jail SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Save your words for the gallows. I am sure the journalists will love them."
+Subtitles[0]=(Text="Save your words for the gallows. I am sure the journalists will love them.")
+Comment=""
+
+[moralchoice6_sherlock_commited SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Charles Foley, you committed the crime of premeditated murder, and of theft."
+Subtitles[0]=(Text="Charles Foley, you committed the crime of premeditated murder, and of theft.")
+Comment=""
+
+[moralchoice5_sherlock_worry SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I do what I think is right. It is never due to pity. Farewell, Foley!"
+Subtitles[0]=(Text="I do what I think is right. It is never due to pity. Farewell, Foley!")
+Comment=""
+

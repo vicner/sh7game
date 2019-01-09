@@ -1,0 +1,24 @@
+[SH7_ActionZone]
+door=Door
+Analysis Table=Analysis table
+encyclopedias=Encyclopedias
+newspapers=Newspapers
+researches=Research
+Watson=Watson
+Toby=Toby
+Spiritlamp=Spirit lamp
+Test-tube=Test tube
+Sediment=Sediment
+Water=Water
+Place for Sample=Place for sample
+Pipette=Pipette
+Unknown liquid=Unknown liquid
+Gas burner=Gas burner
+Reagent=Reagent
+Carnivora=Dionaea carnivorus
+Sporeplant=Florem diabolica
+Worms=Catterpillars
+Thornplant=Carlina inebriare
+Alkaloid=Liquid with alkaloid
+Pin=Pin
+

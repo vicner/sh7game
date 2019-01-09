@@ -1,0 +1,8 @@
+[Intro_Sherlock_white SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Miss Margaret White, we are in possession of sufficient evidence to accuse you of the murder of Montague Dunne."
+Subtitles[0]=(Text="Miss Margaret White, we are in possession of sufficient evidence to accuse you of the murder of Montague Dunne.")
+Comment=""
+

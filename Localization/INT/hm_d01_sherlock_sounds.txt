@@ -1,0 +1,24 @@
+[bring_Sherlock_moment SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But for now, Wiggins, we need your help."
+Subtitles[0]=(Text="But for now, Wiggins, we need your help.")
+Comment=""
+
+[bring_Sherlock_london SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I need you to locate a circus that has stopped over in London. It needs to have disposed of at least one exotic animal. A very large one."
+Subtitles[0]=(Text="I need you to locate a circus that has stopped over in London. It needs to have disposed of at least one exotic animal. A very large one.")
+Comment=""
+
+[bring_Sherlock_good SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We have good news for you, Wiggins. The investigation has proven very interesting so far. We found facts and details that confirm your brother's innocence."
+Subtitles[0]=(Text="We have good news for you, Wiggins. The investigation has proven very interesting so far. We found facts and details that confirm your brother's innocence.")
+Comment=""
+

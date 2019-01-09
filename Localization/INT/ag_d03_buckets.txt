@@ -1,0 +1,19 @@
+[D03 SH7_Dialog]
+Info="The Abbey Grange - Morning Room"
+
+[D03_Bucket_Crime SH7_DialogPhraseBucket]
+Topic="Last night"
+QTETitle=""
+
+[D03_Bucket_Injuries SH7_DialogPhraseBucket]
+Topic="History of violence"
+QTETitle=""
+
+[D03_Bucket_Intro SH7_DialogPhraseBucket]
+Topic=""
+QTETitle=""
+
+[D03_Bucket_Silverware SH7_DialogPhraseBucket]
+Topic="Silverware"
+QTETitle=""
+

@@ -1,0 +1,20 @@
+[SH7_ActionZone]
+cairns=Patrick Cairns
+Clinking handcuffs=Clinking handcuffs
+Confident step=Confident step
+hudson=Mrs. Hudson
+Ninth step avoided=Ninth step avoided
+Inspector Lestrade=Inspector Lestrade
+Policeman=Policeman
+Patric_Cairns=Patric Cairns
+Place_1=Sofa
+Place_2=Table
+Place_3=Sherlock
+Paper with rules=Recipe
+Orange liquid=Orange reagent
+Blue liquid=Blue reagent
+Green liquid=Green reagent
+Colorless liquid=Colorless reagent
+Liguid=Reagent
+Flask=Flask
+

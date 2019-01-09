@@ -1,0 +1,8 @@
+[AG_Cmt__co SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Names and Places: Captain Jack Crocker, Abbey Grange, Rock of Gibraltar, Lady Brackenstall, Theresa, Sir Eustace, Adelaide-London Line, Sherlock Holmes, Dr. John Watson."
+Subtitles[0]=(Text="Names and Places: Captain Jack Crocker, Abbey Grange, Rock of Gibraltar, Lady Brackenstall, Theresa, Sir Eustace, Adelaide-London Line, Sherlock Holmes, Dr. John Watson.")
+Comment=""
+

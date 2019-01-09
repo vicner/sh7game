@@ -1,0 +1,32 @@
+[intro_Sherlock_thank SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Thank you, Lestrade."
+Subtitles[0]=(Text="Thank you, Lestrade.")
+Comment=""
+
+[intro_Sherlock_might SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Ah, who knows, Inspector..."
+Subtitles[0]=(Text="Ah, who knows, Inspector...")
+Comment=""
+
+[intro_Sherlock_inpector SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I am interested in the case of young Leighton Chapman. He was arrested earlier this evening and accused of a double murder."
+Subtitles[0]=(Text="I am interested in the case of young Leighton Chapman. He was arrested earlier this evening and accused of a double murder.")
+Comment=""
+
+[intro_Sherlock_anything SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Did you find anything else on his person?"
+Subtitles[0]=(Text="Did you find anything else on his person?")
+Comment=""
+

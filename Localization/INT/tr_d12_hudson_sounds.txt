@@ -1,0 +1,8 @@
+[beelover_Hudson_someone SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="There is someone to see you, Mister Holmes."
+Subtitles[0]=(Text="There is someone to see you, Mr. Holmes.")
+Comment=""
+

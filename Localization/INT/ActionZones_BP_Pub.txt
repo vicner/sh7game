@@ -1,0 +1,10 @@
+[SH7_ActionZone]
+cairns=Patrick Cairns
+Golden earring=Gold earring
+pocket=Cairns' jacket
+Poor clothes=Cheap clothes
+pouch=Tobacco pouch
+Sailors tatoo=Sailor's tattoo
+Strong hands=Strong hands
+Yellow nails=Yellow nails
+

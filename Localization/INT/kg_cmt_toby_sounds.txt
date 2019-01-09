@@ -1,0 +1,8 @@
+[KG_Cmt_Toby_co163 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Woof! Woof!"
+Subtitles[0]=(Text="Woof! Woof!")
+Comment=""
+

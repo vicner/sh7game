@@ -1,0 +1,24 @@
+[Arrest_Maid_innocent SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We are innocent! Madam!"
+Subtitles[0]=(Text="We are innocent! Madam!")
+Comment=""
+
+[Arrest_Maid_what SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="What? But that's impossible!"
+Subtitles[0]=(Text="What? But that's impossible!")
+Comment=""
+
+[NoArrest_Maid_nofault SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No! Madam, he's bluffing!"
+Subtitles[0]=(Text="No! Madam, he's bluffing!")
+Comment=""
+

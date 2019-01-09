@@ -1,0 +1,24 @@
+[intro3_Watson_poison SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I am afraid not. The poison has been fulgurating. Her heart stopped instantly. Poor child."
+Subtitles[0]=(Text="I am afraid not. The poison has been fulgurating. Her heart stopped instantly. Poor child.")
+Comment=""
+
+[intro3_Watson_horror SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="This is tragic, Holmes."
+Subtitles[0]=(Text="This is tragic, Holmes.")
+Comment=""
+
+[intro2_Watson_calm SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Miss White, you have no right to take your own life!"
+Subtitles[0]=(Text="Miss White, you have no right to take your own life!")
+Comment=""
+

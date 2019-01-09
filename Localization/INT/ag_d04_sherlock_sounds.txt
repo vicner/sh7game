@@ -1,0 +1,16 @@
+[intro_Sherlock_friend SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[Wr type=quad v2=0.3 v3=0.3 Easeout=1 Duration=2 Easein=1] Isn't that the fellow we found in the opium den, while I was undercover there, or am I mistaken?"
+Subtitles[0]=(Text="Isn't that the fellow we found in the opium den, while I was undercover there, or am I mistaken?")
+Comment=""
+
+[intro_Sherlock_then SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=0.5 Easein=0.5] In that case I shall continue the investigation alone."
+Subtitles[0]=(Text="In that case I shall continue the investigation alone.")
+Comment=""
+

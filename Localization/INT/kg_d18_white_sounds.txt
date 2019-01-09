@@ -1,0 +1,8 @@
+[Intro_White_prove SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Gentlemen, you are wrong and it will be easy to prove my innocence."
+Subtitles[0]=(Text="Gentlemen, you are wrong and it will be easy to prove my innocence.")
+Comment=""
+

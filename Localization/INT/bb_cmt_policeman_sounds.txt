@@ -1,0 +1,24 @@
+[BB_Cmt_Policeman_md001 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The steam room is on the other side, Mister Holmes."
+Subtitles[0]=(Text="The steam room is on the other side, Mr. Holmes.")
+Comment=""
+
+[BB_Cmt_Policeman_md098 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Good day to you, Mister Holmes!"
+Subtitles[0]=(Text="Good day to you, Mr. Holmes!")
+Comment=""
+
+[BB_Cmt_Policeman_md100 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Mister Holmes, the coroner asked not to be disturbed."
+Subtitles[0]=(Text="Mr. Holmes, the coroner asked not to be disturbed.")
+Comment=""
+

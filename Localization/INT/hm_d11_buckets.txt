@@ -1,0 +1,15 @@
+[D11 SH7_Dialog]
+Info="Notting Hill Manor"
+
+[D11_Bucket_catch SH7_DialogPhraseBucket]
+Topic="catch"
+QTETitle=""
+
+[D11_Bucket_mycroft SH7_DialogPhraseBucket]
+Topic="mycroft"
+QTETitle=""
+
+[D11_Bucket_safe SH7_DialogPhraseBucket]
+Topic="safe"
+QTETitle=""
+

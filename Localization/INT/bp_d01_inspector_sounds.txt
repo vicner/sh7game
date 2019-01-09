@@ -1,0 +1,16 @@
+[presentation_Inspector_wait SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[D type=quad v2=0.9 v3=0.9 Easeout=0.5 Duration=2.5 Easein=0.2] I'll wait for you in front of the cabin, Mister Holmes."
+Subtitles[0]=(Text="I'll wait for you in front of the cabin, Mr. Holmes.")
+Comment=""
+
+[presentation_Inspector_introduce SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=3 Easein=1] [ey_u type=quad v2=0.7 v3=0.7 Easeout=1 Duration=3 Easein=1] As soon as we can, Missis Carey, I assure you. Allow me to introduce you to Mister Sherlock Holmes. He is a detective. No doubt you have heard of him."
+Subtitles[0]=(Text="As soon as we can, Mrs. Carey, I assure you. Allow me to introduce you to Mr. Sherlock Holmes. He is a detective. No doubt you have heard of him.")
+Comment=""
+

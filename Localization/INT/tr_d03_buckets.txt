@@ -1,0 +1,35 @@
+[D03_Bucket_map SH7_DialogPhraseBucket]
+Topic="Railway Map"
+QTETitle=""
+
+[D03_Bucket_small_caban SH7_DialogPhraseBucket]
+Topic="Disassembled warehouse"
+QTETitle=""
+
+[D03_Bucket_station SH7_DialogPhraseBucket]
+Topic="Bridlington station"
+QTETitle=""
+
+[D03_Bucket_trainspecial SH7_DialogPhraseBucket]
+Topic="Special wagon"
+QTETitle=""
+
+[D03_Bucket_anomaly SH7_DialogPhraseBucket]
+Topic="Anything unusual yesterday?"
+QTETitle=""
+
+[D03_Bucket_passagers SH7_DialogPhraseBucket]
+Topic="Passengers of the train"
+QTETitle=""
+
+[D03_Bucket_train SH7_DialogPhraseBucket]
+Topic="Information about train"
+QTETitle=""
+
+[D03_Bucket_Intro SH7_DialogPhraseBucket]
+Topic="Intro"
+QTETitle=""
+
+[D03 SH7_Dialog]
+Info="Evesham Station"
+

@@ -1,0 +1,19 @@
+[D13_Bucket_neliganhurtley SH7_DialogPhraseBucket]
+Topic="Neligan and Hurtley"
+QTETitle=""
+
+[D13_Bucket_liamhurtley SH7_DialogPhraseBucket]
+Topic="Liam Hurtley"
+QTETitle=""
+
+[D13_Bucket_johnneligan SH7_DialogPhraseBucket]
+Topic="John Neligan"
+QTETitle=""
+
+[D13_Bucket_case SH7_DialogPhraseBucket]
+Topic="The case is solved"
+QTETitle=""
+
+[D13 SH7_Dialog]
+Info="Scotland Yard - Office"
+

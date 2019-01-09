@@ -1,0 +1,19 @@
+[D09_Bucket_intro4 SH7_DialogPhraseBucket]
+Topic="intro4"
+QTETitle=""
+
+[D09_Bucket_intro3 SH7_DialogPhraseBucket]
+Topic="intro3"
+QTETitle=""
+
+[D09_Bucket_intro2 SH7_DialogPhraseBucket]
+Topic="intro2"
+QTETitle=""
+
+[D09_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D09 SH7_Dialog]
+Info="221B Baker Street"
+

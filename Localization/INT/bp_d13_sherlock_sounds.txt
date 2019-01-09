@@ -1,0 +1,88 @@
+[liamhurtley_Sherlock_hurtley SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It was [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] Liam Hurtley."
+Subtitles[0]=(Text="It was Liam Hurtley.")
+Comment=""
+
+[neliganhurtley_Sherlock_reasons SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[ey_u type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=0.5 Easein=0.2] It was a combination of two motives, culminating in [b_u type=quad v2=0.5 v3=0.5 Easeout=0.5 Duration=1 Easein=0.5] one crime."
+Subtitles[0]=(Text="It was a combination of two motives, culminating in one crime.")
+Comment=""
+
+[neliganhurtley_Sherlock_two_culprits SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="There are two culprits, Inspector: [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] Neligan and Hurtley."
+Subtitles[0]=(Text="There are two culprits, Inspector: Neligan and Hurtley.")
+Comment=""
+
+[neliganhurtley_Sherlock_natural SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The second was a crime of [b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=1 Easein=0.2] passion: Liam Hurtley was [eys_c type=quad v2=0.2 v3=0.2 Easeout=0.5 Duration=0.5 Easein=0.2] in love with Black Peter's wife, and this caused a conflict between him and Carey."
+Subtitles[0]=(Text="The second was a crime of passion: Liam Hurtley was in love with Black Peter's wife, and this caused a conflict between him and Carey.")
+Comment=""
+
+[case_Sherlock_solved SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The case is solved. I am [b_u type=quad v2=0.6 v3=0.6 Easeout=1 Duration=1 Easein=0.2] now ready to present the guilty party."
+Subtitles[0]=(Text="The case is solved. I am now ready to present the guilty party.")
+Comment=""
+
+[liamhurtley_Sherlock_lover SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="He was [b_u type=quad v2=0.4 v3=0.4 Easeout=1 Duration=1 Easein=0.5] in love with Judith Carey. It caused a conflict that proved fatal for her husband."
+Subtitles[0]=(Text="He was in love with Judith Carey. It caused a conflict that proved fatal for her husband.")
+Comment=""
+
+[neliganhurtley_Sherlock_treasure SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The first was revenge. Black Peter possessed the bond certificates that had belonged to Neligan's father, and young Neligan wished to [b_u type=quad v2=0.4 v3=0.4 Easeout=0.5 Duration=0.5 Easein=0.5] retrieve them."
+Subtitles[0]=(Text="The first was revenge. Black Peter possessed the bond certificates that had belonged to Neligan's father, and young Neligan wished to retrieve them.")
+Comment=""
+
+[johnneligan_Sherlock_neligan SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It was [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] John Neligan, Inspector."
+Subtitles[0]=(Text="It was John Neligan, Inspector.")
+Comment=""
+
+[johnneligan_Sherlock_revenge SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="[b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] [eyd type=quad v2=0.3 v3=0.3 Easeout=0.5 Duration=0.5 Easein=0.2] A revenge, Inspector. Black Peter possessed the bond certificates that had belonged to Neligan's father, [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=0.5] and young Neligan wished to retrieve them."
+Subtitles[0]=(Text="Revenge, Inspector. Black Peter possessed the bond certificates that had belonged to Neligan's father, and young Neligan wished to retrieve them.")
+Comment=""
+
+[neliganhurtley_Sherlock_confrontation SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I suggest that you organise a small confrontation between the two, [b_u type=quad v2=0.5 v3=0.5 Easeout=1 Duration=1 Easein=1] just to confirm my accusations."
+Subtitles[0]=(Text="I suggest that you organise a small confrontation between the two, just to confirm my accusations.")
+Comment=""
+
+[johnneligan_Sherlock_accompany SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I will accompany you, Inspector."
+Subtitles[0]=(Text="I will accompany you, Inspector.")
+Comment=""
+

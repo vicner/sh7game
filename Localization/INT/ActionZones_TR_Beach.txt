@@ -1,0 +1,19 @@
+[SH7_ActionZone]
+Traces=Heavy vehicle traces
+Advertising=Boat trip advertisement
+Archives=Portable archives
+Boat=Boat
+Wreck=Wrecked caravan
+Cab=Cab
+DM_Coastline=Coastline
+DM_Garbage=Refuse left on the sand
+DM_Metal=Metal plate
+GarbageBeach=Refuse
+Label=Metal label
+inscription=Inscription
+Stone=Stone
+Metal_boat_label=Metal boat label
+Horse_tracks=Horse tracks
+Deep_tracks=Heavy vehicle traces
+Tracks=Tracks
+

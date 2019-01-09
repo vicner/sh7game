@@ -1,0 +1,63 @@
+[D05 SH7_Dialog]
+Info="Scotland Yard - Interrogation Room"
+
+[D05_Bucket_Champagne SH7_DialogPhraseBucket]
+Topic="Champagne"
+QTETitle=""
+
+[D05_Bucket_Knife SH7_DialogPhraseBucket]
+Topic="The Golden Knife"
+QTETitle=""
+
+[D05_Bucket_Pitkin SH7_DialogPhraseBucket]
+Topic="Pitkin"
+QTETitle=""
+
+[D05_Bucket_Hello SH7_DialogPhraseBucket]
+Topic="Good day"
+QTETitle=""
+
+[D05_Bucket_PitkinQTE SH7_DialogPhraseBucket]
+Topic="Works"
+QTETitle=""
+
+[D05_Bucket_Drug SH7_DialogPhraseBucket]
+Topic="Drug"
+QTETitle=""
+
+[D05_Bucket_PitkinIntro SH7_DialogPhraseBucket]
+Topic="Your Work"
+QTETitle=""
+
+[D05_Bucket_Detail SH7_DialogPhraseBucket]
+Topic="Anything unusual?"
+QTETitle=""
+
+[D05_Bucket_PitkinIntro_well SH7_DialogPhraseBucket]
+Topic="Your Work_well"
+QTETitle="Work progress"
+
+[D05_Bucket_Mithras SH7_DialogPhraseBucket]
+Topic="Mithras"
+QTETitle=""
+
+[D05_Bucket_Profession SH7_DialogPhraseBucket]
+Topic="Profession"
+QTETitle=""
+
+[D05_Bucket_Relation SH7_DialogPhraseBucket]
+Topic="Sir Rodney"
+QTETitle=""
+
+[D05_Bucket_Ring SH7_DialogPhraseBucket]
+Topic="Ring"
+QTETitle=""
+
+[D05_Bucket_Silver SH7_DialogPhraseBucket]
+Topic="Melted Silver"
+QTETitle=""
+
+[D05_Bucket_Witness SH7_DialogPhraseBucket]
+Topic="What did you see?"
+QTETitle=""
+

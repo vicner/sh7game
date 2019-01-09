@@ -1,0 +1,8 @@
+[KG_Cmt_Guru_md132 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Follow my path, and better you will feel!"
+Subtitles[0]=(Text="Follow my path, and better you will feel!")
+Comment=""
+

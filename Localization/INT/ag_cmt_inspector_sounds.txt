@@ -1,0 +1,48 @@
+[AG_Cmt_Inspector_md032 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Have you found any interesting clues yet, Mister Holmes?"
+Subtitles[0]=(Text="Have you found any interesting clues yet, Mr. Holmes?")
+Comment=""
+
+[AG_Cmt_Inspector_md028 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="So it was the Randall gang, wasn't it, Mister Holmes?"
+Subtitles[0]=(Text="So it was the Randall gang, wasn't it, Mr Holmes?")
+Comment=""
+
+[AG_Cmt_Inspector_md012 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="We have to arrest Lady Brackenstall and her maid."
+Subtitles[0]=(Text="We have to arrest Lady Brackenstall and her maid.")
+Comment=""
+
+[AG_Cmt_Inspector_md003 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I have searched outside for footprints without any luck."
+Subtitles[0]=(Text="I have searched outside for footprints without any luck.")
+Comment=""
+
+[AG_Cmt_Inspector_md002 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The body is still in the dining-room, where the murder took place."
+Subtitles[0]=(Text="The body is still in the dining-room, where the murder took place.")
+Comment=""
+
+[AG_Cmt_Inspector_md001 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Lady Brackenstall awaits you in the morning-room."
+Subtitles[0]=(Text="Lady Brackenstall awaits you in the morning-room.")
+Comment=""
+

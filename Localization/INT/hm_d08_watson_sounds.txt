@@ -1,0 +1,16 @@
+[disguise_Watson_stay SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Stay where you are! What are you doing here? And where is Sherlock Holmes?"
+Subtitles[0]=(Text="Stay where you are! What are you doing here? And where is Sherlock Holmes?")
+Comment=""
+
+[disguise_Watson_thank SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Thank God, Holmes! I can't get used to your disguises!"
+Subtitles[0]=(Text="Thank God, Holmes! I can't get used to your disguises!")
+Comment=""
+

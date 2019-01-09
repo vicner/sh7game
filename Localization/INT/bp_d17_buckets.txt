@@ -1,0 +1,7 @@
+[D17_Bucket_intro SH7_DialogPhraseBucket]
+Topic="intro"
+QTETitle=""
+
+[D17 SH7_Dialog]
+Info="Woodman's Lee"
+

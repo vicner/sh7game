@@ -1,0 +1,8 @@
+[SmallGreenHouse_Watson_director SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are not sure, then? But you are the Deputy Director!"
+Subtitles[0]=(Text="You are not sure, then? But you are the Deputy Director!")
+Comment=""
+

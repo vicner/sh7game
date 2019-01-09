@@ -1,0 +1,71 @@
+[D01_Bucket_bodyfound SH7_DialogPhraseBucket]
+Topic="When was the body found"
+QTETitle=""
+
+[D01_Bucket_loss SH7_DialogPhraseBucket]
+Topic="Pilgrimage"
+QTETitle=""
+
+[D01_Bucket_letters_qte SH7_DialogPhraseBucket]
+Topic="Letters"
+QTETitle="Affinity with Liam Hurtley"
+
+[D01_Bucket_papers SH7_DialogPhraseBucket]
+Topic="Peter's private papers"
+QTETitle=""
+
+[D01_Bucket_shed SH7_DialogPhraseBucket]
+Topic="Access to garden tools"
+QTETitle=""
+
+[D01_Bucket_loss_intro SH7_DialogPhraseBucket]
+Topic="Everything will become easier"
+QTETitle="I believe that everything will become easier"
+
+[D01_Bucket_pouch SH7_DialogPhraseBucket]
+Topic="Was Peter a smoker"
+QTETitle=""
+
+[D01_Bucket_loss_qte SH7_DialogPhraseBucket]
+Topic="Loss"
+QTETitle="How do you know about Plymouth?"
+
+[D01_Bucket_visitors SH7_DialogPhraseBucket]
+Topic="Did he have visitors"
+QTETitle=""
+
+[D01 SH7_Dialog]
+Info="Woodman's Lee"
+
+[D01_Bucket_gardener SH7_DialogPhraseBucket]
+Topic="Is there a gardener"
+QTETitle=""
+
+[D01_Bucket_QTE_fail SH7_DialogPhraseBucket]
+Topic="Fail"
+QTETitle=""
+
+[D01_Bucket_unusual SH7_DialogPhraseBucket]
+Topic="Anything unusual that night"
+QTETitle=""
+
+[D01_Bucket_letters_intro SH7_DialogPhraseBucket]
+Topic="You and Liam Hurtley"
+QTETitle="What kind of person is Hurtley?"
+
+[D01_Bucket_letters SH7_DialogPhraseBucket]
+Topic="Letters"
+QTETitle=""
+
+[D01_Bucket_lastnight SH7_DialogPhraseBucket]
+Topic="Evening before the murder"
+QTETitle=""
+
+[D01_Bucket_hurtley SH7_DialogPhraseBucket]
+Topic="Liam Hurtley"
+QTETitle=""
+
+[D01_Bucket_presentation SH7_DialogPhraseBucket]
+Topic="presentation"
+QTETitle=""
+

@@ -1,0 +1,64 @@
+[alltogether_Neligan_notsee SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But I just told you, I've never seen this man before!"
+Subtitles[0]=(Text="But I just told you, I've never seen this man before!")
+Comment=""
+
+[alltogether_Neligan_madman SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Shut up! You are a lunatic!"
+Subtitles[0]=(Text="Shut up! You are a lunatic!")
+Comment=""
+
+[alltogether_Neligan_no SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Our association? I don't even know this man!"
+Subtitles[0]=(Text="Our association? I don't even know this man!")
+Comment=""
+
+[guilty_Neligan_impossible SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No! I didn't kill him!"
+Subtitles[0]=(Text="No! I didn't kill him!")
+Comment=""
+
+[guilty_Neligan_wrong SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But that's not true!"
+Subtitles[0]=(Text="But that's not true!")
+Comment=""
+
+[Hurtleyguilty_Neligan_wrong SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You are wrong. I have nothing whatsoever to do with this!"
+Subtitles[0]=(Text="You are wrong. I have nothing whatsoever to do with this!")
+Comment=""
+
+[Neliganguilty_Neligan_wrong SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You've got it wrong!  It isn't true!"
+Subtitles[0]=(Text="You've got it wrong!  It isn't true!")
+Comment=""
+
+[peterattackNel_Neligan_no SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="No, I didn't kill anyone! You have it all wrong!"
+Subtitles[0]=(Text="No, I didn't kill anyone! You have it all wrong!")
+Comment=""
+

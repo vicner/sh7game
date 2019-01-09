@@ -1,0 +1,24 @@
+[ShipCompany_Sherlock_address SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The shipping company, the \"Adelaide-Southampton-London Line\" and its address. Interesting. It must be the place where they keep the records, including the one for the crew of the \"Rock of Gibraltar.\""
+Subtitles[0]=(Text="The shipping company, the \"Adelaide-Southampton-London Line\" and its address. Interesting. It must be the place where they keep the records, including the one for the crew of the \"Rock of Gibraltar.\"")
+Comment=""
+
+[ShipCompany_Sherlock_doubt SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="But I have another solution. I'll call in the specialists..."
+Subtitles[0]=(Text="But I have another solution. I'll call in the specialists...")
+Comment=""
+
+[Croker_Sherlock_meet SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It would be interesting to meet him. Our young friend should be able to find him."
+Subtitles[0]=(Text="It would be interesting to meet him. Our young friend should be able to find him.")
+Comment=""
+

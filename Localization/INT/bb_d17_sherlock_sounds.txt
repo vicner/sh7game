@@ -1,0 +1,120 @@
+[Cold_Sherlock_cold SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Sir Gregory, I would ask that you listen carefully to what I am intending to reveal to Inspector Lestrade."
+Subtitles[0]=(Text="Sir Gregory, I would ask that you listen carefully to what I am intending to reveal to Inspector Lestrade.")
+Comment=""
+
+[Cold_Sherlock_cold2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="You murdered Sir Rodney Bentcliffe in cold blood, and you did it for money."
+Subtitles[0]=(Text="You murdered Sir Rodney Bentcliffe in cold blood, and you did it for money.")
+Comment=""
+
+[Cold_Sherlock_death2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="May you be a fraction more inspired before you meet the hangman. Farewell, Sir Gregory."
+Subtitles[0]=(Text="May you be a fraction more inspired before you meet the hangman. Farewell, Sir Gregory.")
+Comment=""
+
+[Cold_Sherlock_death SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Well, I didn't expect you to possess much in the way of courage."
+Subtitles[0]=(Text="Well, I didn't expect you to possess much in the way of courage.")
+Comment=""
+
+[Cold_Sherlock_ghost SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I am afraid that it is. The ingenious 'ghost' weapon that you used only served to prove the premeditation."
+Subtitles[0]=(Text="I am afraid that it is. The ingenious 'ghost' weapon that you used only served to prove the premeditation.")
+Comment=""
+
+[Cold_Sherlock_me SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="And eventually, of course, it brought me too."
+Subtitles[0]=(Text="And eventually, of course, it brought me too.")
+Comment=""
+
+[Cold_Sherlock_press SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="It was a spectacular felony; one that intrigued the police and encouraged the Press."
+Subtitles[0]=(Text="It was a spectacular felony; one that intrigued the police and encouraged the Press.")
+Comment=""
+
+[Cold_Sherlock_press2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Scandal is an excellent means of bringing the public's attention to your baths."
+Subtitles[0]=(Text="Scandal is an excellent means of bringing the public's attention to your baths.")
+Comment=""
+
+[Helpless_Sherlock_know SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="I know that you killed Sir Rodney Bentcliffe."
+Subtitles[0]=(Text="I know that you killed Sir Rodney Bentcliffe.")
+Comment=""
+
+[Helpless_Sherlock_master SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Strictly between you and me, Sir Gregory, I admit that you played a masterstroke with your 'ghost' weapon."
+Subtitles[0]=(Text="Strictly between you and me, Sir Gregory, I admit that you played a masterstroke with your 'ghost' weapon.")
+Comment=""
+
+[Helpless_Sherlock_safe SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="That is not to say I support the crime. However, you are safe with me."
+Subtitles[0]=(Text="That is not to say I support the crime. However, you are safe with me.")
+Comment=""
+
+[Helpless_Sherlock_trust SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Would you rather I change my mind? I trust that you will preserve the tranquillity of these baths in the future, Sir. Gregory."
+Subtitles[0]=(Text="Would you rather I change my mind? I trust that you will preserve the tranquillity of these baths in the future, Sir. Gregory.")
+Comment=""
+
+[Helpless_Sherlock_speak SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="Lestrade? If I might have a word with you, please..."
+Subtitles[0]=(Text="Lestrade? If I might have a word with you, please...")
+Comment=""
+
+[Helpless_Sherlock_version SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="The police shall hear my version of the facts. The one that shall reveal Sir Rodney's true nature."
+Subtitles[0]=(Text="The police shall hear my version of the facts. The one that shall reveal Sir Rodney's true nature.")
+Comment=""
+
+[Helpless_Sherlock_version2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="He was a genuine adversary, was he not, Sir Gregory? He was corrupt."
+Subtitles[0]=(Text="He was a genuine adversary, was he not, Sir Gregory? He was corrupt.")
+Comment=""
+

@@ -1,0 +1,7 @@
+[D04 SH7_Dialog]
+Info="Scotland Yard - Evidence Room"
+
+[D04_Bucket_Intro3 SH7_DialogPhraseBucket]
+Topic="Intro3"
+QTETitle=""
+
